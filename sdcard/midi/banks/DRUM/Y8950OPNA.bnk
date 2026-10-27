@@ -1,0 +1,42 @@
+
+[Header]
+Type=RHYTHM
+BankName=Y8950 & OPNA Set
+[Bank]
+Note35=Acoustic Bass D,OPNA_R,0,0,35,0,0
+Note36=Bass Drum 1,ADPCM:1,1,0,57:0,0,0
+Note37=Side Stick,OPNA_R,0,5,37,0,0
+Note38=Acoustic Snare,Y8950:0:2,5,30,65:0,0,0
+Note39=Hand Clap,ADPCM:1,1,46,57:0,0,0
+Note40=Electric Snare,ADPCM:1,1,2,57:0,0,0
+Note41=Low Floor Tom,Y8950:0:2,5,31,52:0,0,0
+Note42=Closed Hi Hat,OPNA:0:6,42,3,0,0,3
+Note43=High Floor Tom,Y8950:0:2,5,31,54:0,0,0
+Note44=Pedal Hi-Hat,OPNA_R,0,3,44,0,0
+Note45=Low Tom,Y8950:0:2,5,31,56:0,0,0
+Note46=Open Hi-Hat,ADPCM:0,0,10,57:0,0,20
+Note47=Low-Mid Tom,Y8950:0:2,5,31,58:0,0,0
+Note48=Hi-Mid Tom,Y8950:0:2,5,31,60:0,0,0
+Note49=Crash Cymbal 1,ADPCM:0,0,12,57:0,0,0
+Note50=High Tom,Y8950,5,31,62:0,0,0
+Note51=Ride Cymbal 1,OPNA_R,0,2,51,0,0
+Note52=Chinese Cymbal,ADPCM:0,0,13,45:0,0,0
+Note53=Ride Bell,ADPCM:0,0,36,45:0,0,0
+Note55=Splash Cymbal,ADPCM:0,0,13,57:0,0,0
+Note56=Cowbell,Y8950,5,28,89:0,0,4
+Note57=Crash Cymbal 2,ADPCM:0,0,37,57:0,0,0
+Note59=Ride Cymbal 2,ADPCM:0,0,11,57:0,0,0
+Note60=Hi Bongo,Y8950,5,98,63:0,0,8
+Note61=Low Bongo,Y8950,5,98,57:0,0,8
+Note62=Mute Hi Conga,ADPCM:1,1,24,57:0,0,0
+Note63=Open Hi Conga,ADPCM:1,1,24,57:0,0,0
+Note64=Low Conga,ADPCM:1,1,23,57:0,0,0
+Note65=High Timbale,ADPCM:0,0,22,57:0,0,0
+Note66=Low Timbale,ADPCM:0,0,21,57:0,0,0
+Note67=High Agogo,ADPCM:1,1,20,57:0,0,0
+Note68=Low Agogo,ADPCM:1,1,19,57:0,0,0
+Note69=Cabasa,ADPCM:1,1,27,57:0,0,0
+Note71=Short Whistle,ADPCM:1,1,30,62:0,0,20
+Note72=Long Whistle,ADPCM:1,1,30,57:0,0,0
+Note76=High Wood Block,ADPCM:1,1,38,62:0,0,0
+Note77=Low Wood Block,ADPCM:1,1,38,52:0,0,0

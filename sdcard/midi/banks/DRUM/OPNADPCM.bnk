@@ -1,0 +1,44 @@
+[Header]
+Type=RHYTHM
+BankName=OPNA Internal & ADPCM Set
+
+[Bank]
+Note35=Acoustic Bass Drum,OPNA_R,0,0,0,0,0
+Note36=Bass Drum 1,ADPCM,0,0,57:0,0,0
+Note37=Side Stick,OPNA_R,0,5,0,0,0
+Note38=Acoustic Snare,OPNA_R,0,1,0,0,0
+Note39=Hand Clap,ADPCM,0,46,57:0,0,0
+Note40=Electric Snare,ADPCM,0,2,57:0,0,0
+Note41=Low Floor Tom,ADPCM,0,3,47:0,0,0
+Note42=Closed Hi Hat,ADPCM,0,9,57:0,0,0
+Note43=High Floor Tom,ADPCM,0,3,52:0,0,0
+Note44=Pedal Hi-Hat,OPNA_R,0,3,0,0,0
+Note45=Low Tom,ADPCM,0,3,57:0,0,0
+Note46=Open Hi-Hat,ADPCM,0,10,57:0,0,0
+Note47=Low-Mid Tom,ADPCM,0,4,52:0,0,0
+Note48=Hi-Mid Tom,ADPCM,0,4,57:0,0,0
+Note49=Crash Cymbal 1,ADPCM,0,12,57,0,0
+Note50=High Tom,ADPCM,0,5,57:0,0,0
+Note51=Ride Cymbal 1,OPNA_R,0,2,0,0,0
+Note52=Chinese Cymbal,ADPCM,0,13,45:0,0,0
+Note53=Ride Bell,ADPCM,0,36,45:0,0,0
+Note55=Splash Cymbal,ADPCM,0,13,57:0,0,0
+Note56=Cowbell,ADPCM,0,28,57:0,0,0
+Note57=Crash Cymbal 2,ADPCM,0,37,57,0,0
+Note59=Ride Cymbal 2,ADPCM,0,11,57:0,0,0
+Note60=Hi Bongo,ADPCM,0,18,57:0,0,0
+Note61=Low Bongo,ADPCM,0,17,57:0,0,0
+Note62=Mute Hi Conga,ADPCM,0,24,57:0,0,0
+Note63=Open Hi Conga,ADPCM,0,24,57:0,0,0
+Note64=Low Conga,ADPCM,0,23,57:0,0,0
+Note65=High Timbale,ADPCM,0,22,57:0,0,0
+Note66=Low Timbale,ADPCM,0,21,57:0,0,0
+Note67=High Agogo,ADPCM,0,20,57:0,0,0
+Note68=Low Agogo,ADPCM,0,19,57:0,0,0
+Note69=Cabasa,ADPCM,0,27,57:0,0,0
+Note71=Short Whistle,ADPCM,0,30,62:0,0,20
+Note72=Long Whistle,ADPCM,0,30,57:0,0,0
+Note76=High Wood Block,ADPCM,0,38,62:0,0,0
+Note77=Low Wood Block,ADPCM,0,38,52:0,0,0
+Note78=High Cuica,ADPCM,0,26,57:0,0,0
+Note79=Low Cuica,ADPCM,0,25,57:0,0,0

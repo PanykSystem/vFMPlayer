@@ -1,0 +1,1156 @@
+
+[Header]
+Type=PSG
+BankName=PSG Bank
+[Prog0]
+LFO0=    6    18     2   -12     9
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Bowed Lead
+ALFB=  0   0   0
+OP1= 16   1   0   8  32  64   0   0   0   0   0
+[Prog1]
+LFO0=    6    16     6   -16     8
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Blown Lead
+ALFB=  0   0   0
+OP1= 25   1   0  21  22   0   0   0   0   0   0
+[Prog3]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Short Decay
+ALFB=  0   0   0
+OP1=115  11  15  17  48   0   0   0   0   0   0
+[Prog4]
+LFO0=    6     4     0    20    12
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Long Decay
+ALFB=  0   0   0
+OP1=115   1   2   8  60   0   0   0   0   0   0
+[Prog5]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Plain
+ALFB=  0   0   0
+OP1=127   0   0 127 127   0   0   0   0   3   0
+[Prog6]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=CloseHH
+ALFB=  1   0   0
+OP1=127  66  36  55  88   0   0   0   0   0   0
+[Prog7]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=OpenHH
+ALFB=  1   0   0
+OP1=127  17  17  33  33   0   0   0   0   0   0
+[Prog8]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=CrashCym
+ALFB=  1   0  11
+OP1=104  61   8  16  55   0   0   0   0   0   0
+[Prog9]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=PedalHH
+ALFB=  1   0   0
+OP1=100  54  25  26  33   0   0   0   0   0   0
+[Prog10]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=RideCym
+ALFB=  2   0   2
+OP1=127  25  11  22  69   0   0   0   0   0   0
+[Prog11]
+LFO0=    4     0   127  -896     1
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Tom
+ALFB=  0   0   0
+OP1=108  29  23  12  40   0   0   0   0   0   0
+[Prog12]
+LFO0=    4     0   127  -896     2
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Synth Tom
+ALFB=  2   0   0
+OP1=108  32  25  12  66   0   0   0   0   0   0
+[Prog13]
+LFO0=    4     0   127  -896     2
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Synth Tom2
+ALFB=  2   0   0
+OP1=108  32  25  12  20   0   0   0   0   0   0
+[Prog14]
+LFO0=    4     0   127  -896     2
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Synth Tom
+ALFB=  2   0   5
+OP1=108  32  25  12  20   0   0   0   0   0   0
+[Prog15]
+LFO0=    4     0   127  -896     2
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Synth Tom3
+ALFB=  2   0  10
+OP1=108  32  25  12  20   0   0   0   0   0   0
+[Prog16]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=PlainWave0
+ALFB=  0   0   0
+OP1=127   0   0 127 127   0   0   0   0   0   0
+[Prog17]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=PlainWave1
+ALFB=  0   0   0
+OP1=127   0   0 127 127   0   0   0   0   1   0
+[Prog18]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=PlainWave2
+ALFB=  0   0   0
+OP1=127   0   0 127 127   0   0   0   0   2   0
+[Prog19]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=PlainWave3
+ALFB=  0   0   0
+OP1=127   0   0 127 127   0   0   0   0   3   0
+[Prog20]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=PlainWave4
+ALFB=  0   0   0
+OP1=127   0   0 127 127   0   0   0   0   4   0
+[Prog21]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=PlainWave5
+ALFB=  0   0   0
+OP1=127   0   0 127 127   0   0   0   0   5   0
+[Prog22]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=PlainWave6
+ALFB=  0   0   0
+OP1=127   0   0 127 127   0   0   0   0   6   0
+[Prog23]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=PlainWave7
+ALFB=  0   0   0
+OP1=127   0   0 127 127   0   0   0   0   7   0
+[Prog24]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=PlainWave8
+ALFB=  0   0   0
+OP1=127   0   0 127 127   0   0   0   0   8   0
+[Prog25]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=PlainWave9
+ALFB=  0   0   0
+OP1=127   0   0 127 127   0   0   0   0   9   0
+[Prog26]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=PlainWave10
+ALFB=  0   0   0
+OP1=127   0   0 127 127   0   0   0   0  10   0
+[Prog27]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=PlainWave11
+ALFB=  0   0   0
+OP1=127   0   0 127 127   0   0   0   0  11   0
+[Prog28]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=PlainWave12
+ALFB=  0   0   0
+OP1=127   0   0 127 127   0   0   0   0  12   0
+[Prog29]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=PlainWave13
+ALFB=  0   0   0
+OP1=127   0   0 127 127   0   0   0   0  13   0
+[Prog30]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=PlainWave14
+ALFB=  0   0   0
+OP1=127   0   0 127 127   0   0   0   0  14   0
+[Prog31]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=PlainWave15
+ALFB=  0   0   0
+OP1=127   0   0 127 127   0   0   0   0  15   0
+[Prog32]
+LFO0=    6    18     2   -12     9
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=BowedWave0
+ALFB=  0   0   0
+OP1= 16   1   0   8  32  64   0   0   0   0   0
+[Prog33]
+LFO0=    6    18     2   -12     9
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=BowedWave1
+ALFB=  0   0   0
+OP1= 16   1   0   8  32  64   0   0   0   1   0
+[Prog34]
+LFO0=    6    18     2   -12     9
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=BowedWave2
+ALFB=  0   0   0
+OP1= 16   1   0   8  32  64   0   0   0   2   0
+[Prog35]
+LFO0=    6    18     2   -12     9
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=BowedWave3
+ALFB=  0   0   0
+OP1= 16   1   0   8  32  64   0   0   0   3   0
+[Prog36]
+LFO0=    6    18     2   -12     9
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=BowedWave4
+ALFB=  0   0   0
+OP1= 16   1   0   8  32  64   0   0   0   4   0
+[Prog37]
+LFO0=    6    18     2   -12     9
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=BowedWave5
+ALFB=  0   0   0
+OP1= 16   1   0   8  32  64   0   0   0   5   0
+[Prog38]
+LFO0=    6    18     2   -12     9
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=BowedWave6
+ALFB=  0   0   0
+OP1= 16   1   0   8  32  64   0   0   0   6   0
+[Prog39]
+LFO0=    6    18     2   -12     9
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=BowedWave7
+ALFB=  0   0   0
+OP1= 16   1   0   8  32  64   0   0   0   7   0
+[Prog40]
+LFO0=    6    18     2   -12     9
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=BowedWave8
+ALFB=  0   0   0
+OP1= 16   1   0   8  32  64   0   0   0   8   0
+[Prog41]
+LFO0=    6    18     2   -12     9
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=BowedWave9
+ALFB=  0   0   0
+OP1= 16   1   0   8  32  64   0   0   0   9   0
+[Prog42]
+LFO0=    6    18     2   -12     9
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=BowedWave10
+ALFB=  0   0   0
+OP1= 16   1   0   8  32  64   0   0   0  10   0
+[Prog43]
+LFO0=    6    18     2   -12     9
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=BowedWave11
+ALFB=  0   0   0
+OP1= 16   1   0   8  32  64   0   0   0  11   0
+[Prog44]
+LFO0=    6    18     2   -12     9
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=BowedWave12
+ALFB=  0   0   0
+OP1= 16   1   0   8  32  64   0   0   0  12   0
+[Prog45]
+LFO0=    6    18     2   -12     9
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=BowedWave13
+ALFB=  0   0   0
+OP1= 16   1   0   8  32  64   0   0   0  13   0
+[Prog46]
+LFO0=    6    18     2   -12     9
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=BowedWave14
+ALFB=  0   0   0
+OP1= 16   1   0   8  32  64   0   0   0  14   0
+[Prog47]
+LFO0=    6    18     2   -12     9
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=BowedWave15
+ALFB=  0   0   0
+OP1= 16   1   0   8  32  64   0   0   0  15   0
+[Prog48]
+LFO0=    6    16     6   -16     8
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=BlownWave0
+ALFB=  0   0   0
+OP1= 25   1   0  21  22   0   0   0   0   0   0
+[Prog49]
+LFO0=    6    16     6   -16     8
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=BlownWave1
+ALFB=  0   0   0
+OP1= 25   1   0  21  22   0   0   0   0   1   0
+[Prog50]
+LFO0=    6    16     6   -16     8
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=BlownWave2
+ALFB=  0   0   0
+OP1= 25   1   0  21  22   0   0   0   0   2   0
+[Prog51]
+LFO0=    6    16     6   -16     8
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=BlownWave3
+ALFB=  0   0   0
+OP1= 25   1   0  21  22   0   0   0   0   3   0
+[Prog52]
+LFO0=    6    16     6   -16     8
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=BlownWave4
+ALFB=  0   0   0
+OP1= 25   1   0  21  22   0   0   0   0   4   0
+[Prog53]
+LFO0=    6    16     6   -16     8
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=BlownWave5
+ALFB=  0   0   0
+OP1= 25   1   0  21  22   0   0   0   0   5   0
+[Prog54]
+LFO0=    6    16     6   -16     8
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=BlownWave6
+ALFB=  0   0   0
+OP1= 25   1   0  21  22   0   0   0   0   6   0
+[Prog55]
+LFO0=    6    16     6   -16     8
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=BlownWave7
+ALFB=  0   0   0
+OP1= 25   1   0  21  22   0   0   0   0   7   0
+[Prog56]
+LFO0=    6    16     6   -16     8
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=BlownWave8
+ALFB=  0   0   0
+OP1= 25   1   0  21  22   0   0   0   0   8   0
+[Prog57]
+LFO0=    6    16     6   -16     8
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=BlownWave9
+ALFB=  0   0   0
+OP1= 25   1   0  21  22   0   0   0   0   9   0
+[Prog58]
+LFO0=    6    16     6   -16     8
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=BlownWave10
+ALFB=  0   0   0
+OP1= 25   1   0  21  22   0   0   0   0  10   0
+[Prog59]
+LFO0=    6    16     6   -16     8
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=BlownWave11
+ALFB=  0   0   0
+OP1= 25   1   0  21  22   0   0   0   0  11   0
+[Prog60]
+LFO0=    6    16     6   -16     8
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=BlownWave12
+ALFB=  0   0   0
+OP1= 25   1   0  21  22   0   0   0   0  12   0
+[Prog61]
+LFO0=    6    16     6   -16     8
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=BlownWave13
+ALFB=  0   0   0
+OP1= 25   1   0  21  22   0   0   0   0  13   0
+[Prog62]
+LFO0=    6    16     6   -16     8
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=BlownWave14
+ALFB=  0   0   0
+OP1= 25   1   0  21  22   0   0   0   0  14   0
+[Prog63]
+LFO0=    6    16     6   -16     8
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=BlownWave15
+ALFB=  0   0   0
+OP1= 25   1   0  21  22   0   0   0   0  15   0
+[Prog64]
+LFO0=    6    20     3   -16     9
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=AttackWave0
+ALFB=  0   0   0
+OP1=127  22   0  71  33   0   0   0   0   0   0
+[Prog65]
+LFO0=    6    20     3   -16     9
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=AttackWave1
+ALFB=  0   0   0
+OP1=127  22   0  71  33   0   0   0   0   1   0
+[Prog66]
+LFO0=    6    20     3   -16     9
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=AttackWave2
+ALFB=  0   0   0
+OP1=127  22   0  71  33   0   0   0   0   2   0
+[Prog67]
+LFO0=    6    20     3   -16     9
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=AttackWave3
+ALFB=  0   0   0
+OP1=127  22   0  71  33   0   0   0   0   3   0
+[Prog68]
+LFO0=    6    20     3   -16     9
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=AttackWave4
+ALFB=  0   0   0
+OP1=127  22   0  71  33   0   0   0   0   4   0
+[Prog69]
+LFO0=    6    20     3   -16     9
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=AttackWave5
+ALFB=  0   0   0
+OP1=127  22   0  71  33   0   0   0   0   5   0
+[Prog70]
+LFO0=    6    20     3   -16     9
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=AttackWave6
+ALFB=  0   0   0
+OP1=127  22   0  71  33   0   0   0   0   6   0
+[Prog71]
+LFO0=    6    20     3   -16     9
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=AttackWave7
+ALFB=  0   0   0
+OP1=127  22   0  71  33   0   0   0   0   7   0
+[Prog72]
+LFO0=    6    20     3   -16     9
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=AttackWave8
+ALFB=  0   0   0
+OP1=127  22   0  71  33   0   0   0   0   8   0
+[Prog73]
+LFO0=    6    20     3   -16     9
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=AttackWave9
+ALFB=  0   0   0
+OP1=127  22   0  71  33   0   0   0   0   9   0
+[Prog74]
+LFO0=    6    20     3   -16     9
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=AttackWave10
+ALFB=  0   0   0
+OP1=127  22   0  71  33   0   0   0   0  10   0
+[Prog75]
+LFO0=    6    20     3   -16     9
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=AttackWave11
+ALFB=  0   0   0
+OP1=127  22   0  71  33   0   0   0   0  11   0
+[Prog76]
+LFO0=    6    20     3   -16     9
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=AttackWave12
+ALFB=  0   0   0
+OP1=127  22   0  71  33   0   0   0   0  12   0
+[Prog77]
+LFO0=    6    20     3   -16     9
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=AttackWave13
+ALFB=  0   0   0
+OP1=127  22   0  71  33   0   0   0   0  13   0
+[Prog78]
+LFO0=    6    20     3   -16     9
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=AttackWave14
+ALFB=  0   0   0
+OP1=127  22   0  71  33   0   0   0   0  14   0
+[Prog79]
+LFO0=    6    20     3   -16     9
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=AttackWave15
+ALFB=  0   0   0
+OP1=127  22   0  71  33   0   0   0   0  15   0
+[Prog80]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=ShortWave0
+ALFB=  0   0   0
+OP1=127  33  15  17  88   0   0   0   0   0   0
+[Prog81]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=ShortWave1
+ALFB=  0   0   0
+OP1=127  33  15  17  88   0   0   0   0   1   0
+[Prog82]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=ShortWave2
+ALFB=  0   0   0
+OP1=127  33  15  17  88   0   0   0   0   2   0
+[Prog83]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=ShortWave3
+ALFB=  0   0   0
+OP1=127  33  15  17  88   0   0   0   0   3   0
+[Prog84]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=ShortWave4
+ALFB=  0   0   0
+OP1=127  33  15  17  88   0   0   0   0   4   0
+[Prog85]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=ShortWave5
+ALFB=  0   0   0
+OP1=127  33  15  17  88   0   0   0   0   5   0
+[Prog86]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=ShortWave6
+ALFB=  0   0   0
+OP1=127  33  15  17  88   0   0   0   0   6   0
+[Prog87]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=ShortWave7
+ALFB=  0   0   0
+OP1=127  33  15  17  88   0   0   0   0   7   0
+[Prog88]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=ShortWave8
+ALFB=  0   0   0
+OP1=127  33  15  17  88   0   0   0   0   8   0
+[Prog89]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=ShortWave9
+ALFB=  0   0   0
+OP1=127  33  15  17  88   0   0   0   0   9   0
+[Prog90]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=ShortWave10
+ALFB=  0   0   0
+OP1=127  33  15  17  88   0   0   0   0  10   0
+[Prog91]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=ShortWave11
+ALFB=  0   0   0
+OP1=127  33  15  17  88   0   0   0   0  11   0
+[Prog92]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=ShortWave12
+ALFB=  0   0   0
+OP1=127  33  15  17  88   0   0   0   0  12   0
+[Prog93]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=ShortWave13
+ALFB=  0   0   0
+OP1=127  33  15  17  88   0   0   0   0  13   0
+[Prog94]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=ShortWave14
+ALFB=  0   0   0
+OP1=127  33  15  17  88   0   0   0   0  14   0
+[Prog95]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=ShortWave15
+ALFB=  0   0   0
+OP1=127  33  15  17  88   0   0   0   0  15   0
+[Prog96]
+LFO0=    6     4     0    20    12
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=LongWave0
+ALFB=  0   0   0
+OP1=115   1   2   8  60   0   0   0   0   0   0
+[Prog97]
+LFO0=    6     4     0    20    12
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=LongWave1
+ALFB=  0   0   0
+OP1=115   1   2   8  60   0   0   0   0   1   0
+[Prog98]
+LFO0=    6     4     0    20    12
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=LongWave2
+ALFB=  0   0   0
+OP1=115   1   2   8  60   0   0   0   0   2   0
+[Prog99]
+LFO0=    6     4     0    20    12
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=LongWave3
+ALFB=  0   0   0
+OP1=115   1   2   8  60   0   0   0   0   3   0
+[Prog100]
+LFO0=    6     4     0    20    12
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=LongWave4
+ALFB=  0   0   0
+OP1=115   1   2   8  60   0   0   0   0   4   0
+[Prog101]
+LFO0=    6     4     0    20    12
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=LongWave5
+ALFB=  0   0   0
+OP1=115   1   2   8  60   0   0   0   0   5   0
+[Prog102]
+LFO0=    6     4     0    20    12
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=LongWave6
+ALFB=  0   0   0
+OP1=115   1   2   8  60   0   0   0   0   6   0
+[Prog103]
+LFO0=    6     4     0    20    12
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=LongWave7
+ALFB=  0   0   0
+OP1=115   1   2   8  60   0   0   0   0   7   0
+[Prog104]
+LFO0=    6     4     0    20    12
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=LongWave8
+ALFB=  0   0   0
+OP1=115   1   2   8  60   0   0   0   0   8   0
+[Prog105]
+LFO0=    6     4     0    20    12
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=LongWave9
+ALFB=  0   0   0
+OP1=115   1   2   8  60   0   0   0   0   9   0
+[Prog106]
+LFO0=    6     4     0    20    12
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=LongWave10
+ALFB=  0   0   0
+OP1=115   1   2   8  60   0   0   0   0  10   0
+[Prog107]
+LFO0=    6     4     0    20    12
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=LongWave11
+ALFB=  0   0   0
+OP1=115   1   2   8  60   0   0   0   0  11   0
+[Prog108]
+LFO0=    6     4     0    20    12
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=LongWave12
+ALFB=  0   0   0
+OP1=115   1   2   8  60   0   0   0   0  12   0
+[Prog109]
+LFO0=    6     4     0    20    12
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=LongWave13
+ALFB=  0   0   0
+OP1=115   1   2   8  60   0   0   0   0  13   0
+[Prog110]
+LFO0=    6     4     0    20    12
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=LongWave14
+ALFB=  0   0   0
+OP1=115   1   2   8  60   0   0   0   0  14   0
+[Prog111]
+LFO0=    6     4     0    20    12
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=LongWave15
+ALFB=  0   0   0
+OP1=115   1   2   8  60   0   0   0   0  15   0
+[Prog112]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=DCSG Noise0
+ALFB=  1   0   0
+OP1=127  66  36  55  88   0   0   0   0   0   0
+[Prog113]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=DCSG Noise1
+ALFB=  1   1   0
+OP1=127  66  36  55  88   0   0   0   0   0   0
+[Prog114]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=DCSG Noise2
+ALFB=  1   2   0
+OP1=127  66  36  55  88   0   0   0   0   0   0
+[Prog115]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=DCSG Noise3
+ALFB=  1   3   0
+OP1=127  66  36  55  88   0   0   0   0   0   0
+[Prog116]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=DCSG Noise4
+ALFB=  1   0   1
+OP1=127  57  28  16 100   0   0   0   0   0   0
+[Prog118]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=DCSG Noise6
+ALFB=  1   2   1
+OP1=127  57  28  16 100   0   0   0   0   0   0
+[Prog119]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=DCSG Noise7
+ALFB=  1   3   1
+OP1=127  57  28  16 100   0   0   0   0   0   0
+[Prog124]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=**NONE**
+ALFB=  0   0   0
+OP1=  0   0   0   0   0   0   0   0   0   0   0
+[Prog125]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=**NONE**
+ALFB=  0   0   0
+OP1=  0   0   0   0   0   0   0   0   0   0   0
+[Prog126]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=**NONE**
+ALFB=  0   0   0
+OP1=  0   0   0   0   0   0   0   0   0   0   0
+[Prog127]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=**NONE**
+ALFB=  0   0   0
+OP1=  0   0   0   0   0   0   0   0   0   0   0
+[Prog120]
+LFO0=    4     0    30  -400     5
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Bass Drum
+ALFB=  0   0   0
+OP1=  0   0   6   0   0   0   9   0   0   3   0
+[Prog121]
+LFO0=    4     0    30  -400     2
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Bass Drum2
+ALFB=  3   0   0
+OP1=  0   0   8   0   0   0   9   0   0   0   0
+[Prog123]
+LFO0=    4     0    30  -400     2
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Bass Drum3
+ALFB=  3   0   0
+OP1=  0   0   0   0  14   0  12   0   0   0   0
+[Prog117]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=DCSG Noise5
+ALFB=  1   1   1
+OP1=127  64  33  16  88   0   0   0   0   0   0
+[Prog122]
+LFO0=    4     0    16  -120     1
+LFO1=    0     0     0     0     0
+LFO2=    4     0    16    33     2
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Snare
+ALFB=  2   0   0
+OP1=127  66  32  12  77   0   0   0   0   0   0
+[Prog2]
+LFO0=    6    20     3   -16     9
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Attack Lead
+ALFB=  0   0   0
+OP1=127  22   0  52  33   0   0   0   0   0   0

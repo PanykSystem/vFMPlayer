@@ -1,0 +1,29 @@
+[Header]
+Type=RHYTHM
+BankName=Y8950 FM Drum Set
+
+[Bank]
+Note35=Acoustic Bass Drum,Y8950,5,98,52:0,0,16
+Note36=Bass Drum 1,Y8950,5,31,51:0,0,16
+Note37=Side Stick,Y8950,5,99,76:0,0,8
+Note38=Acoustic Snare,Y8950,5,30,79:0,0,16
+Note40=Electric Snare,Y8950,5,30,72:0,0,16
+Note41=Low Floor Tom,Y8950,5,91,48:0,0,20
+Note42=Closed Hi Hat,Y8950,5,117,106:0,0,5
+Note43=High Floor Tom,Y8950,5,94,53:0,0,20
+Note44=Pedal Hi-Hat,Y8950,5,117,48:0,0,8
+Note45=Low Tom,Y8950,5,91,59:0,0,20
+Note46=Open Hi-Hat,Y8950,5,118,120:0,0,20
+Note47=Low-Mid Tom,Y8950,5,91,65:0,0,20
+Note48=Hi-Mid Tom,Y8950,5,91,69:0,0,20
+Note49=Crash Cymbal 1,Y8950,5,118,36:0,0,50
+Note50=High Tom,Y8950,5,94,72:0,0,20
+Note51=Ride Cymbal 1,Y8950,5,118,120:0,0,50
+Note52=Chinese Cymbal,Y8950,5,118,36:0,0,50
+Note53=Ride Bell,Y8950,5,117,120:0,0,50
+Note55=Splash Cymbal,Y8950,5,118,36:0,0,50
+Note56=Cowbell,Y8950,5,28,84:0,0,8
+Note57=Crash Cymbal 2,Y8950,5,118,36:0,0,50
+Note59=Ride Cymbal 2,Y8950,5,118,120:0,0,50
+Note60=Hi Bongo,Y8950,5,98,72:0,0,8
+Note61=Low Bongo,Y8950,5,98,65:0,0,8

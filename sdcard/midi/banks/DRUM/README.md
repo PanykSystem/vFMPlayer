@@ -1,0 +1,9 @@
+# MIDI drum banks
+
+**SD destination:** `/vFM/midi/banks/DRUM/`
+
+Copy the supplied BNK and BNK.GZ drum sets. The DRUM section of midi.ini selects the set for each emulated chip/profile.
+
+[Files and instructions](https://github.com/PanykSystem/vFMPlayer/tree/main/sdcard/midi/banks/DRUM)
+
+Download the repository ZIP and copy the contents of `sdcard` into `/vFM` on the microSD. Keep existing personal settings and recordings. The adjacent `read.me` contains the same essentials in plain text.

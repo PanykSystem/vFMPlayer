@@ -1,0 +1,1667 @@
+[Header]
+Type=OPLL
+BankName=ALSA OPL2 GM Capital
+[Prog0]
+Name=AcouGrandPiano  
+ROM=0
+;	AL  FB
+ALFB= 0  7
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	12  3   3   3   2  27   0   1   0   2   0
+OP2=	 9  2   2   2   6   8   1   0   0   1   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog1]
+Name=BrightAcouGrand 
+ROM=0
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  3   5   5  15  61   2   3   0   0   0
+OP2=	15  3   5   5  15   8   0   1   0   4   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog2]
+Name=ElecGrandPiano  
+ROM=0
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15 11   5   5  15  33   2   3   0   4   0
+OP2=	15  5   5   5  15   8   0   1   0   4   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog3]
+Name=Honky-tonkPiano 
+ROM=0
+;	AL  FB
+ALFB= 0  7
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  3   5   5  15  23   6   3   0   4   0
+OP2=	15  2   5   5  15   8   0   1   0   4   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog4]
+Name=Rhodes Piano    
+ROM=0
+;	AL  FB
+ALFB= 0  7
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 9  4   0   1   9  20   7   5   0   2   0
+OP2=	 9  2   2   2   6   8   1   2   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog5]
+Name=Chorused Piano  
+ROM=0
+;	AL  FB
+ALFB= 1  3
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	14  1   3   3   6   0   1   1   0   2   0
+OP2=	 9  2   2   2   7   8   1   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog6]
+Name=Harpsichord     
+ROM=0
+;	AL  FB
+ALFB= 0  2
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	14  3   0   9   7  10   4   2   0   5   0
+OP2=	15  4   8   8  10   8   0   1   0   4   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog7]
+Name=Clavinet        
+ROM=0
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  4   0   8   1  28   4   2   0   5   0
+OP2=	15  3   5   5   5   8   0   1   0   5   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog8]
+Name=Celesta         
+ROM=0
+;	AL  FB
+ALFB= 1  2
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 9  3   4   4   7   0   0   2   0   0   0
+OP2=	11  6   5   5   4   8   0   1   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog9]
+Name=Glockenspiel    
+ROM=0
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	13  6   3   3   5  26   3  11   0   0   0
+OP2=	15  3   3   3   5   8   1   7   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog10]
+Name=Music box       
+ROM=0
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  6   6   6  15  26   3  11   0   0   0
+OP2=	 6  3   3   3   7   8   1   4   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog11]
+Name=Vibraphone      
+ROM=0
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	13  8   6   6   1  26   2  11   0   0   1
+OP2=	15  4   5   5  14   8   0   4   0   0   1
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog12]
+Name=Marimba         
+ROM=0
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15 13   6   6   5   0   6   8   0   0   0
+OP2=	15  6   8   8   6   8   0   1   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog13]
+Name=Xylophone       
+ROM=0
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  9   6   6   5   0   6   8   0   0   0
+OP2=	15  7   8   8   6   8   0   3   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog14]
+Name=Tubular Bells   
+ROM=0
+;	AL  FB
+ALFB= 0  2
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  2   0   1  15  13   7   5   0   0   0
+OP2=	15  2   2   2  15   8   1   1   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog15]
+Name=Dulcimer        
+ROM=0
+;	AL  FB
+ALFB= 0  6
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	11  3  10  10   8  26   5   8   0   1   0
+OP2=	15  0   3   3  13   9   0   2   0   1   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog16]
+Name=Hammond Organ   
+ROM=0
+;	AL  FB
+ALFB= 0  1
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 8  1   0   6   0  20   6   4   0   3   0
+OP2=	 6  1   0   6  10   8   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog17]
+Name=Percussive Organ
+ROM=0
+;	AL  FB
+ALFB= 0  1
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 8  1   0   9  15  21   4   3   0   1   1
+OP2=	13  1   0  13   0   8   0   1   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog18]
+Name=Rock Organ      
+ROM=0
+;	AL  FB
+ALFB= 0  7
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 8  1   0   6   0  18   6   5   0   0   0
+OP2=	13  1   0   5   3   8   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog19]
+Name=Church Organ    
+ROM=0
+;	AL  FB
+ALFB= 0  1
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 7  4   0   1   1  35   0   7   0   0   0
+OP2=	 6  0   0   5   0   8   0   1   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog20]
+Name=Reed Organ      
+ROM=0
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 7  6   0   6   0  36   0   2   0   4   0
+OP2=	 7  6   0   6   0   8   0   1   0   4   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog21]
+Name=Accordion       
+ROM=0
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 6  6   0   5   0  27   0   2   0   0   0
+OP2=	 6  6   0   6   0   8   0   1   0   4   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog22]
+Name=Harmonica       
+ROM=0
+;	AL  FB
+ALFB= 0  1
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 4  1   0   4   0  21   0   2   0   3   0
+OP2=	 3  1   0   4   0   8   1   2   0   1   1
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog23]
+Name=Tango Accordion 
+ROM=0
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 7  6   0   4   0  30   0   1   0   4   0
+OP2=	 6  6   0   7   1   8   0   1   0   5   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog24]
+Name=Acoustic Guitar1
+ROM=0
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	11  5   2   2   5   0   6   1   0   1   0
+OP2=	13  2   2   2   7   8   1   1   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog25]
+Name=Acoustic Guitar2
+ROM=0
+;	AL  FB
+ALFB= 0  4
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 8  5   0   4   5  10   4   3   0   1   0
+OP2=	13  2   3   3   7   8   1   1   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog26]
+Name=Electric Guitar1
+ROM=0
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15 13   3   3   4  18   0   4   0   0   0
+OP2=	15  2   6   6  10   8   0   1   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog27]
+Name=Electric Guitar2
+ROM=0
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15 12   0   7   6   0   0   3   0   3   0
+OP2=	15  4   6   6  12   8   0   1   0   2   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog28]
+Name=Electric Guitar3
+ROM=0
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  6   7   7   2   6   0   1   0   4   0
+OP2=	15  6   5   5   2   8   0   1   0   1   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog29]
+Name=Overdrive Guitar
+ROM=0
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  2   0   3   1   1   6   1   0   0   0
+OP2=	15  2   0   6   1   8   0   1   0   4   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog30]
+Name=Distorton Guitar
+ROM=0
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  2   0   4   1   1   6   1   0   0   0
+OP2=	15  2   0   5   1   8   0   1   0   4   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog31]
+Name=Guitar Harmonics
+ROM=0
+;	AL  FB
+ALFB= 0  6
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 6  5  10  10   1   0   2  11   0   0   0
+OP2=	15  2  14  14   3   8   0   1   0   3   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog32]
+Name=Acoustic Bass   
+ROM=0
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	13  8   6   6   9  15   0   1   0   0   0
+OP2=	 8  2   6   6   6   8   0   1   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog33]
+Name=Electric Bass 1 
+ROM=0
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  2   7   7   9  11   0   1   0   4   0
+OP2=	15  6   6   6  14   8   0   1   0   1   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog34]
+Name=Electric Bass 2 
+ROM=0
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  2   5   5   9   4   0   1   0   4   0
+OP2=	15  6   6   6  14   8   0   1   0   1   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog35]
+Name=Fretless Bass   
+ROM=0
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	12  7   6   6   9   8   2   1   0   0   0
+OP2=	 9  1   6   6  14   9   0   1   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog36]
+Name=Slap Bass 1     
+ROM=0
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15 10   6   6   8   0   0  11   0   6   0
+OP2=	15  3   6   6  11   8   0   1   0   1   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog37]
+Name=Slap Bass 2     
+ROM=0
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15 10   7   7   8   0   0  11   0   2   0
+OP2=	15  3   7   7  11   8   0   1   0   1   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog38]
+Name=Synth Bass 1    
+ROM=0
+;	AL  FB
+ALFB= 1  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	14  5   5   5   6   0   0   1   0   0   3
+OP2=	15  5   5   5   9  12   0   1   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog39]
+Name=Synth Bass 2    
+ROM=0
+;	AL  FB
+ALFB= 1  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  2   5   5   4   0   0   1   0   0   3
+OP2=	15  2   6   6   9   9   0   1   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog40]
+Name=Violin          
+ROM=0
+;	AL  FB
+ALFB= 0  7
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	11  4   0   5   2  10   6   2   0   4   2
+OP2=	 4  4   0   6   0   8   0   1   0   4   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog41]
+Name=Viola           
+ROM=0
+;	AL  FB
+ALFB= 0  7
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 8  8   0   4   2  11   6   4   0   4   0
+OP2=	 6  6   0   5   1   8   0   1   0   4   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog42]
+Name=Cello           
+ROM=0
+;	AL  FB
+ALFB= 0  7
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 8  8   0   4   2  19   6   4   0   4   0
+OP2=	 6  6   0   6   1   8   0   1   0   4   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog43]
+Name=Contrabass      
+ROM=0
+;	AL  FB
+ALFB= 0  7
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 5  1   0   3   4  35   1   1   0   0   2
+OP2=	 5  2   0   5   1   8   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog44]
+Name=Tremulo Strings 
+ROM=0
+;	AL  FB
+ALFB= 0  5
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 8  4   0   3   1  11   6   2   0   0   1
+OP2=	 5  1   0   5   5   8   0   1   0   2   1
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog45]
+Name=Pizzicato String
+ROM=0
+;	AL  FB
+ALFB= 1  3
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  5   0   8  10   8   1   1   0   0   3
+OP2=	15 13   0  12  10   8   4   2   0   0   3
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog46]
+Name=Orchestral Harp 
+ROM=0
+;	AL  FB
+ALFB= 1  4
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	13  4   0   4   3   9   0   2   0   1   0
+OP2=	12  4   6   6   2   8   0   2   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog47]
+Name=Timpany         
+ROM=0
+;	AL  FB
+ALFB= 0  5
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 3  0   9   9   0  21   3   0   0   3   0
+OP2=	11  0   4   4   0   8   1   0   0   3   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog48]
+Name=String Ensemble1
+ROM=0
+;	AL  FB
+ALFB= 0  2
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 7  1   0   3   3  11   4   2   0   1   2
+OP2=	 4  3   0   5  14   8   2   2   0   0   1
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog49]
+Name=String Ensemble2
+ROM=0
+;	AL  FB
+ALFB= 0  2
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 7  1   0   3   3  11   4   1   0   1   2
+OP2=	 4  3   0   5  14   8   2   1   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog50]
+Name=Synth Strings 1 
+ROM=0
+;	AL  FB
+ALFB= 0  3
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 7  1   0   3   3  11   4   1   0   1   2
+OP2=	 4  3   0   5  14   8   2   2   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog51]
+Name=SynthStrings 2  
+ROM=0
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 5  1   5   5   1  19   0   1   0   2   0
+OP2=	 4  4   0   4   0   8   0   1   0   1   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog52]
+Name=Choir Aahs      
+ROM=0
+;	AL  FB
+ALFB= 0  7
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 3  2   0   0   4  21   5   3   0   2   3
+OP2=	 4  3   6   6   4   8   0   1   0   1   3
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog53]
+Name=Voice Oohs      
+ROM=0
+;	AL  FB
+ALFB= 0  7
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	10  2   0   4  10  17   3   3   0   0   3
+OP2=	 6  2   4   4   8   8   0   1   0   1   3
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog54]
+Name=Synth Voice     
+ROM=0
+;	AL  FB
+ALFB= 0  3
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 5  2   0   1   5  13   2   0   0   2   3
+OP2=	 6  5   0   5   3   8   0   3   0   0   3
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog55]
+Name=Orchestra Hit   
+ROM=0
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  7   0   5  11   7   0   0   0   0   0
+OP2=	 9  6   6   6   4   8   0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog56]
+Name=Trumpet         
+ROM=0
+;	AL  FB
+ALFB= 0  6
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 5  3   0   4   1  28   0   1   0   0   0
+OP2=	 5  2   0   5   3   8   0   1   0   0   1
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog57]
+Name=Trombone        
+ROM=0
+;	AL  FB
+ALFB= 0  5
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 5  3   0   9   1  26   0   1   0   0   0
+OP2=	 5  2   0   9   3   8   4   2   0   0   1
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog58]
+Name=Tuba            
+ROM=0
+;	AL  FB
+ALFB= 0  6
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 6  3   0  12   8  33   0   1   0   0   0
+OP2=	 8  5   0  12   2   8   0   1   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog59]
+Name=Muted Trumpet   
+ROM=0
+;	AL  FB
+ALFB= 0  6
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 7  1   0   5  10  24   4   1   0   1   3
+OP2=	 8  1   0   6   9   8   0   3   0   0   3
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog60]
+Name=French Horn     
+ROM=0
+;	AL  FB
+ALFB= 0  7
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 5  3   0   4   5  21   3   1   0   0   0
+OP2=	10 10   0   5   1   8   0   1   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog61]
+Name=Brass Section   
+ROM=0
+;	AL  FB
+ALFB= 0  5
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 5  3   0   5   1  27   0   1   0   0   0
+OP2=	 5  2   0   6   3   8   4   2   0   0   1
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog62]
+Name=Synth Brass 1   
+ROM=0
+;	AL  FB
+ALFB= 0  7
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 8  3   0   5   7  32   0   1   0   5   0
+OP2=	 8  1   0   6   8   8   0   1   0   4   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog63]
+Name=Synth Brass 2   
+ROM=0
+;	AL  FB
+ALFB= 0  4
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 9 11   0   5   2  14   4   1   0   0   0
+OP2=	 9  0   0   5   0   8   4   1   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog64]
+Name=Soprano Sax     
+ROM=0
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 7  0   5   5  14  21   0   1   0   5   0
+OP2=	 7  0   6   6  14   8   0   2   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog65]
+Name=Alto Sax        
+ROM=0
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 8  0   5   5  14  20   0   1   0   5   0
+OP2=	 7  0   6   6  14   8   0   1   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog66]
+Name=Tenor Sax       
+ROM=0
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 8  0   5   5  14  18   0   1   0   5   0
+OP2=	 7  0   6   6  14   8   0   1   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog67]
+Name=Baritone Sax    
+ROM=0
+;	AL  FB
+ALFB= 0  5
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 5  1   7   7   5  17   4   1   0   1   0
+OP2=	 5  2   0   7   7   8   0   3   0   0   1
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog68]
+Name=Oboe            
+ROM=0
+;	AL  FB
+ALFB= 0  1
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 6 14   0   3   1   9   7   1   0   0   2
+OP2=	 8 11   0   7   0   8   0   4   0   1   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog69]
+Name=English Horn    
+ROM=0
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 7  1   0   5  10  37   0   1   0   0   1
+OP2=	 8  2   0   7   9   8   0   3   0   0   1
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog70]
+Name=Bassoon         
+ROM=0
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   2   2   2  19   0   1   0   0   0
+OP2=	 8  0   0   7   0   8   0   4   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog71]
+Name=Clarinet        
+ROM=0
+;	AL  FB
+ALFB= 0  5
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	10  2   0   4   1  29   1   2   0   4   0
+OP2=	 5  1   0   4   2   8   1   1   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog72]
+Name=Piccolo         
+ROM=0
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 7  7   0   3   4  32   0   1   0   0   0
+OP2=	 6  5   0   6   0   8   0   1   0   0   1
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog73]
+Name=Flute           
+ROM=0
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 6 10   4   4   6  36   4   1   0   2   0
+OP2=	 6  3   0   6   6   8   0   1   0   0   1
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog74]
+Name=Recorder        
+ROM=0
+;	AL  FB
+ALFB= 0  7
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 6  7   0   9   8  44   4   2   0   0   0
+OP2=	 6  5   0   8   2   8   0   1   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog75]
+Name=Pan Flute       
+ROM=0
+;	AL  FB
+ALFB= 0  7
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 6 13   0  13   8  41   6   3   0   0   3
+OP2=	 6  5   0   9   2   8   0   1   0   0   1
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog76]
+Name=Bottle Blow     
+ROM=0
+;	AL  FB
+ALFB= 0  7
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	13  8   0   8   6  16   0   0   0   0   0
+OP2=	 6  8   0   7   9   8   0   6   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog77]
+Name=Shakuhachi      
+ROM=0
+;	AL  FB
+ALFB= 0  7
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 4  7   0  15   0  44   2   2   0   0   0
+OP2=	 6  5   0  10   2   8   0   1   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog78]
+Name=Whistle         
+ROM=0
+;	AL  FB
+ALFB= 0  7
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 7  0   0  12   0  63   6   1   0   0   3
+OP2=	 6  2   0  11  15   8   0   2   0   0   3
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog79]
+Name=Ocarina         
+ROM=0
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 5  7   0   6   4  43   1   1   0   4   0
+OP2=	 6  8   0   6   0   8   1   1   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog80]
+Name=Lead 1 squareea 
+ROM=0
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 2 10   2   2   0  23   5   1   0   0   1
+OP2=	 4  2   3   3  15   8   5   3   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog81]
+Name=Lead 2 sawtooth 
+ROM=0
+;	AL  FB
+ALFB= 0  7
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 5  1   3   3   5  17   4   0   0   1   0
+OP2=	 5  2   0   6   7   8   0   2   0   0   1
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog82]
+Name=Lead 3 calliope 
+ROM=0
+;	AL  FB
+ALFB= 0  7
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 5  0   0   0   0  24   6   3   0   3   0
+OP2=	 7  2   0   8  15   8   0   1   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog83]
+Name=Lead 4 chiff    
+ROM=0
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	11  7   6   6   6   0   1   1   0   2   3
+OP2=	 8  7   0   6   0   8   0   0   0   2   1
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog84]
+Name=Lead 5 charang  
+ROM=0
+;	AL  FB
+ALFB= 0  3
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 7  1   3   3   5  15   2   0   0   0   0
+OP2=	 5  2   4   4   7   8   1   5   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog85]
+Name=Lead 6 voice    
+ROM=0
+;	AL  FB
+ALFB= 0  3
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 5  2   0   1  10   5   6   0   0   0   3
+OP2=	 6  5   0   5   3   8   0   1   0   0   3
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog86]
+Name=Lead 7 fifths   
+ROM=0
+;	AL  FB
+ALFB= 1  2
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	13  5   0   3   1   0   1   0   0   1   1
+OP2=	 2  6   0   3   1   8   1   1   0   0   1
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog87]
+Name=Lead 8 brass    
+ROM=0
+;	AL  FB
+ALFB= 0  5
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 5  3   0   4   1  29   0   1   0   0   0
+OP2=	 5  2   0   5   3   8   4   1   0   0   1
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog88]
+Name=Pad 1 new age   
+ROM=0
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 5  1   0   5   1  27   0   1   0   1   0
+OP2=	 8  2   0   5   4   8   0   1   0   0   1
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog89]
+Name=Pad 2 warm      
+ROM=0
+;	AL  FB
+ALFB= 0  7
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 6 14   0  15   8  35   4   1   0   1   3
+OP2=	 6  5   0   6   0   8   0   1   0   0   1
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog90]
+Name=Pad 3 polysynth 
+ROM=0
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	12  3   0   4  15  12   0   0   0   2   0
+OP2=	15  0   5   5  15  16   0   1   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog91]
+Name=Pad 4 choir     
+ROM=0
+;	AL  FB
+ALFB= 0  7
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	10  2   0   0   4  17   3   1   0   0   3
+OP2=	 6  3   6   6   4   8   0   2   0   0   3
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog92]
+Name=Pad 5 bowedpad  
+ROM=0
+;	AL  FB
+ALFB= 0  3
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 7  1   0   3   3  13   2   1   0   1   3
+OP2=	 4  3   0   5  14   8   0   2   0   0   1
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog93]
+Name=Pad 6 metallic  
+ROM=0
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 6  3   0   3   8   4   2   1   0   0   0
+OP2=	 3  0   0   5   1   8   0   1   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog94]
+Name=Pad 7 halo      
+ROM=0
+;	AL  FB
+ALFB= 0  7
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 6  7   0  15   8  36   0   4   0   2   0
+OP2=	 6  5   0  10   2  12   0   1   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog95]
+Name=Pad 8 sweep     
+ROM=0
+;	AL  FB
+ALFB= 0  7
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 2  7   0   8   8  21   0   4   0   2   0
+OP2=	 6  5   0   6   2   8   0   1   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog96]
+Name=FX 1 rain       
+ROM=0
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15 11   6   6   6   8   6   8   0   0   0
+OP2=	15  5   6   6   6  16   0   3   0   0   1
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog97]
+Name=FX 2 soundtrack 
+ROM=0
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 2  5   0  13  11  20   3   4   0   0   3
+OP2=	15  0   0   7   4   8   0   1   0   1   3
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog98]
+Name=FX 3 crystal    
+ROM=0
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 6  7   0   8   8  10   1   4   0   2   1
+OP2=	 6  5   0  10   2   8   0   1   0   0   1
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog99]
+Name=FX 4 atmosphere 
+ROM=0
+;	AL  FB
+ALFB= 0  7
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 4  7   0  15   8  27   6   3   0   2   0
+OP2=	 6  5   0  10   2   8   0   1   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog100]
+Name=FX 5 brightness 
+ROM=0
+;	AL  FB
+ALFB= 0  7
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 4  7   0  15   8  34   0   4   0   2   0
+OP2=	 6  5   0  10   2   8   0   1   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog101]
+Name=FX 6 goblins    
+ROM=0
+;	AL  FB
+ALFB= 0  4
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 2  5   0   5  11  11   0   6   0   0   3
+OP2=	15  0   0   5   4  11   1   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog102]
+Name=FX 7 echoes     
+ROM=0
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 2  5   0   0  11  16   2   3   0   0   3
+OP2=	15  0   0   5   4   8   5   0   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog103]
+Name=FX 8 sci-fi     
+ROM=0
+;	AL  FB
+ALFB= 0  7
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 7  0   0   7   0  21   0   6   0   0   3
+OP2=	 6  2   0   7  15   9   0   0   0   0   3
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog104]
+Name=Sitar           
+ROM=0
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  7   0   3   4  18   0   5   0   4   0
+OP2=	15  8   5   5   0  12   0   1   0   4   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog105]
+Name=Banjo           
+ROM=0
+;	AL  FB
+ALFB= 1  2
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  4   6   6  10   0   0   1   0   4   0
+OP2=	15  8   5   5   3  21   0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog106]
+Name=Shamisen        
+ROM=0
+;	AL  FB
+ALFB= 0  2
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15 10   6   6  10   9   0   4   0   0   0
+OP2=	15  8  11  11  15  12   0   7   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog107]
+Name=Koto            
+ROM=0
+;	AL  FB
+ALFB= 0  4
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  2   3   3   1  19   0   0   0   0   0
+OP2=	15  4   5   5  15  12   0   1   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog108]
+Name=Kalimba         
+ROM=0
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  2   3   3   1  15   0   0   0   0   0
+OP2=	15  4   5   5  15  12   0   1   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog109]
+Name=Bagpipe         
+ROM=0
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	13  0   2   2  15  12   1   1   0   0   0
+OP2=	 8  0   0   5   0  12   1   2   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog110]
+Name=Fiddle          
+ROM=0
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 9 11   0   0   3   3   3   0   0   3   0
+OP2=	 6  9   0  14   0   8   2   1   0   5   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog111]
+Name=Shanai          
+ROM=0
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	13  0   3   3  15  12   1   1   0   0   0
+OP2=	 8  0   0   5   0  12   1   2   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog112]
+Name=Tinkle Bell     
+ROM=0
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  6   3   3   5  15   3   6   0   0   0
+OP2=	15  3   3   3   5   8   1   7   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog113]
+Name=Agogo Bells     
+ROM=0
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15 10   7   7   5   0   1   7   0   0   0
+OP2=	15  5   8   8   5   8   1   2   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog114]
+Name=Steel Drums     
+ROM=0
+;	AL  FB
+ALFB= 0  4
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	10  8  11  11   4  13   0   0   0   0   0
+OP2=	13  6  10  10   4   8   0   0   0   1   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog115]
+Name=Woodblock       
+ROM=0
+;	AL  FB
+ALFB= 0  7
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  8   0  15  15  10   3   2   0   0   0
+OP2=	15  5  15  15   7   8   1   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog116]
+Name=Taiko Drum      
+ROM=0
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	10  8  12  12   4  13   0   0   0   0   0
+OP2=	13  6  15  15   4   8   0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog117]
+Name=Melodic Tom     
+ROM=0
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15 11   7   7  10   1   1   2   0   0   0
+OP2=	15  3   0   3   5   8   1   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog118]
+Name=Synth Drum      
+ROM=0
+;	AL  FB
+ALFB= 0  7
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15 15   0  14   0   0   0  11   0   0   0
+OP2=	15  7  14  14  15   8   0  11   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog119]
+Name=Reverse Cymbal  
+ROM=0
+;	AL  FB
+ALFB= 0  3
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  5   5   5  11   7   0   1   0   0   0
+OP2=	 5  4  15  15   2   8   1   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog120]
+Name=Guitar FretNoise
+ROM=0
+;	AL  FB
+ALFB= 0  5
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	11  3  15  15   3   0   4   0   0   0   0
+OP2=	10 15   0   0  15   8   1   8   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog121]
+Name=Breath Noise    
+ROM=0
+;	AL  FB
+ALFB= 0  7
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	11  1   0   3   7   0   2   0   0   2   2
+OP2=	11  2   0  11   9  21   0  15   0   3   3
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog122]
+Name=Seashore        
+ROM=0
+;	AL  FB
+ALFB= 0  7
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	10  1   0   3   5   0   2  15   0   0   1
+OP2=	 5  2   0   3   7  15   1   0   0   0   1
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog123]
+Name=Bird Tweet      
+ROM=0
+;	AL  FB
+ALFB= 0  7
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0  15  46   0   0   0   0   0
+OP2=	 5 15   0   0  15   8   0   7   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog124]
+Name=Telephone       
+ROM=0
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 7  0   0  15   0  19   0   5   0   0   3
+OP2=	 6  2   0  15  15   9   1   0   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog125]
+Name=Helicopter      
+ROM=0
+;	AL  FB
+ALFB= 0  7
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 6  8  15  15  12   0   0   0   0   2   0
+OP2=	10  5  11  11   6   8   1   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog126]
+Name=Applause/Noise  
+ROM=0
+;	AL  FB
+ALFB= 0  7
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 8  2   0  10   0   0   0  11   0   0   0
+OP2=	 7  7   0  10   0   8   0   7   0   5   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog127]
+Name=Gunshot         
+ROM=0
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15 10  15  15   6  11   0   0   0   0   0
+OP2=	15  6  15  15   8   8   0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+

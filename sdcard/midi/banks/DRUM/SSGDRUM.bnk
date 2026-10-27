@@ -1,0 +1,22 @@
+[Header]
+Type=RHYTHM
+BankName=SSG Drum Set
+[Bank]
+Note35=Acoustic Bass D,SSG,0,121,45:0,0,20
+Note36=Bass Drum 1,SSG,0,120,32:0,0,30
+Note37=Side Stick,SSG,0,11,108:0,0,10
+Note38=Acoustic Snare,SSG,0,122,60:0,0,20
+Note40=Electric Snare,SSG,0,12,58:0,0,20
+Note41=Low Floor Tom,SSG,0,11,36:0,0,20
+Note42=Closed Hi Hat,SSG,0,6,60:0,0,20
+Note43=High Floor Tom,SSG,0,11,39:0,0,20
+Note44=Pedal Hi-Hat,SSG,0,9,60:0,0,20
+Note45=Low Tom,SSG,0,11,42:0,0,20
+Note46=Open Hi-Hat,SSG,0,7,60:0,0,20
+Note47=Low-Mid Tom,SSG,0,11,46:0,0,20
+Note48=Hi-Mid Tom,SSG,0,11,49:0,0,20
+Note49=Crash Cymbal 1,SSG,0,8,60:0,0,100
+Note50=High Tom,SSG,0,11,57:0,0,20
+Note51=Ride Cymbal 1,SSG,0,10,105:0,0,0
+Note57=Crash Cymbal 2,SSG,0,8,120:0,0,0
+Note59=Ride Cymbal 2,SSG,0,10,110:0,0,0

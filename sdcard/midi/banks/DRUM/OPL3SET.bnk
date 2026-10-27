@@ -1,0 +1,29 @@
+[Header]
+Type=RHYTHM
+BankName=OPL3 Drum Set
+
+[Bank]
+Note35=Acoustic Bass Drum,OPL3_2,5,112,48,0,20
+Note36=Bass Drum 1,OPL3_2,5,31,48,0,20
+Note37=Side Stick,OPL3_2,5,113,76,0,20
+Note38=Acoustic Snare,OPL3_2,5,30,76,0,50
+Note40=Electric Snare,OPL3_2,5,120,69,0,50
+Note41=Low Floor Tom,OPL3_2,5,94,48,0,50
+Note42=Closed Hi Hat,OPL3_2,5,115,120,0,10
+Note43=High Floor Tom,OPL3_2,5,94,53,0,50
+Note44=Pedal Hi-Hat,OPL3_2,5,115,120,0,20
+Note45=Low Tom,OPL3_2,5,94,59,0,50
+Note46=Open Hi-Hat,OPL3_2,5,116,120,0,50
+Note47=Low-Mid Tom,OPL3_2,5,94,65,0,50
+Note48=Hi-Mid Tom,OPL3_2,5,94,69,0,50
+Note49=Crash Cymbal 1,OPL3_2,5,118,24,0,100
+Note50=High Tom,OPL3_2,5,94,72,0,50
+Note51=Ride Cymbal 1,OPL3_2,5,117,120,0,100
+Note52=Chinese Cymbal,OPL3_2,5,118,36,0,100
+Note53=Ride Bell,OPL3_2,5,117,120,0,100
+Note55=Splash Cymbal,OPL3_2,5,118,24,0,100
+Note56=Cowbell,OPL3_2,5,28,84,0,10
+Note57=Crash Cymbal 2,OPL3_2,5,118,24,0,100
+Note59=Ride Cymbal 2,OPL3_2,5,117,120,0,100
+Note60=Hi Bongo,OPL3_2,5,112,72,0,20
+Note61=Low Bongo,OPL3_2,5,112,65,0,20

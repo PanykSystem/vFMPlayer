@@ -1,0 +1,1283 @@
+[Header]
+Type=OPL2
+BankName=MSX-Audio & SOS1
+[Prog0]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Piano 1
+ALFB=  0   5
+OP1= 13   9   0   1   1   7   0   1   0   0   0
+OP2= 11   2   4   4  15   0   0   1   0   0   0
+[Prog1]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Piano 2
+ALFB=  0   4
+OP1= 13   9   0   0   1   6   0   0   0   0   0
+OP2= 11   2   3   3  15   0   0   0   0   0   0
+[Prog2]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Violin
+ALFB=  0   7
+OP1= 11   4   0   4   1   9   0   1   0   0   2
+OP2=  5   6   0   7   1   0   0   1   0   0   2
+[Prog3]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Flute
+ALFB=  0   7
+OP1=  6  12   0   8   1  16   0   1   0   0   2
+OP2=  4   3   0   6   2   1   0   1   0   0   0
+[Prog4]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Clarinet
+ALFB=  0   7
+OP1=  8   8   0   4   1  16   0   2   0   0   1
+OP2=  5   4   0   6   0   0   0   0   0   0   0
+[Prog5]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Oboe
+ALFB=  0   5
+OP1=  7   2   0  10   0  16   0   1   0   0   0
+OP2=  5   6   0  12   1   0   0   4   0   0   0
+[Prog6]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Trumpet
+ALFB=  0   7
+OP1=  5   1   0   6   2  22   0   1   0   0   0
+OP2=  5   2   0   4   2   1   0   1   0   0   2
+[Prog7]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=PipeOrgn
+ALFB=  1   5
+OP1=  3   0   0   4   7   4   0   2   0   0   0
+OP2=  4   0   0   4   0   4   0   0   0   0   0
+[Prog8]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Xylophon
+ALFB=  0   5
+OP1=  8   8   6   6   6  12   0   7   0   0   0
+OP2= 13   9   4   4   2   0   0   2   0   0   2
+[Prog9]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Organ
+ALFB=  1   6
+OP1= 15  12   0   8   2   5   0   1   0   0   3
+OP2= 15   8   0   9   2   2   0   3   0   0   2
+[Prog10]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Guitar
+ALFB=  0   5
+OP1= 10   3   5   5   7  10   0   2   0   0   0
+OP2= 10   3   5   5   0   0   0   1   0   0   2
+[Prog11]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Santool
+ALFB=  0   6
+OP1= 12   7   1   1   1   6   0   9   0   0   0
+OP2= 15   5   3   3   0   1   0   3   0   0   2
+[Prog12]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Elecpian
+ALFB=  0   7
+OP1= 13  13   0  10   4   4   0   3   0   0   0
+OP2= 11  15   5   5   0   0   0   3   0   0   2
+[Prog13]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Clavicod
+ALFB=  0   6
+OP1= 10   2   4   4  15   5   0   3   0   0   0
+OP2= 11   4   5   5  15   4   0   9   0   0   0
+[Prog15]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Harpscd2
+ALFB=  0   6
+OP1= 10   0   1   1   0   6   0   1   0   0   0
+OP2= 11   4   6   6  15   4   0   1   0   0   0
+[Prog16]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Vibraphn
+ALFB=  0   6
+OP1=  9   5   0   5  14  18   0   9   0   0   3
+OP2= 13   1   0   2  15   0   0   1   0   0   3
+[Prog17]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Koto
+ALFB=  0   6
+OP1= 15   8   3   3   3   4   0   3   0   0   0
+OP2= 11   2   3   3   8   0   0   1   0   0   0
+[Prog18]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Taiko
+ALFB=  0   7
+OP1= 10  10   4   4   4   4   0   1   0   0   0
+OP2= 12   6   4   4   2   0   0   0   0   0   0
+[Prog19]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Engine
+ALFB=  0   7
+OP1=  1   1   0   4   0  12   0   0   0   0   3
+OP2= 15   0   0   8   0   0   0   4   0   0   3
+[Prog20]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=UFO
+ALFB=  0   7
+OP1=  5   0   0   5   0   4   0  15   0   0   3
+OP2=  1  15   0   1   0   0   0   0   0   0   2
+[Prog21]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=SynBell
+ALFB=  0   7
+OP1= 15   8   1   1   2   7   0   3   0   0   0
+OP2= 15   2   4   4  15   0   0   1   0   0   0
+[Prog22]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Chime
+ALFB=  0   5
+OP1= 11  11   0   1   1   5   0   6   0   0   1
+OP2= 15   9   2   2   0   5   0   2   0   0   2
+[Prog25]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=SynPercu
+ALFB=  0   7
+OP1= 11  10   5   5   2   4   0   1   0   0   0
+OP2= 13   9   6   6   0   0   0   3   0   0   0
+[Prog27]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=HarmDrum
+ALFB=  0   7
+OP1= 12  11   9   9   3   4   0   2   0   0   0
+OP2= 15  15   6   6   0   0   0   3   0   0   0
+[Prog28]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Cowbell
+ALFB=  0   5
+OP1= 15   8   6   6   2   4   0   8   0   0   0
+OP2= 15   5   6   6   2   0   0   1   0   0   0
+[Prog29]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=ClseHiht
+ALFB=  0   7
+OP1= 15   0   1   1   0   4   0  11   0   0   0
+OP2= 15   8   7   7   2   0   0   4   0   0   0
+[Prog31]
+LFO0=    4     0   127  -500     3
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=BassDrum
+ALFB=  0   6
+OP1= 12  12   6   6   9   3   0   0   0   0   0
+OP2= 14   8   7   6   1   0   0   1   0   0   0
+[Prog32]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Piano 3
+ALFB=  0   4
+OP1= 15  10   0   0   2   4   0   1   0   0   0
+OP2= 11   2   4   4  15   0   0   1   0   0   0
+[Prog33]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Elecpia2
+ALFB=  0   0
+OP1= 12   0   1   1   0   8   0   1   0   0   0
+OP2= 11   2   4   4  15   0   0   1   0   0   0
+[Prog34]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Santool2
+ALFB=  0   7
+OP1= 14   7   1   1   2   9   0   9   0   0   0
+OP2=  9   5   3   3   0   1   0   3   0   0   2
+[Prog36]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Flute 2
+ALFB=  0   7
+OP1=  6   4   0   2   1  18   0   2   0   0   2
+OP2=  4   3   0   6   2   1   0   1   0   0   2
+[Prog37]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Clavicd2
+ALFB=  0   5
+OP1=  9   0   0   2   0   2   0   1   0   0   0
+OP2= 13   4   5   5  15   1   0   3   0   0   0
+[Prog38]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Clavicd3
+ALFB=  0   5
+OP1=  9   0   3   3   0   3   0   1   0   0   0
+OP2= 10   4   5   5  15   1   0   3   0   0   0
+[Prog39]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Koto 2
+ALFB=  0   5
+OP1= 11   5   4   4   8   6   0   3   0   0   2
+OP2= 14   9   4   4   0   0   0   3   0   0   2
+[Prog40]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=PipeOrg2
+ALFB=  1   6
+OP1=  4   0   0   4   0   6   0   2   0   0   0
+OP2=  3   0   0   3   0   4   0   0   0   0   0
+[Prog41]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=PohdsPLA
+ALFB=  0   6
+OP1=  9   9   0   4   1  11   0   3   0   0   2
+OP2= 15   5   0   5   1   0   0   3   0   0   0
+[Prog42]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=RohdsPRA
+ALFB=  0   5
+OP1= 15   9   0   3   3   9   0   3   0   0   2
+OP2= 15   5   3   3   0   0   0   3   0   0   0
+[Prog43]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Orch L
+ALFB=  0   7
+OP1=  7   6   0   3   2   8   0   1   0   0   2
+OP2=  5   4   0   6   0   0   0   1   0   0   0
+[Prog44]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Orch R
+ALFB=  1   7
+OP1=  7   4   0   5   2   8   0   2   0   0   2
+OP2=  4  11   0   5   1   1   0   0   0   0   2
+[Prog45]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=SynViol
+ALFB=  0   5
+OP1=  7   6   0   2   1   4   0   1   0   0   2
+OP2=  5   4   0   7   0   1   0   1   0   0   1
+[Prog46]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=SynOrgan
+ALFB=  0   5
+OP1=  7   5   0   4   1   4   0   1   0   0   2
+OP2= 15   2   0   3   0   4   0   8   0   0   2
+[Prog48]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Tube
+ALFB=  0   5
+OP1=  7   5   0   8   1   6   0   1   0   0   2
+OP2= 15   2   0   3   0   0   0   1   0   0   2
+[Prog49]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Shamisen
+ALFB=  0   6
+OP1= 10   7   3   3   1   8   0   3   0   0   0
+OP2= 15  12   5   5   1   1   0  12   0   0   0
+[Prog50]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Magical
+ALFB=  1   7
+OP1=  3   0   5   5   0   4   0   3   0   0   0
+OP2=  8   5   0  15  10   0   0   2   0   0   0
+[Prog51]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Huwawa
+ALFB=  0   5
+OP1=  2   3   0   4   1  10   0   1   0   0   3
+OP2=  4   0   0   9   0   0   0   1   0   0   0
+[Prog52]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=WnderFlt
+ALFB=  1   7
+OP1=  5  10   0   6   0   6   0   0   0   0   3
+OP2=  4   3   0  12  15   0   0   4   0   0   2
+[Prog53]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Hardrock
+ALFB=  0   6
+OP1= 12   1   0   6   5   4   0   0   0   0   0
+OP2= 13   5   0   6   0   1   0   1   0   0   2
+[Prog54]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Machine
+ALFB=  0   6
+OP1=  4   0   0   4   0   0   0   0   0   0   0
+OP2=  4   0   0   4   7   0   0   2   0   0   0
+[Prog55]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=MachineV
+ALFB=  0   3
+OP1=  4   0   0   4   0   0   0   0   0   0   0
+OP2=  4   0   0   4   7   0   0   2   0   0   0
+[Prog56]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Comic
+ALFB=  1   7
+OP1=  7   8  15  15   7   4   0   1   0   0   0
+OP2= 15   8   9   9  15   0   0   8   0   0   0
+[Prog57]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=SE_Comic
+ALFB=  0   5
+OP1=  7   6   1   1   1   4   0   8   0   0   3
+OP2= 15   7   9   9  15   0   0   0   0   0   3
+[Prog58]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=SE_Laser
+ALFB=  0   7
+OP1= 11   4  15  15  15   4   0   9   0   0   2
+OP2= 15   9   5   5   0   0   0   0   0   0   2
+[Prog59]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=SE_Noise
+ALFB=  0   6
+OP1= 10   2   0   0   0   4   0  13   0   0   3
+OP2= 15   0   1   1   0   0   0   2   0   0   2
+[Prog60]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=SE_Star
+ALFB=  0   7
+OP1=  1   3   2   2   4   8   0   1   0   0   2
+OP2=  1   0   1   1   0   0   0   2   0   0   2
+[Prog61]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=SE_Star2
+ALFB=  0   7
+OP1=  1   3   2   2   4   8   0   1   0   0   2
+OP2=  1   0   1   1   0   0   0   2   0   0   2
+[Prog62]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Engine 2
+ALFB=  0   6
+OP1=  2   3   0   6   2   7   0   0   0   0   0
+OP2=  7   0   0   2   0   3   0   4   0   0   0
+[Prog63]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Silence
+ALFB=  0   0
+OP1=  0   0  15  15  15  31   0   0   0   0   0
+OP2=  0   0  15  15  15  31   0   0   0   0   0
+[Prog64]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=PIANO 1
+ALFB=  0   4
+OP1= 14   5   8   8  15   4   0   1   0   0   0
+OP2= 12   5   6   6  15   0   0   1   0   0   0
+[Prog65]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=PIANO 2
+ALFB=  0   0
+OP1= 14   3   8   8  15   5   0   2   0   0   0
+OP2= 12   3   5   5  15   0   0   1   0   0   0
+[Prog66]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=SIN WAVE 1
+ALFB=  1   0
+OP1= 15  15   0  11   0   1   0   1   0   0   0
+OP2= 15  15   0  11   0   1   0   2   0   0   0
+[Prog67]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=SIN WAVE 2
+ALFB=  1   0
+OP1= 15  15   0  11   0   1   0   3   0   0   0
+OP2= 15  15   0  11   0   1   0   4   0   0   0
+[Prog68]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=EPIANO 1
+ALFB=  1   0
+OP1= 15   5   8   8  15   3   0   5   0   0   0
+OP2= 15   4   6   6  15   1   0   1   0   0   0
+[Prog69]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=EPIANO 2
+ALFB=  0   2
+OP1= 14   5   8   8  15   5   0   5   0   0   0
+OP2= 13   2   5   5  15   0   0   1   0   0   0
+[Prog70]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=EORGAN 1
+ALFB=  1   5
+OP1= 14   9   0   9   5   2   0   6   0   0   2
+OP2= 15   8   0   7   1   1   0   1   0   0   0
+[Prog71]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=EORGAN 2
+ALFB=  1   4
+OP1= 15   8   0   9   1   1   0   3   0   0   0
+OP2= 15   8   0   6   1   0   0   2   0   0   2
+[Prog72]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=PORGAN 1
+ALFB=  0   0
+OP1= 10  10   0   7   1   3   0   8   0   0   0
+OP2=  8  10   0   7   1   3   0   4   0   0   0
+[Prog73]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=PORGAN 2
+ALFB=  0   0
+OP1=  9  10   0   5   1   3   0   0   0   0   0
+OP2= 10  10   0   8   1   0   0   0   0   0   0
+[Prog74]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=CORGAN 1
+ALFB=  0   3
+OP1=  9   8   0   7   4   5   0   4   0   0   0
+OP2=  9   7   0   7   1   3   0   2   0   0   0
+[Prog75]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=CORGAN 2
+ALFB=  0   0
+OP1= 13  11   0   5   1   5   0  12   0   0   0
+OP2= 12   6   0   8   1   0   0   6   0   0   0
+[Prog76]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=PICCOLO 1
+ALFB=  0   3
+OP1=  5   5   6   6   5   5   0   8   0   0   0
+OP2=  6   5   0   6   7   2   0   8   0   0   0
+[Prog77]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=PICCOLO 2
+ALFB=  1   0
+OP1=  7   6   0   5   1   3   0   8   0   0   0
+OP2=  6   6   0   8   1   0   0   8   0   0   1
+[Prog78]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=GROCKEN 1
+ALFB=  0   6
+OP1= 15   7  10  10   1   4   0  11   0   0   0
+OP2= 14   7   8   8  15   1   0   1   0   0   0
+[Prog79]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=GROCKEN 2
+ALFB=  0   7
+OP1= 15   6   6   6  15   3   0   7   0   0   0
+OP2= 14   5   5   5  15   0   0   1   0   0   0
+[Prog80]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=VIBRPHN 1
+ALFB=  0   4
+OP1= 15   7   0   6   4   6   0  11   0   0   0
+OP2= 13   5   6   6  15   6   0   9   0   0   0
+[Prog81]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=VIBRPHN 2
+ALFB=  0   0
+OP1= 14   6   6   6  15   5   0   5   0   0   0
+OP2= 15   4   6   6  15   0   0   1   0   0   1
+[Prog82]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=XYLOPHN 1
+ALFB=  0   4
+OP1= 12   6   6   6  15   5   0   5   0   0   1
+OP2= 13   6   6   6  15   3   0   1   0   0   1
+[Prog83]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=XYLOPHN 2
+ALFB=  0   0
+OP1= 12   4   6   6  15   3   0   3   0   0   1
+OP2= 12   4   7   7  15   0   0   1   0   0   1
+[Prog84]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=HORN 1
+ALFB=  0   2
+OP1=  6   2   0   5   6   6   0   1   0   0   2
+OP2=  5   2   0   5   8   0   0   1   0   0   3
+[Prog85]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=HORN 2
+ALFB=  0   0
+OP1= 10   1   0   5   2   4   0   1   0   0   2
+OP2=  6   2   0   5   2   0   0   1   0   0   3
+[Prog86]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=STRINGS 1
+ALFB=  0   5
+OP1=  4  15   0   4   0   4   0   4   0   0   0
+OP2=  4  15   0   5   0   4   0  15   0   0   1
+[Prog87]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=STRINGS 2
+ALFB=  0   5
+OP1=  4  15   0   4   0   5   0   4   0   0   0
+OP2=  4  15   0   5   0   4   0   6   0   0   1
+[Prog88]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=STRINGS 3
+ALFB=  0   5
+OP1=  4  15   0   4   0   5   0   4   0   0   0
+OP2=  4  15   0   5   0   8   0   9   0   0   1
+[Prog89]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=RHYTHM 1
+ALFB=  0   0
+OP1= 10   6   7   7   4   4   0   1   0   0   0
+OP2= 13   6   7   7   4   1   0   1   0   0   0
+[Prog90]
+LFO0=    4     0   127  -301     2
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=RHYTHM 2
+ALFB=  1   0
+OP1= 13   7   8   8  15   3   0   3   0   0   0
+OP2= 13  10   7   7   5   0   0   3   0   0   0
+[Prog91]
+LFO0=    4     0   127  -508     2
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=RHYTHM 3
+ALFB=  1   0
+OP1= 13   6   6   6   3   0   0   2   0   0   0
+OP2= 15  14  12  11  15   0   0   1   0   0   0
+[Prog92]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=BELL
+ALFB=  0   5
+OP1= 14   4   4   4  15   5   0  12   0   0   0
+OP2= 14   3   3   3  15   0   0   7   0   0   1
+[Prog94]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=FLUTE
+ALFB=  0   0
+OP1=  6   5   0   4   1   4   0   2   0   0   0
+OP2=  4  15   0   6   0   0   0   2   0   0   1
+[Prog95]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=HARP
+ALFB=  0   5
+OP1= 12   5   5   5  15   5   0   2   0   0   0
+OP2= 11   5   5   5  15   0   0   2   0   0   0
+[Prog96]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=B.CLAR
+ALFB=  1   0
+OP1=  6  15   0   6   0   1   0   1   0   0   1
+OP2=  5  15   0   7   0   0   0   0   0   0   1
+[Prog97]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=OBOE
+ALFB=  1   0
+OP1=  3  15   0   7   0   1   0   4   0   0   1
+OP2=  5  15   0   8   0   0   0   2   0   0   1
+[Prog98]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=MO2413_R0
+ALFB=  0   0
+OP1= 14  14  15  15  15  10   0   7   0   0   0
+OP2= 15   8   0   8  15   0   0   1   0   0   0
+[Prog99]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=MO2413_R1
+ALFB=  0   0
+OP1= 10   7   0   7  15   0   0   1   0   0   0
+OP2= 15   7   0   7  15   0   0   1   0   0   0
+[Prog100]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=MO2413_R2
+ALFB=  0   0
+OP1= 15   8   0   8  15   0   0   5   0   0   0
+OP2= 15  11   5   5   5   0   0   1   0   0   0
+[Prog101]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=VRC7_00
+ALFB=  0   0
+OP1=  0   0   0   0   0   0   0   0   0   0   0
+OP2=  0   0   0   0   0   0   0   0   0   0   0
+[Prog102]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=VRC7_01
+ALFB=  0   6
+OP1=  9   4   0   0   4   4   0   3   0   1   0
+OP2=  9   0   1   1   0   0   0   1   0   0   0
+[Prog103]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=VRC7_02
+ALFB=  0   5
+OP1= 12  14   3   3   4   7   0   3   0   1   0
+OP2= 13   3   3   3   1   0   0   1   0   0   2
+[Prog104]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=VRC7_03
+ALFB=  0   6
+OP1= 15  15   0   0   0  13   0   1   0   0   0
+OP2= 13   2   2   2   3   0   0   2   0   0   0
+[Prog105]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=VRC7_04
+ALFB=  0   7
+OP1= 10  15   0   0   2  13   0   1   0   0   2
+OP2=  6   3   0   8   2   0   0   1   0   0   2
+[Prog106]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=VRC7_05
+ALFB=  0   6
+OP1= 15   0   0   8   0  15   0   2   0   0   0
+OP2=  7   6   0   8   2   0   0   1   0   0   0
+[Prog107]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=VRC7_06
+ALFB=  0   0
+OP1=  9   3   0   0   2  10   0   6   0   0   2
+OP2=  9   4   0   8  15   0   0   1   0   0   0
+[Prog108]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=VRC7_07
+ALFB=  0   7
+OP1=  8   2   0   0   1  14   0   1   0   0   0
+OP2=  8   1   0   7   1   0   0   1   0   0   2
+[Prog109]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=VRC7_08
+ALFB=  0   7
+OP1= 12   0   0   7   0  16   0   3   0   1   0
+OP2=  7   1   0   7   4   0   0   1   0   1   0
+[Prog110]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=VRC7_09
+ALFB=  0   5
+OP1=  6   4   0   8   1  19   0   5   0   0   0
+OP2=  4   1   0   8  15   0   0   1   0   0   0
+[Prog111]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=VRC7_10
+ALFB=  0   7
+OP1= 15  15   2   2   0  20   0   7   0   0   0
+OP2=  8   3   0   8  15   0   0   1   0   0   0
+[Prog112]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=VRC7_11
+ALFB=  0   7
+OP1= 12  15   2   2   0  18   0   7   0   0   1
+OP2= 12   8   4   4   1   0   0   1   0   0   1
+[Prog113]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=VRC7_12
+ALFB=  0   7
+OP1=  8   0   0   7   0  10   0   1   0   1   0
+OP2=  7  15   0   7   0   0   0   1   0   0   0
+[Prog114]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=VRC7_13
+ALFB=  0   3
+OP1= 13   3   3   3   4  11   0   1   0   0   0
+OP2= 11   2   8   8   5   0   0   1   0   0   0
+[Prog115]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=VRC7_14
+ALFB=  0   3
+OP1=  8   2   0   0   4   6   0   1   0   0   0
+OP2= 12   0   0   7   0   0   0   1   0   0   0
+[Prog116]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=VRC7_15
+ALFB=  0   3
+OP1= 13   4   0   0   4   6   0   1   0   0   0
+OP2= 13   3   4   4   8   0   0   1   0   0   0
+[Prog117]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=CloseHihat
+ALFB=  0   7
+OP1= 15   0   1   1   0   4   0  11   0   0   0
+OP2= 15  12   7   7   2   0   0   4   0   0   0
+[Prog118]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=OpenHiHat
+ALFB=  0   7
+OP1= 15   0   1   1   0   4   0  11   0   0   0
+OP2= 15   4   6   6  12   0   0   4   0   0   0
+[Prog119]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Ride
+ALFB=  0   7
+OP1=  9   1   2   1   2   6   0  13   0   0   0
+OP2= 15   7   4   6   5   0   0   3   0   0   0
+[Prog126]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=
+ALFB=  0   0
+OP1=  0   0   0   0   0   0   0   0   0   0   0
+OP2=  0   0   0   0   0   0   0   0   0   0   0
+[Prog127]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=
+ALFB=  0   0
+OP1=  0   0   0   0   0   0   0   0   0   0   0
+OP2=  0   0   0   0   0   0   0   0   0   0   0
+[Prog120]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Bass
+ALFB=  0   4
+OP1= 10   1   5   5   3  20   0   1   0   0   0
+OP2= 10   3   4   7   0   0   0   1   0   0   2
+[Prog23]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=SynBass
+ALFB=  0   6
+OP1= 12   7   4   4   1  16   0   0   0   0   2
+OP2= 15   9   0   4   0   0   0   1   0   0   0
+[Prog35]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Brass
+ALFB=  0   7
+OP1=  4   2   0   6   2  44   0   0   0   0   0
+OP2=  6   2   0   4   2   0   0   0   0   0   2
+[Prog93]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=BRASS
+ALFB=  1   6
+OP1=  5   1   4   4  15  29   0   1   0   0   0
+OP2=  7   2   5   5  15   0   0   1   0   0   1
+[Prog14]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Harpsicd
+ALFB=  1   6
+OP1= 10   3   4   4  15  12   0   1   0   0   0
+OP2= 14   2   4   4  15  12   0   0   0   0   0
+[Prog47]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=SynBrass
+ALFB=  1   5
+OP1= 11   6   0   3   0   4   0   1   0   0   0
+OP2= 15   9   0   6   2   0   0   1   0   0   2
+[Prog24]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Synthsiz
+ALFB=  0   6
+OP1=  9   4   3   3   3  22   0   2   0   0   2
+OP2= 11   0   6   6  15   0   0   4   0   0   2
+[Prog30]
+LFO0=    4     0   127  -512     2
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=SnareDrm
+ALFB=  0   7
+OP1= 13   1   1   1  11  16   0   0   0   0   2
+OP2= 13   8   6   7   4   0   0   0   0   0   2
+[Prog121]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Bass2
+ALFB=  0   7
+OP1= 13  13   0  10   4   8   0   1   0   0   0
+OP2= 11  15   5   5   0   0   0   2   0   0   0
+[Prog26]
+LFO0=    4     0   127  -400     2
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=SynRhyth
+ALFB=  1   7
+OP1= 12   7   6   6   3   2   0   1   0   0   2
+OP2= 13  11   5   5   0   0   0   1   0   0   0
+[Prog122]
+LFO0=    4     0   127  -500     6
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Tom
+ALFB=  0   6
+OP1= 12  12   6   6   9   3   0   0   0   0   0
+OP2= 14   8   7   6   1   0   0   1   0   0   0
+[Prog123]
+LFO0=    4     0   127  -500     3
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=BassDrum2
+ALFB=  0   6
+OP1= 12  12   6   6   9   3   0   0   0   0   0
+OP2= 14   8   7   6   6   0   0   1   0   0   0
+[Prog124]
+LFO0=    4     0   127  -200     2
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Snare2
+ALFB=  1   7
+OP1= 10   7   5   7   7   0   0   1   0   0   0
+OP2= 15   7  11   7   4   0   0   1   0   0   0
+[Prog125]
+LFO0=    0     0     0     0     0
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Ride
+ALFB=  0   7
+OP1= 15   8   0   8  11   0   0   7   0   0   0
+OP2= 15  11   4   5   5   0   0   3   0   0   0

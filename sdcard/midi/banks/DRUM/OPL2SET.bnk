@@ -1,0 +1,29 @@
+[Header]
+Type=RHYTHM
+BankName=OPL2 Drum Set
+
+[Bank]
+Note35=Acoustic Bass Drum,OPL2,5,98,52,0,16
+Note36=Bass Drum 1,OPL2,5,31,51,0,16
+Note37=Side Stick,OPL2,5,99,76,0,8
+Note38=Acoustic Snare,OPL2,5,30,79,0,16
+Note40=Electric Snare,OPL2,5,30,72,0,16
+Note41=Low Floor Tom,OPL2,5,91,48,0,20
+Note42=Closed Hi Hat,OPL2,5,117,106,0,5
+Note43=High Floor Tom,OPL2,5,94,53,0,20
+Note44=Pedal Hi-Hat,OPL2,5,117,48,0,8
+Note45=Low Tom,OPL2,5,91,59,0,20
+Note46=Open Hi-Hat,OPL2,5,118,120,0,20
+Note47=Low-Mid Tom,OPL2,5,91,65,0,20
+Note48=Hi-Mid Tom,OPL2,5,91,69,0,20
+Note49=Crash Cymbal 1,OPL2,5,118,36,0,50
+Note50=High Tom,OPL2,5,94,72,0,20
+Note51=Ride Cymbal 1,OPL2,5,118,120,0,50
+Note52=Chinese Cymbal,OPL2,5,118,36,0,50
+Note53=Ride Bell,OPL2,5,117,120,0,50
+Note55=Splash Cymbal,OPL2,5,118,36,0,50
+Note56=Cowbell,OPL2,5,28,84,0,8
+Note57=Crash Cymbal 2,OPL2,5,118,36,0,50
+Note59=Ride Cymbal 2,OPL2,5,118,120,0,50
+Note60=Hi Bongo,OPL2,5,98,72,0,8
+Note61=Low Bongo,OPL2,5,98,65,0,8

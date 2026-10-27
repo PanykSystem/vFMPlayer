@@ -1,0 +1,29 @@
+
+[Header]
+Type=RHYTHM
+BankName=SD-1 Drum Set
+[Bank]
+Note35=Acoustic Bass D,SD1:0:0,5,2,26:0,0,16
+Note36=Bass Drum 1,SD1:0:0,5,3,23:0,0,16
+Note37=Side Stick,SD1:0:0,5,53,59:0,0,8
+Note38=Acoustic Snare,SD1:0:0,5,49,67:0,0,16
+Note40=Electric Snare,SD1:0:0,5,48,16:0,0,16
+Note41=Low Floor Tom,SD1:0:0,5,27,10:0,0,20
+Note42=Closed Hi Hat,SD1:0:0,5,32,90:0,0,5
+Note43=High Floor Tom,SD1:0:0,5,26,11:0,0,20
+Note44=Pedal Hi-Hat,SD1:0:0,5,34,81:0,0,8
+Note45=Low Tom,SD1:0:0,5,36,5:0,0,20
+Note46=Open Hi-Hat,SD1:0:0,5,33,90:0,0,20
+Note47=Low-Mid Tom,SD1:0:0,5,39,20:0,0,20
+Note48=Hi-Mid Tom,SD1:0:0,5,38,28:0,0,20
+Note49=Crash Cymbal 1,SD1:0:0,5,21,84:0,0,50
+Note50=High Tom,SD1:0:0,5,31,28:0,0,20
+Note51=Ride Cymbal 1,SD1:0:0,5,41,109:0,0,50
+Note52=Chinese Cymbal,SD1:0:0,5,14,88:0,0,50
+Note53=Ride Bell,SD1:0:0,5,43,77:0,0,50
+Note55=Splash Cymbal,SD1:0:0,5,52,97:0,0,50
+Note56=Cowbell,SD1:0:0,5,20,84:0,0,8
+Note57=Crash Cymbal 2,SD1:0:0,5,22,120:0,0,50
+Note59=Ride Cymbal 2,SD1:0:0,5,42,110:0,0,50
+Note60=Hi Bongo,SD1:0:0,5,6,36:0,0,8
+Note61=Low Bongo,SD1:0:0,5,7,32:0,0,8

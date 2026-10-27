@@ -1,0 +1,25 @@
+[Header]
+Type=RHYTHM
+BankName=OPNA & OPLL Internal Set
+
+[Bank]
+Note35=Acoustic Bass Drum,OPNA_R,0,0,0,0,0
+Note36=Bass Drum 1,OPLL_R,0,4,#2480,0,20
+Note37=Side Stick,OPNA_R,0,5,0,0,0
+Note38=Acoustic Snare,OPNA_R,0,1,0,0,0
+Note40=Electric Snare,OPLL_R,0,3,#2540,0,20
+Note41=Low Floor Tom,OPLL_R,0,4,#2500,0,20
+Note42=Closed Hi Hat,OPLL_R,0,0,#2540,0,20
+Note43=High Floor Tom,OPLL_R,0,4,#2580,0,20
+Note44=Pedal Hi-Hat,OPNA_R,0,3,0,0,0
+Note45=Low Tom,OPLL_R,0,2,#0500,0,20
+Note46=Open Hi-Hat,OPLL_R,0,1,#0700,0,20
+Note47=Low-Mid Tom,OPLL_R,0,2,#0580,0,20
+Note48=Hi-Mid Tom,OPLL_R,0,2,#0600,0,20
+Note49=Crash Cymbal 1,OPNA_R,0,2,0,0,0
+Note50=High Tom,OPLL_R,0,2,#0700,0,20
+Note51=Ride Cymbal 1,OPNA_R,0,2,0,0,0
+Note57=Crash Cymbal 2,OPNA_R,0,2,0,0,0
+Note59=Ride Cymbal 2,OPNA_R,0,2,0,0,0
+Note60=Hi Bongo,OPLL_R,0,2,#0780,0,20
+Note61=Low Bongo,OPLL_R,0,2,#07ff,0,20

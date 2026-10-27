@@ -1,0 +1,2667 @@
+[Header]
+Type=OPM
+BankName=V2(DX11) Preset
+
+
+
+
+
+[Prog5]
+Name=Sy.Brass 4      
+;	AL  FB  NE  NF
+ALFB=	 4   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	15 15   0   1   1  29   0   1   6   0   0
+OP2=	17  9   0  10   3   0   0   1   6   0   0
+OP3=	15 15   0   1   1  29   0   1   0   0   0
+OP4=	17  9   0  10   3   0   0   1   0   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   1   0   0
+ADD2=	 0   0   3   0   0
+ADD3=	 0   0   1   0   0
+ADD4=	 0   0   3   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2    28     0    12    35
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog6]
+Name=Sy.Ensem.1      
+;	AL  FB  NE  NF
+ALFB=	 5   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	20  6   0   4   8  33   0   4   6   2   0
+OP2=	14  9   2   4   4   0   0   2   6   1   0
+OP3=	14  8   2   4   6  12   0   4   0   3   0
+OP4=	14  9   2   4   5   6   0   2   0   2   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   4   5   0   0
+ADD2=	 0   2   3   0   0
+ADD3=	 0   0   3   0   0
+ADD4=	 0   0   1   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     8     0    15    42
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog7]
+Name=Sy.Ensem.2      
+;	AL  FB  NE  NF
+ALFB=	 6   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31 23   9   3   3  34   0  14   3   3   0
+OP2=	31  7   2   5   4   0   0   4   6   3   0
+OP3=	13  4   2   5   8   0   0   4   6   3   0
+OP4=	13  3   1   5   4   0   0   2   0   2   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   6   0   0
+ADD2=	 0   0   0   0   0
+ADD3=	 0   0   1   0   0
+ADD4=	 0   0   3   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2    12     0    28    42
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+
+[Prog9]
+Name=Sy.Ensem.4      
+;	AL  FB  NE  NF
+ALFB=	 4   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	 8  4   0   4   0  47   0   4   6   3   0
+OP2=	16 31   0   4   0   0   0   2   4   1   0
+OP3=	 7  7   0   4   0  23   0   2   2   2   0
+OP4=	27  9   0   4   4   5   0   4   0   3   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   2   3   0   0
+ADD3=	 0   0   3   0   0
+ADD4=	 0   0   1   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     1     0    25    39
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog10]
+Name=Sy.Ensem.5      
+;	AL  FB  NE  NF
+ALFB=	 5   6   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	14  2   0   1   2  39   0   1   3   0   0
+OP2=	14  6   0   5   1  10   0   2   0   0   0
+OP3=	11  6   0   5   1   0   0   0   6   0   0
+OP4=	14  6   0   5   1   0   0   1   0   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   5   0   0
+ADD2=	 0   0   2   0   0
+ADD3=	 0   0   1   0   0
+ADD4=	 0   0   2   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2    11     0    34    35
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog11]
+Name=Sy.Perc. 1      
+;	AL  FB  NE  NF
+ALFB=	 4   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31 17   6   1   7  28   0  15   3   3   0
+OP2=	31 11   6   5   7   0   0   2   6   2   0
+OP3=	31 21   5   1   3  29   0  15   3   0   0
+OP4=	31 15   6   5   5   0   0   1   0   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   3   0   0
+ADD2=	 0   0   0   0   0
+ADD3=	 0   0   2   0   0
+ADD4=	 0   8   2   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0    12    43
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog12]
+Name=Sy.Perc. 2      
+;	AL  FB  NE  NF
+ALFB=	 4   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31  8   0   1  15  62   0   4   5   3   0
+OP2=	26  8   0   4  15   8   0   0   5   0   0
+OP3=	31  7   0   1  15  53   0  10   1   0   0
+OP4=	27  9   0   5  15   5   0   2   1   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   1   0   0
+ADD2=	 0   0   0   0   0
+ADD3=	 0   0   1   0   0
+ADD4=	 0   0   2   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0    23    41
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog13]
+Name=Sy.Perc. 3      
+;	AL  FB  NE  NF
+ALFB=	 4   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31 20   0   4  15  28   0   2   0   0   0
+OP2=	26 22  12   9   3  10   2   1   0   0   0
+OP3=	31 26   8   1  11  50   0   1   6   0   0
+OP4=	22 21   7   7   1   6   2   1   6   0   1
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   0   5   0   0
+ADD3=	 0   0   6   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0     0    39
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog14]
+Name=Sy.Perc. 4      
+;	AL  FB  NE  NF
+ALFB=	 4   0   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31  5   0   5  11  23   1   8   6   0   0
+OP2=	30 29  10   5   0   8   1   1   6   1   0
+OP3=	30 10   1   5  13  20   1   7   0   3   0
+OP4=	31 31  10   5   0   8   1   1   0   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   3   0   0
+ADD2=	 0   1   0   0   0
+ADD3=	 0   6   4   0   0
+ADD4=	 0   8   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0     0    33
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog15]
+Name=Sy.Bass  1      
+;	AL  FB  NE  NF
+ALFB=	 2   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31  3  16   6  15  33   2   1   5   0   0
+OP2=	20 31  23   6   4  15   3   5   0   2   0
+OP3=	31  0  18   6   0   0   1   3   3   1   0
+OP4=	31 30   0   7   0   7   2   1   3   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   0   1   0   0
+ADD3=	 0   0   0   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0     0    44
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog16]
+Name=Sy.Bass  2      
+;	AL  FB  NE  NF
+ALFB=	 5   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	29 14   0   6   6  23   1   1   6   0   0
+OP2=	31 10   0  10  15   2   0   0   6   0   0
+OP3=	31 10   0  10  15   2   0   0   1   0   0
+OP4=	31 10   0  10  15   2   2   0   0   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   1   0   0
+ADD2=	 0   0   2   0   0
+ADD3=	 0   0   5   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2    66     0    32    34
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog17]
+Name=Sy.Bass  3      
+;	AL  FB  NE  NF
+ALFB=	 0   0   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31 18  12   2   8  12   2   4   3   0   0
+OP2=	31 12   3   7  10  37   2   0   6   0   0
+OP3=	30  4   2   7   6  17   2   0   3   0   0
+OP4=	30  9   3   7  15  15   2   0   3   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   1   0   0
+ADD2=	 0   0   5   0   0
+ADD3=	 0   0   1   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0     0    39
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog18]
+Name=Sy.Bass  4      
+;	AL  FB  NE  NF
+ALFB=	 2   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	26 11   0   8  11  26   2   0   3   0   0
+OP2=	21 11   5   8  11  14   3   0   3   0   0
+OP3=	26  9   3   8  11  24   2   0   3   0   0
+OP4=	24  9   3   9  11   0   1   0   3   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   0   1   0   0
+ADD3=	 0   0   1   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0     0    35
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog19]
+Name=Sy.Bass  5      
+;	AL  FB  NE  NF
+ALFB=	 2   0   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31 18   8   2   4  12   2   4   3   0   0
+OP2=	31 12   3   7  10  37   2   0   6   0   0
+OP3=	30  6   2   7   6  16   2   0   3   0   0
+OP4=	30  5   3   7   6   7   2   0   3   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   1   0   0
+ADD2=	 0   0   5   0   0
+ADD3=	 0   0   1   0   0
+ADD4=	 0   0   5   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0     0    41
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog20]
+Name=Sy.Organ 1      
+;	AL  FB  NE  NF
+ALFB=	 6   0   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31 18   0   7   2  24   1   3   3   1   0
+OP2=	31 20   0   9   9   0   0   3   3   1   0
+OP3=	31 20   0   9   1  17   2   2   3   0   1
+OP4=	31 31   0   8   0   0   1   1   3   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   0   4   0   0
+ADD3=	 0   0   0   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2    13     0  4245    38
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog21]
+Name=Sy.Organ 2      
+;	AL  FB  NE  NF
+ALFB=	 2   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	27  0   0  15   0  80   0   3   3   1   0
+OP2=	31  0   0  10   4  33   0   3   4   1   0
+OP3=	30 28   0   4  14  39   0   2   2   0   0
+OP4=	31  6   0   9   0  20   0   1   4   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   0   4   0   0
+ADD3=	 0   0   2   0   0
+ADD4=	 0   0   1   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0    50    44
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog22]
+Name=Sy.Solo  1      
+;	AL  FB  NE  NF
+ALFB=	 3   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	23 15   0  10   3  59   0   3   6   1   0
+OP2=	22  0   0  10   0  20   0   1   6   0   0
+OP3=	24 14   0  10   3  46   0   1   6   0   0
+OP4=	24  5   1  10   2   8   0   1   0   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   6   0   0
+ADD2=	 0   0   3   0   0
+ADD3=	 0   0   3   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2    20     0    12    41
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog23]
+Name=Sy.Solo  2      
+;	AL  FB  NE  NF
+ALFB=	 5   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31 25   0   8   4  33   0   1   6   0   0
+OP2=	27  4   0  12   2   0   0   1   6   0   0
+OP3=	27 10   0  12   3   0   0   2   0   0   0
+OP4=	31  4   0  12   1   0   0   1   6   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   2   0   0
+ADD2=	 0   0   4   0   0
+ADD3=	 0   0   5   0   0
+ADD4=	 0   0   2   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2    40     0    25    48
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog24]
+Name=Sy.Solo  3      
+;	AL  FB  NE  NF
+ALFB=	 2   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31 10   0   4   2  25   1   1   3   0   0
+OP2=	31 11   0   5   4  28   1   1   3   0   0
+OP3=	31 13   0   7   4  69   1   1   3   0   0
+OP4=	22 31   0  10   0   2   1   1   3   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   3   0   0
+ADD2=	 0   0   3   0   0
+ADD3=	 0   0   3   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0     0    41
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog25]
+Name=Sy.Solo  4      
+;	AL  FB  NE  NF
+ALFB=	 2   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31 10   0   4   2  28   1   2   3   0   0
+OP2=	31 11   0   5   4  38   1   1   3   0   0
+OP3=	31 13   0   7   4  59   1   2   3   0   0
+OP4=	23 31   0  10   0   2   1   1   3   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   3   0   0
+ADD2=	 0   0   3   0   0
+ADD3=	 0   0   3   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0     0    41
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog26]
+Name=Sy.Voice 1      
+;	AL  FB  NE  NF
+ALFB=	 4   5   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	12 14   0   4   0  43   0   1   6   0   1
+OP2=	13 12   0   6   0   0   0   1   6   0   1
+OP3=	13 14   0   4   0  43   0   1   0   0   1
+OP4=	13 14   0   6   0   0   0   2   0   0   1
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   0   0   0   0
+ADD3=	 0   0   0   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2    10     0   742    38
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog27]
+Name=Sy.Voice 2      
+;	AL  FB  NE  NF
+ALFB=	 4   6   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	18  2   1   4   0  56   1   1   4   0   0
+OP2=	14  2   1   5   2   0   1   1   3   0   0
+OP3=	15  2   1   2   4  64   1   1   3   0   0
+OP4=	14  2   1   5   2   0   1   2   0   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   0   3   0   0
+ADD3=	 0   0   2   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2    18     0    56    38
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog28]
+Name=Sy.Decay 1      
+;	AL  FB  NE  NF
+ALFB=	 5   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31  8   0   4   6  33   0   4   6   2   0
+OP2=	27 16   0   4   4   3   0   2   6   1   0
+OP3=	24  8   0   4   4  23   0   4   0   3   0
+OP4=	31 10   0   4   5   3   0   2   0   2   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   4   5   0   0
+ADD2=	 0   2   3   0   0
+ADD3=	 0   0   3   0   0
+ADD4=	 0   0   1   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     6     0    11    39
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog29]
+Name=Sy.Decay 2      
+;	AL  FB  NE  NF
+ALFB=	 3   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31 12   8  15   3  47   2  13   1   1   0
+OP2=	31 11   7  13   3  15   1   1   6   0   1
+OP3=	31 17   1   4   1  26   2   1   6   1   0
+OP4=	31  7   4   8   1   3   2   1   1   1   1
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0  15   7   0   0
+ADD2=	 0   8   1   0   0
+ADD3=	 0   1   0   0   0
+ADD4=	 0   1   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     8     0  4354    35
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog30]
+Name=Sy.Sitar        
+;	AL  FB  NE  NF
+ALFB=	 2   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	30 18  31   3   6  43   0  15   3   0   0
+OP2=	30 15  31   2   0  15   0   0   3   2   0
+OP3=	29 15   2   1   0  10   0   0   3   0   0
+OP4=	30 31  12   4   0   7   0   4   3   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   1   0   0
+ADD2=	 0   6   7   0   0
+ADD3=	 0   0   0   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0     3    29
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog31]
+Name=Sy.AftrTch      
+;	AL  FB  NE  NF
+ALFB=	 4   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31 31   0   3   0  37   0   2   0   2   0
+OP2=	11 31   0   5   0  16   0   2   0   2   0
+OP3=	31 31   0   3   0  39   0   2   6   1   0
+OP4=	11 31   0   5   0  16   0   2   6   2   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   3   0   0
+ADD2=	 0   0   1   0   0
+ADD3=	 0   2   6   0   0
+ADD4=	 0   0   3   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0    59    44
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog32]
+Name=DX7 EP          
+;	AL  FB  NE  NF
+ALFB=	 4   3   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31 15   0  10   8  33   0  11   6   1   1
+OP2=	27  7  10   9   8  25   0   1   3   0   1
+OP3=	30  6   0   6  15  12   0   1   0   0   1
+OP4=	30  7   0   9  15   0   0   1   6   0   1
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   0   0   0   0
+ADD3=	 0   0   0   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0  1541    28
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog33]
+Name=Old Rose        
+;	AL  FB  NE  NF
+ALFB=	 2   6   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	25 18   5   9   2  19   0   1   5   0   1
+OP2=	31 19   0   9  12  16   0   0   3   2   0
+OP3=	25 13  10   9   3  38   2   2   3   0   0
+OP4=	26 31   5   9   0   3   1   1   1   0   1
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   3   0   0
+ADD2=	 0   0   2   0   0
+ADD3=	 0   0   5   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0     0    32
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog34]
+Name=E.Piano  1      
+;	AL  FB  NE  NF
+ALFB=	 3   0   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31 31  17  15   0  41   2  12   0   1   1
+OP2=	29  4   1   6   1  38   1   1   4   0   1
+OP3=	29 11  18   6   1  73   2  10   2   0   1
+OP4=	29 12   4   8   1   0   2   1   6   0   1
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   2   0   0
+ADD2=	 0   0   0   0   0
+ADD3=	 0   0   0   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0  4106    20
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog35]
+Name=E.Piano  2      
+;	AL  FB  NE  NF
+ALFB=	 2   0   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31 19  13   9  11  33   0   3   3   3   0
+OP2=	31 13   8   7   3  64   0   1   3   0   0
+OP3=	31 31   0   7   0  33   0   0   3   0   0
+OP4=	24 31   9   9   0   3   0   0   3   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   1   0   0
+ADD2=	 0   0   0   0   0
+ADD3=	 0   0   0   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0     0    44
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog36]
+Name=Grand PF        
+;	AL  FB  NE  NF
+ALFB=	 2   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31  7   1   6   1  29   1   1   0   0   0
+OP2=	31  7   3   7   5  32   2   7   5   0   0
+OP3=	22  3   2   6   3  29   2   2   6   1   0
+OP4=	23 22   6   8   1   0   2   1   6   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   0   0   0   0
+ADD3=	 0   2   0   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0     5    39
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog37]
+Name=Upright         
+;	AL  FB  NE  NF
+ALFB=	 2   3   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	22 29  18   7   3  42   0   1   3   3   1
+OP2=	27 19   1   2   0  53   3   6   0   1   1
+OP3=	28 14   3   5   0  25   2   1   6   0   1
+OP4=	25  7   4   6  10   0   2   1   3   0   1
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 1   2   0   0   0
+ADD2=	 0   0   0   0   0
+ADD3=	 0   0   1   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0   263    38
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog38]
+Name=Flamenco        
+;	AL  FB  NE  NF
+ALFB=	 1   6   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	24 11  10   7   2  21   1   2   3   2   0
+OP2=	23 15  14   6   6  21   1   2   3   2   0
+OP3=	31 18   0   5   0  44   1   1   3   0   0
+OP4=	23 19   9   8   1   0   1   1   3   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   3   0   0
+ADD2=	 0   0   1   0   0
+ADD3=	 0   0   0   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0     0    38
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog39]
+Name=A.Guitar        
+;	AL  FB  NE  NF
+ALFB=	 2   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31 31   6   6   2  30   1   1   2   0   0
+OP2=	31 11   7   7   4  38   1   7   3   3   0
+OP3=	28 10   7   7   2  48   1   3   2   1   0
+OP4=	27 12   8   9   2   1   1   1   4   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   0   4   0   0
+ADD3=	 0   0   2   0   0
+ADD4=	 0   0   4   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0     0    38
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog40]
+Name=F.Guitar        
+;	AL  FB  NE  NF
+ALFB=	 2   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31 31   5   6   0  25   1   1   2   0   0
+OP2=	31 11   4   7   4  38   1   7   3   3   0
+OP3=	26  9   7   7   2  33   1   3   2   1   0
+OP4=	26 12   6   8   2   1   1   1   4   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   0   7   0   0
+ADD3=	 0   0   1   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0     0    38
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog41]
+Name=Banjo           
+;	AL  FB  NE  NF
+ALFB=	 3   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31 11   8   1   0  34   2   7   5   0   0
+OP2=	31  7  17   1   0  44   2   2   6   0   0
+OP3=	31 31   0   1   0  20   2   1   6   0   0
+OP4=	31 14  10   6   5   0   2   2   0   2   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   7   0   0
+ADD2=	 0   0   0   0   0
+ADD3=	 0   0   3   0   0
+ADD4=	 0   0   4   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0    20    37
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog42]
+Name=E.Guitar        
+;	AL  FB  NE  NF
+ALFB=	 2   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31 31   4   3   0  37   2   3   6   1   0
+OP2=	31 31   4   3   0  20   0   0   4   0   0
+OP3=	31 31   3   3   0  16   1   1   2   0   0
+OP4=	24 31   5  11   0  17   0   1   0   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   0   6   0   0
+ADD3=	 0   0   2   0   0
+ADD4=	 0   0   1   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2    28     0    10    44
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog43]
+Name=Mute Gtr        
+;	AL  FB  NE  NF
+ALFB=	 4   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31 20  31   3   1  26   1   4   3   3   0
+OP2=	31 16   9   9   1   0   3   1   3   0   0
+OP3=	31 22  13   8   1  21   3   1   3   0   0
+OP4=	31 17   9   8   1   0   3   1   3   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   5   0   0
+ADD2=	 0   0   0   0   0
+ADD3=	 0   0   0   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0    28    35
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog44]
+Name=Harp     1      
+;	AL  FB  NE  NF
+ALFB=	 4   0   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	23 14  10   3   1  16   1   1   0   0   0
+OP2=	31 12   7   5   1   0   1   1   0   0   0
+OP3=	23 14  10   3   1  16   1   1   6   0   0
+OP4=	31 12   7   5   1   0   1   1   6   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   3   0   0
+ADD2=	 0   0   0   0   0
+ADD3=	 0   0   3   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2    21     0   144    34
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog45]
+Name=Harp     2      
+;	AL  FB  NE  NF
+ALFB=	 2   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	23 11  11   1   9  51   0   1   0   0   1
+OP2=	31 19   0   1  15  41   0   5   6   2   1
+OP3=	28 19   0   1  15  33   0   2   6   0   1
+OP4=	25 15  11   5   1   0   1   1   0   0   1
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   0   2   0   0
+ADD3=	 0   0   2   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0  1287    25
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog46]
+Name=Harpsichrd      
+;	AL  FB  NE  NF
+ALFB=	 4   3   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	26 19   0   1   2  10   2   2   1   2   0
+OP2=	23  8   6   7   3  29   2   1   6   0   0
+OP3=	15 16   0   1   2   7   3   0   5   0   0
+OP4=	23  8   6   7   3  14   2   3   4   1   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   4   0   0
+ADD2=	 0   0   0   0   0
+ADD3=	 0   0   0   0   0
+ADD4=	 0   0   3   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0     0    39
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog47]
+Name=Clavi           
+;	AL  FB  NE  NF
+ALFB=	 2   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31  1   0  15  15  28   2   4   0   3   0
+OP2=	31  6   1   1   1  25   1   4   6   0   0
+OP3=	31 12   1   1   2  19   1   0   1   0   0
+OP4=	31  0  10  15   0  14   1   2   5   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   2   0   0
+ADD2=	 0   0   4   0   0
+ADD3=	 0   0   2   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0     0    35
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog48]
+Name=Koto            
+;	AL  FB  NE  NF
+ALFB=	 0   0   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31 18  12   6   4  15   1   5   3   2   0
+OP2=	31 31   6   4   0  30   1   2   3   2   0
+OP3=	31 31   8   1   0  35   1   1   3   0   0
+OP4=	25 31  10   6   0  11   1   2   3   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   0   0   0   0
+ADD3=	 0   0   0   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0     0    38
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog49]
+Name=Syamisen        
+;	AL  FB  NE  NF
+ALFB=	 3   3   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	26 14  15   6   9  19   2   2   3   2   0
+OP2=	24  6   0   4   1  44   2   1   3   0   0
+OP3=	23 18  18   7   3  12   2   4   3   0   0
+OP4=	23 15   9   6   2   0   2   2   3   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   2   0   0
+ADD2=	 0   0   7   0   0
+ADD3=	 0   0   3   0   0
+ADD4=	 0   0   3   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     2     0    41    30
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog50]
+Name=Marimba         
+;	AL  FB  NE  NF
+ALFB=	 4   0   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31 22  14   7  10  21   1   3   3   3   0
+OP2=	23 31  13   7   0   1   1   2   3   0   0
+OP3=	26 24  12   7  10  21   1   2   3   2   0
+OP4=	22 31  10   5   0   1   1   0   3   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   0   0   0   0
+ADD3=	 0   0   0   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0     0    44
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog51]
+Name=Xylophone       
+;	AL  FB  NE  NF
+ALFB=	 4   0   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31 31  22   9   0  43   2   7   3   3   0
+OP2=	31 31  15   7   0   1   1   1   3   0   0
+OP3=	31 31  22   9   0  24   1   6   3   1   0
+OP4=	31 31  15   7   0   1   2   3   3   1   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   0   0   0   0
+ADD3=	 0   0   0   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0     0    44
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog52]
+Name=Vibe.           
+;	AL  FB  NE  NF
+ALFB=	 4   0   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31 15  14  10   5  57   0   9   0   0   0
+OP2=	31 17   5   4   0   2   2   1   6   0   0
+OP3=	31 14   8   6   6  57   0   4   6   0   0
+OP4=	31 17   5   4   0   2   2   1   0   0   1
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   0   0   0   0
+ADD3=	 0   0   0   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0  4992    39
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog53]
+Name=Glocken         
+;	AL  FB  NE  NF
+ALFB=	 5   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31 29   0   6  15   0   0   2   3   2   0
+OP2=	31 12   0   5  15   0   0   2   3   0   0
+OP3=	31 13   0   6  15   0   0   7   3   3   0
+OP4=	31 14   1   6  15  10   0  11   3   1   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   0   0   0   0
+ADD3=	 0   0   0   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0    16    42
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog54]
+Name=Tube Bell       
+;	AL  FB  NE  NF
+ALFB=	 4   2   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31 14   5   2   2  24   0   5   6   2   0
+OP2=	26 31   7   4   0   3   1   2   6   0   0
+OP3=	31 14   5   2   1  41   0   5   0   2   0
+OP4=	26 31   7   4   0   6   1   2   0   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   3   0   0
+ADD2=	 0   0   0   0   0
+ADD3=	 0   0   0   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0     0    33
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog55]
+Name=Toy Piano       
+;	AL  FB  NE  NF
+ALFB=	 4   2   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31 15  13   7   3  24   0   2   0   2   0
+OP2=	29 16  14   7   1  19   1   4   0   0   0
+OP3=	31 14  10   9   2  25   0   5   6   1   0
+OP4=	29 16  13   8   2   3   1   2   6   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   7   0   0   0
+ADD2=	 0   8   0   0   0
+ADD3=	 0   7   0   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0     0    33
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog56]
+Name=Pizz.    1      
+;	AL  FB  NE  NF
+ALFB=	 6   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31 31   8  10   2  50   0   1   3   0   0
+OP2=	28 18   0  11  15   0   0   1   3   0   0
+OP3=	29 29  17  15   5   0   0   1   3   0   0
+OP4=	31 17  14  15   6  11   0   1   3   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   0   0   0   0
+ADD3=	 0   0   0   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0    12    44
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog57]
+Name=Pizz.    2      
+;	AL  FB  NE  NF
+ALFB=	 1   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	29 16  10   9   0  43   0   1   3   0   0
+OP2=	31 31  31  15  15  23   0   0   3   0   0
+OP3=	31 31  22  10   2  32   0   1   3   0   0
+OP4=	31 19  17  15  15   0   0   1   3   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   0   3   0   0
+ADD3=	 0   0   0   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0     0    44
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog58]
+Name=E.Bass   1      
+;	AL  FB  NE  NF
+ALFB=	 3   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31  1   0   8  11  29   3   0   3   0   0
+OP2=	19 10   5   8  11  50   3   5   3   2   0
+OP3=	31  8   3   8  11  17   2   0   3   0   0
+OP4=	31  9   3   9  11   0   1   0   3   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   0   1   0   0
+ADD3=	 0   0   1   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0     0    35
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog59]
+Name=E.Bass   2      
+;	AL  FB  NE  NF
+ALFB=	 0   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31 15  16   7   0  41   0  11   3   1   0
+OP2=	31 11  10   7   0  43   0   4   3   0   0
+OP3=	30  8   9   7   0  21   0   0   3   0   0
+OP4=	29 12  10   9   0   0   0   1   3   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   0   0   0   0
+ADD3=	 0   0   3   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0     0    38
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog60]
+Name=E.Bass   3      
+;	AL  FB  NE  NF
+ALFB=	 0   4   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	 6  6   7   1   2  16   3   0   6   0   1
+OP2=	31  5   6   1   1  61   3   2   6   0   1
+OP3=	31  5   6   1   1  20   2   0   6   0   1
+OP4=	25  5   8   7  15   0   2   0   6   0   1
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   0   0   0   0
+ADD3=	 0   0   0   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2    16     0  3353    33
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog61]
+Name=Wood Bass       
+;	AL  FB  NE  NF
+ALFB=	 0   2   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	23 21  12   9   4   0   1   1   2   0   0
+OP2=	28 17  11   2   0  30   1   2   3   2   0
+OP3=	31 17  11   4   0  35   1   1   3   0   0
+OP4=	26 21  10   8   0   0   1   1   3   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   3   0   0
+ADD2=	 0   0   0   0   0
+ADD3=	 0   0   0   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0     0    39
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog62]
+Name=Bell            
+;	AL  FB  NE  NF
+ALFB=	 4   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31 22   7   3   5  29   0   5   6   2   0
+OP2=	25  9   0   4  15   3   0   1   6   0   0
+OP3=	31 16  10   4   7  39   0   3   0   1   0
+OP4=	24  9   0   6  15   5   0   0   0   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   0   0   0   0
+ADD3=	 0   0   0   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0     0    38
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog63]
+Name=Steel Drum      
+;	AL  FB  NE  NF
+ALFB=	 1   0   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	20 16  16   6   5  76   0  12   3   0   0
+OP2=	21 12  14   6   3  29   0   2   3   3   0
+OP3=	19  8   0   4   2  42   0   1   1   0   0
+OP4=	24 12  15   5   0   5   1   1   5   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   0   0   0   0
+ADD3=	 0   0   0   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0     0    41
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog64]
+Name=Strings  1      
+;	AL  FB  NE  NF
+ALFB=	 4   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31  4   0   4   0  37   0   2   6   1   0
+OP2=	12 31   0   5   0   0   0   2   6   1   0
+OP3=	31  4   0   4   0  37   0   2   0   2   0
+OP4=	12 31   0   5   0   0   0   2   0   2   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   2   0   0   0
+ADD2=	 0   2   3   0   0
+ADD3=	 0   0   0   0   0
+ADD4=	 0   0   3   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     6     0    12    39
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog65]
+Name=Strings  2      
+;	AL  FB  NE  NF
+ALFB=	 4   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	20  5   0   4   6  48   0   7   6   0   0
+OP2=	12  5   2   5   3   0   0   2   6   1   0
+OP3=	13  4   2   4   6  35   0   4   0   3   0
+OP4=	13  4   1   5   3   0   0   2   0   2   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   1   0   0
+ADD2=	 0   2   3   0   0
+ADD3=	 0   0   2   0   0
+ADD4=	 0   0   2   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0    33    39
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog66]
+Name=Ensemble 1      
+;	AL  FB  NE  NF
+ALFB=	 4   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	20  6   0   4   5  48   0   7   6   0   0
+OP2=	10  7   2   5   2   0   0   2   6   1   0
+OP3=	11  4   2   4   8  21   0   4   0   3   0
+OP4=	15  6   1   5   4   6   0   2   0   2   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   4   0   0
+ADD2=	 0   2   2   0   0
+ADD3=	 0   0   3   0   0
+ADD4=	 0   0   2   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     8     0    15    42
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog67]
+Name=Ensemble 2      
+;	AL  FB  NE  NF
+ALFB=	 4   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	20  6   0   4   7  48   0   7   6   0   0
+OP2=	12  7   2   5   4   0   0   2   6   1   0
+OP3=	11  4   2   4   7  24   0   4   0   3   0
+OP4=	17  6   1   5   4   6   0   2   0   2   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   5   0   0
+ADD2=	 0   2   4   0   0
+ADD3=	 0   0   3   0   0
+ADD4=	 0   0   2   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     8     0    15    42
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog68]
+Name=Violin   1      
+;	AL  FB  NE  NF
+ALFB=	 2   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	22  7   0   6   1  26   1   1   3   0   1
+OP2=	25  8   0   8   3   5   2   2   4   2   0
+OP3=	21  8   0   3   4  52   1   1   3   0   0
+OP4=	14 14   0   8   2   3   1   2   3   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   0   3   0   0
+ADD3=	 0   0   0   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2    10     0    10    41
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog69]
+Name=Violin   2      
+;	AL  FB  NE  NF
+ALFB=	 4   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31  2   0   4   1  38   1   1   3   0   0
+OP2=	13  4   0   7   0   8   1   2   3   0   0
+OP3=	15 10   0   4   2   1   1   1   3   0   0
+OP4=	12  9   0   8   2  14   1   3   3   1   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   0   0   0   0
+ADD3=	 0   0   1   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2    19     0    78    39
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog70]
+Name=Cello    1      
+;	AL  FB  NE  NF
+ALFB=	 2   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	22  7   0   6   0  29   1   0   3   0   1
+OP2=	25  8   0   8   3   5   2   2   4   0   0
+OP3=	21 11   0   3   1  59   1   0   3   0   0
+OP4=	14 11   0   7   1   0   1   0   4   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   3   0   0
+ADD2=	 0   0   3   0   0
+ADD3=	 0   0   0   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2    18     0    20    39
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog71]
+Name=Cello    2      
+;	AL  FB  NE  NF
+ALFB=	 2   6   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	29  8   0   5   2  26   0   1   6   0   0
+OP2=	30 14   0   5   0  47   0   4   0   0   0
+OP3=	23 12   0   5   0  42   0   1   0   0   0
+OP4=	13  6   0   7   0   0   0   1   6   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   2   0   0
+ADD2=	 0   0   0   0   0
+ADD3=	 0   0   0   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2    22     0    56    37
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog72]
+Name=Brass    1      
+;	AL  FB  NE  NF
+ALFB=	 4   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	16  9   0   9   2  24   1   1   1   0   0
+OP2=	20 31   0  10   0   1   1   1   2   0   0
+OP3=	16 11   0   9   2  21   1   1   5   0   0
+OP4=	19 31   0  10   0   1   1   2   4   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   0   0   0   0
+ADD3=	 0   0   3   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     6     0     3    41
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog73]
+Name=Brass    2      
+;	AL  FB  NE  NF
+ALFB=	 4   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	17 13   0   9   2  20   1   1   4   0   0
+OP2=	21 31   0  10   0   1   1   1   6   0   0
+OP3=	13  8   0   8   2  12   1   0   0   0   0
+OP4=	18 31   0   9   0   0   1   0   2   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   0   0   0   0
+ADD3=	 0   0   3   0   0
+ADD4=	 0   0   1   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     6     0     3    41
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog74]
+Name=Trumpet  1      
+;	AL  FB  NE  NF
+ALFB=	 2   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	18 16   0   9   2  26   1   1   3   0   0
+OP2=	16 15   0  10  10  44   1   1   3   2   0
+OP3=	19 14   0  10   5  41   1   1   3   0   0
+OP4=	20 24   0  11   0   0   1   1   3   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   0   3   0   0
+ADD3=	 0   0   3   0   0
+ADD4=	 0   0   5   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     9     0     5    39
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog75]
+Name=Trumpet  2      
+;	AL  FB  NE  NF
+ALFB=	 2   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	16 14   0   3   1  26   0   1   3   0   0
+OP2=	12 12   0   9  15  61   0   0   3   3   0
+OP3=	12 14   0   3   1  44   0   1   3   0   0
+OP4=	19  9   0  10   0   0   0   1   3   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   0   0   0   0
+ADD3=	 0   0   0   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2    20     0    33    41
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog76]
+Name=Trombone        
+;	AL  FB  NE  NF
+ALFB=	 2   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	14 11   0   9   1  24   1   0   3   0   0
+OP2=	16 17   0  10  10  35   1   1   3   2   0
+OP3=	16 12   0  10   5  35   1   0   3   0   0
+OP4=	15 24   0  11   0   0   1   0   3   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   0   1   0   0
+ADD3=	 0   0   1   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     9     0     3    41
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog77]
+Name=Horn            
+;	AL  FB  NE  NF
+ALFB=	 2   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	13  7   0   9   1  28   1   0   3   0   0
+OP2=	16 15   0  10  10  44   1   1   3   2   0
+OP3=	16  8   0  10   5  41   1   0   3   0   0
+OP4=	15 24   0  10   0   0   1   0   3   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   0   3   0   0
+ADD3=	 0   0   2   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     9     0     2    38
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog78]
+Name=Tuba            
+;	AL  FB  NE  NF
+ALFB=	 2   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	15 15   0   9   6  21   0   0   3   0   0
+OP2=	16 12   0   9   4  38   0   0   3   0   0
+OP3=	16 13   0   6   5  35   0   0   3   0   0
+OP4=	16 13   0  11   2   0   0   0   3   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   0   1   0   0
+ADD3=	 0   0   1   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0     0    39
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog79]
+Name=Sax      1      
+;	AL  FB  NE  NF
+ALFB=	 2   6   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	20  8   0   8   2  33   1   1   3   0   0
+OP2=	18 19   0   6   4  24   1   2   3   2   0
+OP3=	16 12   0   9   2  38   1   1   3   0   0
+OP4=	20 31   0  10   0   5   1   1   3   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   0   6   0   0
+ADD3=	 0   0   1   0   0
+ADD4=	 0   0   1   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0     0    41
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog80]
+Name=Sax      2      
+;	AL  FB  NE  NF
+ALFB=	 2   6   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	16  8   0   8   2  33   1   1   3   0   0
+OP2=	21 19   0   6   6  43   1   3   3   2   0
+OP3=	17 15   0   9   2  26   1   1   3   0   0
+OP4=	18 19   0  10   2   5   1   2   3   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   0   6   0   0
+ADD3=	 0   0   1   0   0
+ADD4=	 0   0   5   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0     0    41
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog81]
+Name=Wood Wind       
+;	AL  FB  NE  NF
+ALFB=	 4   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	18  8   0  10   1  29   1   2   0   0   0
+OP2=	16 31   0  12   0  16   0   1   1   0   0
+OP3=	31 31   0   7   0  43   0   2   5   0   0
+OP4=	14 31   0  11   0   0   1   2   6   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   0   0   0   0
+ADD3=	 0   0   0   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     6     0     5    41
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog82]
+Name=Clarinet 1      
+;	AL  FB  NE  NF
+ALFB=	 2   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	21 13   0   7   1  30   0   2   3   0   0
+OP2=	16 16   0   7   1  43   1   4   3   0   0
+OP3=	21 15   0   7   2  19   2   2   3   0   0
+OP4=	17 31   0  10   0   8   1   1   3   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   0   0   0   0
+ADD3=	 0   0   3   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2    10     0   771    38
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog83]
+Name=Clarinet 2      
+;	AL  FB  NE  NF
+ALFB=	 2   4   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31 31   0   9   0  30   0   2   3   0   0
+OP2=	18 18   0   9   2  32   1   2   3   2   0
+OP3=	15 15   0   9   2  29   2   2   3   0   0
+OP4=	17 31   0  11   0   6   1   1   3   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   0   2   0   0
+ADD3=	 0   0   5   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2    10     0   771    38
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog84]
+Name=Oboe            
+;	AL  FB  NE  NF
+ALFB=	 3   0   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	20 18   0   7   2  20   1   2   3   2   0
+OP2=	21 20   0   5   2  50   1   2   3   0   0
+OP3=	31 31   0   3   0  26   1   1   3   0   0
+OP4=	18 31   0  11   0  11   1   2   3   2   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   2   0   0
+ADD2=	 0   0   3   0   0
+ADD3=	 0   0   1   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2    10     0    19    39
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog85]
+Name=Flute    1      
+;	AL  FB  NE  NF
+ALFB=	 3   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	17 14   3   5   6  53   1   1   6   0   1
+OP2=	17 16   2   5   5  29   1   3   3   1   1
+OP3=	11  4   0   5   2  28   2   2   6   0   1
+OP4=	15  4   0   9   0  11   1   2   3   0   1
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   0   0   0   0
+ADD3=	 0   0   0   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     8     0   297    39
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog86]
+Name=Flute    2      
+;	AL  FB  NE  NF
+ALFB=	 4   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	19  4   0   5   1  59   2   4   0   3   1
+OP2=	15  0   0   9   0   0   1   2   0   2   1
+OP3=	19  4   0   5   1  34   2   2   6   1   1
+OP4=	15  0   0   9   0   0   1   2   6   1   1
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   0   0   0   0
+ADD3=	 0   2   0   0   0
+ADD4=	 0   2   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     8     0   297    39
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog87]
+Name=Recorder        
+;	AL  FB  NE  NF
+ALFB=	 2   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	20 10   0  10   5  57   0   2   6   0   1
+OP2=	20 31  15   8   0  62   0   1   3   0   1
+OP3=	20  0   0   3   0  69   0   3   0   1   1
+OP4=	17  8   0  11   1   0   0   1   6   0   1
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   0   0   0   0
+ADD3=	 0   0   0   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     4     0   915    34
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog88]
+Name=Harmonica       
+;	AL  FB  NE  NF
+ALFB=	 6   0   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	14 31   0   9   0  30   1   2   3   2   0
+OP2=	12 31   0   9   0   8   1   1   3   0   1
+OP3=	12 31   0   9   0   5   1   1   3   0   1
+OP4=	13 31   0  10   0  11   1   1   3   0   1
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   4   0   0
+ADD2=	 0   0   3   0   0
+ADD3=	 0   0   5   0   0
+ADD4=	 0   0   4   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     4     0  6401    37
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog89]
+Name=E.Organ  1      
+;	AL  FB  NE  NF
+ALFB=	 7   3   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31 11   1  15   7   5   1   2   6   2   1
+OP2=	31 31   0  14   0   0   0   1   0   1   1
+OP3=	31 31   0  14   0   5   0   1   6   0   1
+OP4=	31 31   0  14   0   5   1   0   0   0   1
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   1   0   0   0
+ADD3=	 0   0   0   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0     3    41
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog90]
+Name=E.Organ  2      
+;	AL  FB  NE  NF
+ALFB=	 6   4   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31 13   0  11   2  41   0   1   3   0   1
+OP2=	31  9   0  12   0   7   0   1   3   0   0
+OP3=	31 31   0  12   0   5   0   2   6   0   0
+OP4=	31 31   0  12   0   5   0   2   0   2   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   0   0   0   0
+ADD3=	 0   0   0   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0  6785    44
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog91]
+Name=E.Organ  3      
+;	AL  FB  NE  NF
+ALFB=	 7   5   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31 20   0  15   2   6   0   2   1   2   1
+OP2=	31 31   0  15   2   0   0   2   5   0   1
+OP3=	31 31   0  15   2   8   0   1   0   0   1
+OP4=	31 31   0  15   2   0   0   1   6   0   1
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   0   1   0   0
+ADD3=	 0   0   0   0   0
+ADD4=	 0   0   2   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0  3328    42
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog92]
+Name=E.Organ  4      
+;	AL  FB  NE  NF
+ALFB=	 7   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	20  0   0   6   0  17   0   2   0   0   0
+OP2=	24  1   0   7   0   8   0   2   0   0   0
+OP3=	21  0   0   6   0  16   0   2   6   0   0
+OP4=	23  1   0   6   0   0   0   1   6   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   0   1   0   0
+ADD3=	 0   0   4   0   0
+ADD4=	 0   0   2   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0    32    44
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog93]
+Name=P.Organ  1      
+;	AL  FB  NE  NF
+ALFB=	 6   2   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	30 31   0   6   0  29   1   0   3   0   0
+OP2=	20 31   0  10   0  11   1   1   3   0   0
+OP3=	13 31   0  10   0  29   1   4   6   0   0
+OP4=	19 31   0  10   0  29   1   2   0   2   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   2   0   0
+ADD2=	 0   0   0   0   0
+ADD3=	 0   0   2   0   0
+ADD4=	 0   0   2   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0     0    89
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog94]
+Name=P.Organ  2      
+;	AL  FB  NE  NF
+ALFB=	 7   6   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	18 31   0   9   0   6   0   1   3   0   0
+OP2=	23 31   0   9   0   5   0   3   6   1   0
+OP3=	16 31   0   8   0   3   0   2   5   0   0
+OP4=	14 31   0   8   0   6   0   0   0   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   2   0   0
+ADD2=	 0   0   2   0   0
+ADD3=	 0   0   3   0   0
+ADD4=	 0   0   4   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     1     0     0    44
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog95]
+Name=Accordion       
+;	AL  FB  NE  NF
+ALFB=	 4   3   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	20 18   0   8   0  19   1   1   0   0   0
+OP2=	14 31   0   8   0  20   1   2   0   2   0
+OP3=	31 31   0   8   0  37   1   1   6   0   0
+OP4=	14 31   0   8   0   8   1   2   6   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   7   0   0
+ADD2=	 0   0   1   0   0
+ADD3=	 0   0   1   0   0
+ADD4=	 0   0   5   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2    10     0     0    35
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog96]
+Name=Bass Drum1      
+;	AL  FB  NE  NF
+ALFB=	 3   0   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31 15  31   7  15  26   0   2   3   0   0
+OP2=	31 21   8   7   5  33   0   0   3   1   0
+OP3=	31 24   0   6   7   5   0   1   3   0   0
+OP4=	31 11  18  12   1  10   0   2   3   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   0   0   0   0
+ADD3=	 0   0   0   0   0
+ADD4=	 1   5   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0    94   102
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog97]
+Name=Bass Drum2      
+;	AL  FB  NE  NF
+ALFB=	 1   6   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31 25   7   7   4  37   0   8   1   0   0
+OP2=	31 21   0  12   2  38   0   0   5   0   0
+OP3=	31 24   0  11   2  35   0   1   1   0   0
+OP4=	31 13  21  10   0   0   0   5   5   1   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 1   3   0   0   0
+ADD2=	 1   5   0   0   0
+ADD3=	 1   5   0   0   0
+ADD4=	 1   1   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0     0    44
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog98]
+Name=Snare    1      
+;	AL  FB  NE  NF
+ALFB=	 4   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31 24   0   1   0  11   0  14   7   0   0
+OP2=	31 13  18   8   1   0   0   0   0   0   0
+OP3=	31 21   9   3   4   0   0   0   1   0   0
+OP4=	31 15  16   8   2   0   0  15   1   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 1  14   0   0   0
+ADD2=	 1   0   0   0   0
+ADD3=	 0   7   0   0   0
+ADD4=	 1   3   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     3     0     0   127   127
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog99]
+Name=Snare    2      
+;	AL  FB  NE  NF
+ALFB=	 4   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31 26   0   5   0   2   3  15   4   0   1
+OP2=	27 19  19   9   1   0   0  12   0   0   1
+OP3=	31 21   9   4   4  26   3  11   0   0   1
+OP4=	31 19  19   7   1   0   0  11   6   0   1
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 1   9   0   0   0
+ADD2=	 1  12   0   0   0
+ADD3=	 1   1   0   0   0
+ADD4=	 1   1   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0  2493   127
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog100]
+Name=Tom      1      
+;	AL  FB  NE  NF
+ALFB=	 1   0   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31  5  13   8   1   7   0   2   3   0   0
+OP2=	31 14  10   6  15  23   0   8   1   0   0
+OP3=	31 12  16   7  11  60   0   6   3   0   0
+OP4=	31 16  13   7   0   6   0   1   3   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 1   5   0   0   0
+ADD2=	 1  13   0   0   0
+ADD3=	 1   4   0   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0     0    44
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog101]
+Name=Tom      2      
+;	AL  FB  NE  NF
+ALFB=	 3   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31 31   0   1   0   0   0   0   3   0   0
+OP2=	31 24  17   3   9   6   1   1   3   0   0
+OP3=	31 31   0   1   0  56   1   1   3   0   0
+OP4=	31 31  11   6   0   0   1   0   3   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   0   0   0   0
+ADD3=	 0   0   0   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0     0    44
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog102]
+Name=Tom      3      
+;	AL  FB  NE  NF
+ALFB=	 3   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31 31   0   1   0  37   0   6   3   3   0
+OP2=	31 24   5   3   9   6   1   0   3   3   0
+OP3=	31 31   0   1   0  56   1   1   3   0   0
+OP4=	31 20  11   6   1   0   1   0   3   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   0   0   0   0
+ADD3=	 0   0   0   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     3     0     0   127   127
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog103]
+Name=Tom      4      
+;	AL  FB  NE  NF
+ALFB=	 3   4   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31 31   0   1   0  37   0   1   3   2   0
+OP2=	31 24   5   3   9   6   1   0   3   0   0
+OP3=	31 31   0   1   0  56   1   0   3   0   0
+OP4=	31 11  31  10   2   0   1   0   3   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   2   5   0   0
+ADD3=	 0   2   0   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     3     0     0   127   127
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog104]
+Name="Hi!" Hat!      
+;	AL  FB  NE  NF
+ALFB=	 4   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31  6   6  15   0   0   3   8   6   0   0
+OP2=	31 10   0  15  15   0   3   8   6   0   0
+OP3=	31  9  31  15   0   0   3   9   6   0   0
+OP4=	31 10   0  15  15  12   3  12   3   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 1  15   0   0   0
+ADD2=	 1  12   0   0   0
+ADD3=	 1   8   0   0   0
+ADD4=	 1  11   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0 -4883   127
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog105]
+Name=Cow Bell        
+;	AL  FB  NE  NF
+ALFB=	 4   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31 10  31   3   3  41   0   8   3   0   0
+OP2=	31 18  16   8   8   5   0  13   3   0   0
+OP3=	31 22   0   4   4  25   0   9   4   0   0
+OP4=	31 18  18   8   0   0   0  14   1   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 1   7   0   0   0
+ADD2=	 1  14   0   0   0
+ADD3=	 1   4   0   0   0
+ADD4=	 1  15   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0     0    44
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog106]
+Name=Agogo Bell      
+;	AL  FB  NE  NF
+ALFB=	 4   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31 18  25   3   3  15   1   5   4   2   0
+OP2=	31 17  16   6   1   0   1   2   5   0   0
+OP3=	31 19  25   4   3  12   1  15   5   0   0
+OP4=	31 17  15   6   2   0   1   2   2   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   2   0   0
+ADD2=	 0   0   0   0   0
+ADD3=	 1  13   1   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0     7    24
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog107]
+Name=Wood Block      
+;	AL  FB  NE  NF
+ALFB=	 4   5   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31 24   1   8  15  17   1   1   3   3   0
+OP2=	31 21  19  10   2   0   1   1   3   0   0
+OP3=	31 24  18  10   3  17   1   2   3   2   0
+OP4=	31 18  19   9  15   0   1   1   3   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   1   1   0   0
+ADD2=	 0   0   0   0   0
+ADD3=	 0  13   0   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0     8   105
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog108]
+Name=Castanet        
+;	AL  FB  NE  NF
+ALFB=	 4   3   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	25 22  31   3  15  21   0   8   4   0   0
+OP2=	31 21   0  12  15   0   0   0   0   0   0
+OP3=	24 22  31   3  15  21   0   9   4   3   0
+OP4=	31 21  21  12  15   0   0   0   6   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 1   8   1   0   0
+ADD2=	 1   0   0   0   0
+ADD3=	 1   0   0   0   0
+ADD4=	 1   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0     0    44
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog109]
+Name=SyBon           
+;	AL  FB  NE  NF
+ALFB=	 3   0   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	25 21  31   2  15   5   3   0   6   0   0
+OP2=	23 11   4   4   2  12   3   1   0   0   0
+OP3=	24 17   9   6  11   7   2   0   1   0   0
+OP4=	27 18  13   5   2   7   2   0   6   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   2   0   0   0
+ADD2=	 0   0   4   0   0
+ADD3=	 0   7   0   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0     0    44
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog110]
+Name=BoConga         
+;	AL  FB  NE  NF
+ALFB=	 4   0   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	25 21  31  14  15  21   0   0   0   0   0
+OP2=	24 15   0   7  15   0   2   1   0   0   0
+OP3=	24 17   9   6  11  42   2   1   6   0   0
+OP4=	28 12  20   6   4   0   2   0   3   1   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   2   0   0   0
+ADD2=	 0   0   1   0   0
+ADD3=	 0   7   5   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0     0    44
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog111]
+Name=Tom-Pany        
+;	AL  FB  NE  NF
+ALFB=	 2   3   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31 16   0   1  15  24   0   0   0   0   0
+OP2=	19 11   3   2   6  50   0   0   6   3   0
+OP3=	31 22   4   3   6   0   0   0   0   0   0
+OP4=	29 12   0   6  15  11   0   0   6   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   5   0   0
+ADD2=	 0   0   5   0   0
+ADD3=	 0   3   0   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0   103     8
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog112]
+Name=SynGameran      
+;	AL  FB  NE  NF
+ALFB=	 0   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	13 20   0   1   4  69   0   4   3   1   1
+OP2=	31 27  17   5   5  46   1   3   2   1   1
+OP3=	20  3   0  15   1  43   1   9   4   3   0
+OP4=	31 15   0  11  15  11   1   4   3   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   0   0   0   0
+ADD3=	 0   0   0   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     3     0     0 -3201    74
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog113]
+Name=Mouse-Tom       
+;	AL  FB  NE  NF
+ALFB=	 3   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31 31  12   7   0   8   0  12   3   2   0
+OP2=	31 31  31  15   0  47   3   2   3   3   0
+OP3=	31 20  31   9  14   0   1   0   3   0   0
+OP4=	31 31  14  15   0   8   1   1   3   1   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 1   0   0   0   0
+ADD2=	 0   0   0   0   0
+ADD3=	 0   3   0   0   0
+ADD4=	 1   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0     0    44
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog114]
+Name=Carnival!       
+;	AL  FB  NE  NF
+ALFB=	 2   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31 31   1  15   0  66   1   1   0   0   0
+OP2=	31  4  16  15   4  71   0   0   0   0   0
+OP3=	24 16  28  14  14  44   0   1   6   1   1
+OP4=	23 31   9   8   0  19   1   1   6   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   7   0   0   0
+ADD3=	 0   0   1   0   0
+ADD4=	 0  15   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2    63     0  7230   127
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog115]
+Name="Air"imba       
+;	AL  FB  NE  NF
+ALFB=	 2   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31  3  26  15   0  47   0  15   5   1   0
+OP2=	31 19  11   3   4  23   0  10   6   0   0
+OP3=	31  0  31   3  15  44   0   1   0   1   0
+OP4=	31 17  13   6   0   8   0  11   6   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   0   0   0   0
+ADD3=	 0   0   1   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     3     0     0   127   127
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog116]
+Name=SplashClav      
+;	AL  FB  NE  NF
+ALFB=	 2   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	19 24  20  10   3   2   0   1   3   0   0
+OP2=	28 11   4  10   3  43   0  10   3   0   0
+OP3=	16  2   1  10   3   8   0   7   3   0   0
+OP4=	27 14  16  10   3   0   0   1   3   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   0   0   0   0
+ADD3=	 0   0   0   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0    73   109
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog117]
+Name=BamboBlock      
+;	AL  FB  NE  NF
+ALFB=	 4   6   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	23 25  21   8   3  15   1   1   4   3   0
+OP2=	26 18  22  10   4   8   1   1   2   0   0
+OP3=	31 23  21  10   4  17   0   3   2   0   0
+OP4=	31 16  16   9   2  11   0   1   4   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   1   0   0   0
+ADD2=	 0   0   0   0   0
+ADD3=	 0   4   0   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0     8   105
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog118]
+Name=Terror!         
+;	AL  FB  NE  NF
+ALFB=	 3   0   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	12 31   0   3   0  67   0  12   4   1   0
+OP2=	13 31   0   3   0  60   0   2   0   0   0
+OP3=	31 31   0   3   0  51   0   2   6   0   0
+OP4=	18 31   0   4   0  19   0   0   3   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0  15   6   0   0
+ADD2=	 0   0   4   0   0
+ADD3=	 0   0   2   0   0
+ADD4=	 1   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     3     0     0    44   127
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog119]
+Name=Wind Voice      
+;	AL  FB  NE  NF
+ALFB=	 1   0   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	 6 29   1   2   0 119   0   5   0   3   0
+OP2=	23  1   0   2   5  30   1   2   0   0   0
+OP3=	 0  0  12   2   0  20   1   6   6   1   0
+OP4=	11  1   6   5   0   8   1   2   6   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   4   3   0   0
+ADD2=	 0   0   0   0   0
+ADD3=	 0   0   7   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     3     0     0   105   127
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog120]
+Name=GuiRoach::      
+;	AL  FB  NE  NF
+ALFB=	 2   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	15  0  11  10   2  10   0  11   3   1   1
+OP2=	31  0   0   3   0  29   0  11   3   1   1
+OP3=	31  0   0   3   0   2   0   0   3   0   1
+OP4=	14 11  13  15   1   8   0   0   3   0   1
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   0   0   0   0
+ADD3=	 0   0   0   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     1     0     0 -7936   124
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog121]
+Name=Space BUG?      
+;	AL  FB  NE  NF
+ALFB=	 4   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31 31   0   1   0   0   3   0   7   1   0
+OP2=	15 21   0   4   0  16   3   0   3   0   1
+OP3=	31 31   0  15   0   0   3   0   3   1   1
+OP4=	25 31   0  13   0  20   3   0   3   0   1
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 1   6   0   0   0
+ADD2=	 0   0   0   0   0
+ADD3=	 0   7   0   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0 -6603    39
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog122]
+Name=Passing By      
+;	AL  FB  NE  NF
+ALFB=	 4   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	31 31   0   1   0  17   0   1   3   0   0
+OP2=	 2 31  31   6   0  11   1   1   3   0   0
+OP3=	31 31   0   1   0  21   0   2   3   2   0
+OP4=	 2 31  31   6   0  11   1   1   3   0   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   1   0   0
+ADD2=	 0   0   1   0   0
+ADD3=	 0   0   1   0   0
+ADD4=	 0   0   1   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     1     0     0     0    16
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog123]
+Name=Earthquake      
+;	AL  FB  NE  NF
+ALFB=	 0   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	23 12   5   1   1  29   1   3   3   1   1
+OP2=	16 11   5   1   2  29   0   2   3   2   1
+OP3=	21  6   6   1   1  16   1   1   3   3   1
+OP4=	23  7   6   4   0   7   1   0   3   0   1
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0  13   0   0   0
+ADD2=	 0   3   0   0   0
+ADD3=	 0   1   0   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     3     0     0    15   127
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog124]
+Name=TAP TAP<<<      
+;	AL  FB  NE  NF
+ALFB=	 2   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	18  9   0   1   0  52   3   0   3   0   0
+OP2=	23  8   0   1   0  61   3   0   3   0   0
+OP3=	18  9   0   1   0   2   3   0   3   0   0
+OP4=	21 21   0  13   0  20   3  15   3   2   1
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   0   0   0   0
+ADD2=	 0   0   0   0   0
+ADD3=	 0   0   0   0   0
+ADD4=	 0   9   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0  -128    35
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog125]
+Name=Space Gong      
+;	AL  FB  NE  NF
+ALFB=	 4   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	22 13  12   6   0  20   1   1   0   0   0
+OP2=	10  6   5   4   0  11   0   0   0   0   1
+OP3=	14  9   3   2   0  12   1   1   6   3   0
+OP4=	20  8   5   4   7  11   0   0   6   0   1
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 0   6   1   0   0
+ADD2=	 0   5   1   0   0
+ADD3=	 0   0   2   0   0
+ADD4=	 0   0   2   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     8     0 -6599    12
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog126]
+Name=RADIATION?      
+;	AL  FB  NE  NF
+ALFB=	 3   7   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	 3  3   0   1   0  23   0  10   1   0   1
+OP2=	11  5   0   2   0  61   0  13   3   0   1
+OP3=	21  9   0   3   0   2   0   3   3   0   0
+OP4=	18 24   0   6   1  11   0  12   3   0   1
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 1   9   0   0   0
+ADD2=	 1  14   0   0   0
+ADD3=	 1   2   0   0   0
+ADD4=	 1  12   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     1     0     0 -2297    64
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog127]
+Name=White Blow      
+;	AL  FB  NE  NF
+ALFB=	 2   0   0   0
+;	AR  DR  SR  RR  SL  TL  KS  ML DT1 DT2 AMS
+OP1=	24 19   0  15   2  46   0   8   4   0   0
+OP2=	31 19   0  12   0   8   0  15   3   0   0
+OP3=	31 18   0  13   0  16   0   8   3   0   0
+OP4=	11 13  10  11   2  11   0  15   3   3   0
+;	FIX  Fine WS   Rev  EGS
+ADD1=	 1   6   0   0   0
+ADD2=	 1   4   0   0   0
+ADD3=	 0   2   0   0   0
+ADD4=	 0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     2     0     0     0    44
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+LFO3=     0     0     0     0     0
+LFO4=     0     0     0     0     0
+
+[Prog1]
+LFO0=    2     0     0    96     9
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Syn.Str  2
+ALFB=  4   7   0   0
+OP1= 31  31   0   3   0  64   0   4   0   3   0
+OP2= 12  31   0   5   0   0   0   2   0   2   0
+OP3= 31  31   0   3   0  51   0   2   6   1   0
+OP4= 12  31   0   5   0  10   0   2   6   2   0
+ADD1=  0   0   7   0   0
+ADD2=  0   0   3   0   0
+ADD3=  0   2   6   0   0
+ADD4=  0   0   4   0   0
+[Prog2]
+LFO0=    2    30     0     5    10
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Sy.Brass 1
+ALFB=  4   7   0   0
+OP1= 18  10   0   9   1  20   1   1   0   0   0
+OP2= 24  31   0  11   0   0   0   1   0   0   0
+OP3= 18  11   0   9   1  21   1   1   6   0   0
+OP4= 24  31   0  11   0   0   0   1   6   0   0
+ADD1=  0   0   0   0   0
+ADD2=  0   0   0   0   0
+ADD3=  0   0   3   0   0
+ADD4=  0   0   1   0   0
+[Prog3]
+LFO0=    2     0     0     0    10
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Sy.Brass 2
+ALFB=  4   5   0   0
+OP1= 18  12   0   9   9  17   1   1   0   0   0
+OP2= 24  31   0  11   0   0   0   1   0   0   0
+OP3= 18  12   0   9   9  11   1   1   6   0   0
+OP4= 24  31   0  11   0   0   0   1   6   0   0
+ADD1=  0   0   3   0   0
+ADD2=  0   0   7   0   0
+ADD3=  0   0   3   0   0
+ADD4=  0   0   7   0   0
+[Prog4]
+LFO0=    2     0     0     0     7
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Sy.Brass 3
+ALFB=  2   7   0   0
+OP1= 15   8   0   4   1  21   1   1   3   0   0
+OP2= 15  11   0   5   4  28   1   1   3   0   0
+OP3= 18  13   0   7   4  69   1   1   3   0   0
+OP4= 17  31   0  10   0   0   1   1   3   0   0
+ADD1=  0   0   3   0   0
+ADD2=  0   0   6   0   0
+ADD3=  0   0   6   0   0
+ADD4=  0   0   0   0   0
+[Prog8]
+LFO0=    3     0     0    15    15
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Sy.Ensem.3
+ALFB=  4   2   0   0
+OP1= 31  31   5   2   0  24   0   2   6   2   0
+OP2= 26  31   7   4   0  10   0   4   6   0   0
+OP3= 31  31   5   2   0  41   0   3   0   1   0
+OP4= 26  31   7   4   0   0   0   1   0   0   0
+ADD1=  0   0   0   0   0
+ADD2=  0   0   4   0   0
+ADD3=  0   0   3   0   0
+ADD4=  0   0   0   0   0
+[Prog0]
+LFO0=    2     0     0    59    12
+LFO1=    0     0     0     0     0
+LFO2=    0     0     0     0     0
+LFO3=    0     0     0     0     0
+LFO4=    0     0     0     0     0
+Name=Syn.Str  1
+ALFB=  4   7   0   0
+OP1= 31  31   0   3   0  59   0   2   0   2   0
+OP2= 11  31   0   5   0   0   0   2   0   2   0
+OP3= 31  31   0   3   0  56   0   2   6   1   0
+OP4= 11  31   0   5   0   0   0   2   6   2   0
+ADD1=  0   0   3   0   0
+ADD2=  0   0   1   0   0
+ADD3=  0   2   6   0   0
+ADD4=  0   0   3   0   0

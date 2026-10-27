@@ -1,0 +1,698 @@
+{
+  "source": "FITOM012/VOICE (original user-supplied distribution)",
+  "banks_and_samples": [
+    {
+      "path": "banks/ADPCM/PSR-38/bass.wav",
+      "bytes": 13952,
+      "sha256": "01478fd0f98031745acffc4604c8defcd4c92da9774bf40e862eb6adc95b10ba"
+    },
+    {
+      "path": "banks/ADPCM/PSR-38/closehh.wav",
+      "bytes": 4556,
+      "sha256": "0d813d836453804fcf3ee80a4457d57650e52e8a5f5b9c58e1af27654af722dc"
+    },
+    {
+      "path": "banks/ADPCM/PSR-38/crash.wav",
+      "bytes": 128350,
+      "sha256": "9ca9079447bb3f2f753fc129ac342cece373209f7ce3027ee4b2fcdfd32c3b15"
+    },
+    {
+      "path": "banks/ADPCM/PSR-38/handclap.wav",
+      "bytes": 7106,
+      "sha256": "db5cd6832694e1e53eca2085e3493f2aaef813e0131288d22b01e0a32831e25e"
+    },
+    {
+      "path": "banks/ADPCM/PSR-38/hiagogo.wav",
+      "bytes": 17414,
+      "sha256": "82f38d7a18e3ea24f0d826ff93529276b1d8d330c21dcaede83a2b07cbcefb6e"
+    },
+    {
+      "path": "banks/ADPCM/PSR-38/hiconga.wav",
+      "bytes": 12388,
+      "sha256": "87825ea07d718588b6408e3e9dcf495729d226da3384e4ebd7109746912580a6"
+    },
+    {
+      "path": "banks/ADPCM/PSR-38/hitom.wav",
+      "bytes": 107678,
+      "sha256": "9d9c5f221eaed7e1560a7835796d2043283a55dcfae8e42bfa7747c0b88b3737"
+    },
+    {
+      "path": "banks/ADPCM/PSR-38/loagogo.wav",
+      "bytes": 21466,
+      "sha256": "ba25a9120eb82a241e2f52c558d72acbcbf0016c27a43fd29fcb3e8d621bab3a"
+    },
+    {
+      "path": "banks/ADPCM/PSR-38/loconga.wav",
+      "bytes": 46806,
+      "sha256": "2ee550da97d7a55d32eb7e2dcf323d798235fc10cd8461d5c5e6ff4bd25e5bd2"
+    },
+    {
+      "path": "banks/ADPCM/PSR-38/lotom.wav",
+      "bytes": 111612,
+      "sha256": "66dc90a54dab9ff3b03c4082a3e909e171e4ab2e4c18e9f7e6fb02b0b6f64f29"
+    },
+    {
+      "path": "banks/ADPCM/PSR-38/ochehit.wav",
+      "bytes": 64182,
+      "sha256": "f191cd942c77a665051bea109cd85d4ddb2a64d68ae2bfefe9661f76e839c83a"
+    },
+    {
+      "path": "banks/ADPCM/PSR-38/openhh.wav",
+      "bytes": 35626,
+      "sha256": "de3ff136c4270a2f954e33c334f0a64f426598cef320f555465d24dd2818d36b"
+    },
+    {
+      "path": "banks/ADPCM/PSR-38/ride.wav",
+      "bytes": 134070,
+      "sha256": "ae00ce6a776113670cc741c97531090a931ed67a6c40734d3de6d034bc06d82e"
+    },
+    {
+      "path": "banks/ADPCM/PSR-38/rimshot.wav",
+      "bytes": 6458,
+      "sha256": "ab2e411b6fa03abc103d917b2db6c0dd2d0cbba853a024f71bb000f484328d2f"
+    },
+    {
+      "path": "banks/ADPCM/PSR-38/snare1.wav",
+      "bytes": 11562,
+      "sha256": "eca8b335345fc5953351196df6b7356230cfe33368b65092aa6ce2089a712841"
+    },
+    {
+      "path": "banks/ADPCM/PSR-38/snare2.wav",
+      "bytes": 9352,
+      "sha256": "ae19d2d849cea27377874c219b8d48fc9614fb510b629267b333893464cb1a65"
+    },
+    {
+      "path": "banks/ADPCM/PSR-38/timpani.wav",
+      "bytes": 120358,
+      "sha256": "ec61066cddaa001a854fc6a24d414856af4f815975649aa5d5ad5dbc304de9f7"
+    },
+    {
+      "path": "banks/ADPCM/PSR-38/woodblk.wav",
+      "bytes": 4504,
+      "sha256": "e05c5db0bd72dd11a584a99178439785053585956a92f321bc661ed5f4f61227"
+    },
+    {
+      "path": "banks/ADPCM/PSS-590/closehh.wav",
+      "bytes": 8986,
+      "sha256": "9a75828ff7ad5982fc1daa96ae0458c3638af5983f14ec656dd2bd08fa16eaf3"
+    },
+    {
+      "path": "banks/ADPCM/PSS-590/crash.wav",
+      "bytes": 96672,
+      "sha256": "d5ce1016316984abf6ea074f8653005e13079428251bd2a93b342af3fef5eaac"
+    },
+    {
+      "path": "banks/ADPCM/PSS-590/fltom.wav",
+      "bytes": 66218,
+      "sha256": "ba0b033d1a7a6b15c801e6cc34143b5888772c2854fe2eb13ef7c0be6220e123"
+    },
+    {
+      "path": "banks/ADPCM/PSS-590/gate_snare.wav",
+      "bytes": 39830,
+      "sha256": "924e6d4bcd59e8cac04aa6368a6b25bb76e0e50212b063e37d18cf0e558f5841"
+    },
+    {
+      "path": "banks/ADPCM/PSS-590/hibass.wav",
+      "bytes": 11154,
+      "sha256": "7154aec275c7d907f511d1ffc3694a63765463a16ad84bc5ad1a31b2e383e564"
+    },
+    {
+      "path": "banks/ADPCM/PSS-590/hisnare.wav",
+      "bytes": 21644,
+      "sha256": "09bda12c4a549d2cfba896f56706eb34aca9f04a76d157311026d99849a1f0c6"
+    },
+    {
+      "path": "banks/ADPCM/PSS-590/hitom.wav",
+      "bytes": 41216,
+      "sha256": "628ab4222699e95e770a7bfd691d09b435b12884335fd70a798a69b953218e5b"
+    },
+    {
+      "path": "banks/ADPCM/PSS-590/lobass.wav",
+      "bytes": 17376,
+      "sha256": "c162f193769c736b5095a1265c44c4072092e3f298a162024d9a4c57ddc8d0d2"
+    },
+    {
+      "path": "banks/ADPCM/PSS-590/losnare.wav",
+      "bytes": 30674,
+      "sha256": "948e0b3bcd1f8908d06639117f1e570430152310b0f594e2fbfcda1b872fc901"
+    },
+    {
+      "path": "banks/ADPCM/PSS-590/lotom.wav",
+      "bytes": 54122,
+      "sha256": "de92ea1b2e25d01ab6210a0fa99c47f14bcd11caf0509e2eb138ec9a96d3ebd7"
+    },
+    {
+      "path": "banks/ADPCM/PSS-590/midtom.wav",
+      "bytes": 46228,
+      "sha256": "b89610637d7fc603d9c977942b8e2d0a41f41bb1a355bc61f66226770cb04d22"
+    },
+    {
+      "path": "banks/ADPCM/PSS-590/openhh.wav",
+      "bytes": 75486,
+      "sha256": "03aa80b383fd85c2a5044ff1b3662f105035bebcac0fc2f1e8b458f84eb47961"
+    },
+    {
+      "path": "banks/ADPCM/PSS-590/orchit.wav",
+      "bytes": 19842,
+      "sha256": "5a5c6a005f211a9496cae03ef6105a4c714dc0d87ebccf1fcaf13b3816ea6072"
+    },
+    {
+      "path": "banks/ADPCM/PSS-590/pedalhh.wav",
+      "bytes": 6286,
+      "sha256": "de3d43a02c1315370882eff0dbe3bbaa2ae949ec0fe23d79cdd7a0c9778d1ac5"
+    },
+    {
+      "path": "banks/ADPCM/PSS-590/rev_bass.wav",
+      "bytes": 29808,
+      "sha256": "f747e2d165f162a15b40f4eea09f623e5f1489afbed956233a85f8bd917caaa2"
+    },
+    {
+      "path": "banks/ADPCM/PSS-590/ride_edge.wav",
+      "bytes": 89634,
+      "sha256": "54e2f98764238ad7141343eef901c6fae9744b7ece9e4e62b844d4acb584b8c9"
+    },
+    {
+      "path": "banks/ADPCM/PSS-590/rimshot.wav",
+      "bytes": 6120,
+      "sha256": "0e29293babdd50422b2757f3f723fa0d809e75467ee80f9231dc17c2b8bacb7c"
+    },
+    {
+      "path": "banks/ADPCM/PSS-590/rimshot2.wav",
+      "bytes": 16770,
+      "sha256": "63127e8d7cde57d56f424cdd5189bcc8b28d76c6d844ebbae23ed9903a4f1078"
+    },
+    {
+      "path": "banks/ADPCM/PSS-590/splash.wav",
+      "bytes": 30926,
+      "sha256": "0be25fc0f7087bd65bcd8025a13efddfe20f6d8a5c2e609ceca3ce914bf01229"
+    },
+    {
+      "path": "banks/ADPCM/PSS-590/syn_fltom.wav",
+      "bytes": 38004,
+      "sha256": "514219dfc563b4eafcbca0d651b4cc2f15238d49c0138b0c68c3eadea2ae8193"
+    },
+    {
+      "path": "banks/ADPCM/PSS-590/syn_hitom.wav",
+      "bytes": 19144,
+      "sha256": "fb3ab5832cd599fdab10990991f0f6cffb799a9d900208a6b7c8061a32b1de23"
+    },
+    {
+      "path": "banks/ADPCM/PSS-590/syn_lotom.wav",
+      "bytes": 39634,
+      "sha256": "79285372ae424e428c50ddc05c539d0dfcbcfaf188cf2c79e0cf30a12acb939e"
+    },
+    {
+      "path": "banks/ADPCM/PSS-590/syn_midtom.wav",
+      "bytes": 27638,
+      "sha256": "7306446858b01b61ffbadd371b2d71279d8763eadbb53fd4e0c16b704e0d9c7e"
+    },
+    {
+      "path": "banks/ADPCM/PSS-590/syn_snare.wav",
+      "bytes": 30728,
+      "sha256": "6fe65315e90c8b5fb5117a19de315411743b390dc82d99cfddb53c1fa6083041"
+    },
+    {
+      "path": "banks/ADPCM/PSS-590/timpani.wav",
+      "bytes": 18012,
+      "sha256": "4ef6c03a668c7095d0a867e8f219f6cab8cbccd5680190b1d720b8ff819444af"
+    },
+    {
+      "path": "banks/ADPCM/PSS-680/bass.wav",
+      "bytes": 6146,
+      "sha256": "e32dedbd78199674cb0ba31b3ee57246f577ac55421dc8096acd8f972efc79e3"
+    },
+    {
+      "path": "banks/ADPCM/PSS-680/brush.wav",
+      "bytes": 29226,
+      "sha256": "07079702b8492e8c9ac43dcb001487706992b35de5bcb28d5e268c5b2b79494e"
+    },
+    {
+      "path": "banks/ADPCM/PSS-680/brush_hit.wav",
+      "bytes": 14122,
+      "sha256": "9f8f8823f789c33a6371416850120242ccbd583243a92840c7c69cb193802076"
+    },
+    {
+      "path": "banks/ADPCM/PSS-680/cavasa.wav",
+      "bytes": 4240,
+      "sha256": "9623da48a65a98bbd7ff9a13edf680031cbaea1ae409ebac20590c2794743094"
+    },
+    {
+      "path": "banks/ADPCM/PSS-680/closehh.wav",
+      "bytes": 10540,
+      "sha256": "45d77b065aadb7e7d033e66a297e65a865f512992f5111b5cfe7fcfd809e772b"
+    },
+    {
+      "path": "banks/ADPCM/PSS-680/cowbell.wav",
+      "bytes": 7506,
+      "sha256": "86e709504ad9f51a7cd4d112c065a2796569cac1ed4226fdca8ceedf0c645d04"
+    },
+    {
+      "path": "banks/ADPCM/PSS-680/crash.wav",
+      "bytes": 89216,
+      "sha256": "434a96449eec9811abb11c146f7b23712b69ed1650549d1061ad6bb0c150c554"
+    },
+    {
+      "path": "banks/ADPCM/PSS-680/handclap.wav",
+      "bytes": 9748,
+      "sha256": "b70a8a73ab01e8f0497944621c55ce8adbd8e642db0118255c306e4831ed55d0"
+    },
+    {
+      "path": "banks/ADPCM/PSS-680/hiagogo.wav",
+      "bytes": 11406,
+      "sha256": "5ace152a67a3616719aed49a03a85b16935d4b5935ff6bfe0ba57076c39cec45"
+    },
+    {
+      "path": "banks/ADPCM/PSS-680/hibongo.wav",
+      "bytes": 13444,
+      "sha256": "327062d071c408db3b97bef15a63dbf2a972e76eaa6fd771d60268700c4e1c65"
+    },
+    {
+      "path": "banks/ADPCM/PSS-680/hiconga.wav",
+      "bytes": 20674,
+      "sha256": "71f31fb2e745fdf45d8906db86c4a18cb4ea63dc5e4e473a620a2cc771bdca38"
+    },
+    {
+      "path": "banks/ADPCM/PSS-680/hicuica.wav",
+      "bytes": 14932,
+      "sha256": "1274a677d15d823104919311d60f93ffa315da844e1c5e93b190f5b801b54663"
+    },
+    {
+      "path": "banks/ADPCM/PSS-680/hitimbaless.wav",
+      "bytes": 11224,
+      "sha256": "6c987086e9baa3e3269e73deec363b106b302a6789533a489b5363ea2ca51b62"
+    },
+    {
+      "path": "banks/ADPCM/PSS-680/hitom.wav",
+      "bytes": 29226,
+      "sha256": "04cf0e4373daa045431dfccf01be06fdf55bd748f332c97a6177d357b0488661"
+    },
+    {
+      "path": "banks/ADPCM/PSS-680/hitom2.wav",
+      "bytes": 37286,
+      "sha256": "52df93a9d4e02cef0b0f5be4ee69c386fac0ca33513a51a898848a03f86a9609"
+    },
+    {
+      "path": "banks/ADPCM/PSS-680/loagogo.wav",
+      "bytes": 14680,
+      "sha256": "a76854a7e1256d3e8fece470b2855901d21b94d16b40810cc3b0d3b7458c9951"
+    },
+    {
+      "path": "banks/ADPCM/PSS-680/lobongo.wav",
+      "bytes": 12872,
+      "sha256": "1625784b96fe9fe45886bbe889fd84611be5a9a120929d47acff302262df59dc"
+    },
+    {
+      "path": "banks/ADPCM/PSS-680/loconga.wav",
+      "bytes": 27026,
+      "sha256": "f385e9fd2280f2a610446c71f5a62eaccedb6ed6f2141934325e6b5a05aca339"
+    },
+    {
+      "path": "banks/ADPCM/PSS-680/locuica.wav",
+      "bytes": 15936,
+      "sha256": "b77e57cd006f512fd5c4e6bcf4fe7d4b490630976bcb340ae4afa5bf64ee08a5"
+    },
+    {
+      "path": "banks/ADPCM/PSS-680/lotimbaless.wav",
+      "bytes": 18806,
+      "sha256": "ba45746de224e06ef12a6802303f949d125d311cf6595c8774d783eda538f84c"
+    },
+    {
+      "path": "banks/ADPCM/PSS-680/lotom.wav",
+      "bytes": 34750,
+      "sha256": "5b89ac5d3671cb014fc0e29d65f12114fb522df99d00f6f985c8b75e38d7d633"
+    },
+    {
+      "path": "banks/ADPCM/PSS-680/lotom2.wav",
+      "bytes": 36302,
+      "sha256": "796f771fb73f471afcc6dd971258ba43982edc3c027558de0b43ece29d1797ca"
+    },
+    {
+      "path": "banks/ADPCM/PSS-680/midtom.wav",
+      "bytes": 34774,
+      "sha256": "87b37d7d223fa748fa0dbca8c9534115379dfd397f5c63261d9a2880676a1418"
+    },
+    {
+      "path": "banks/ADPCM/PSS-680/midtom2.wav",
+      "bytes": 36576,
+      "sha256": "675528b23b78c5c8268ac3cf23e76af4da2d23138b0734a2765f8b80f29a3243"
+    },
+    {
+      "path": "banks/ADPCM/PSS-680/mutetambarine.wav",
+      "bytes": 3546,
+      "sha256": "9c3769a38880fb12ae7722c4831500a6847917273537a7e8ba40220d63d7643b"
+    },
+    {
+      "path": "banks/ADPCM/PSS-680/openhh.wav",
+      "bytes": 36940,
+      "sha256": "24b4164b919fd7a5cc2d6b546b1c0d639ec397f4f07f3ea356aaf73ed4b59ffe"
+    },
+    {
+      "path": "banks/ADPCM/PSS-680/ride.wav",
+      "bytes": 77372,
+      "sha256": "dbdf910c3a71a198e760efd424d91aaf08120fa04dd22ee738ab3f2c22a6523b"
+    },
+    {
+      "path": "banks/ADPCM/PSS-680/rimshot.wav",
+      "bytes": 6406,
+      "sha256": "a852c9c1636941c927f72ec77348d4655514287d2faac4c26d711ae2d0cf99ca"
+    },
+    {
+      "path": "banks/ADPCM/PSS-680/snare.wav",
+      "bytes": 12952,
+      "sha256": "0da58cd66381936e390f7713a59357dd241e37f051dcdc7c9575b76e4f43c35e"
+    },
+    {
+      "path": "banks/ADPCM/PSS-680/snare2.wav",
+      "bytes": 11890,
+      "sha256": "0f0e0c3becf3c2a6f998dda04d6430f67c481d47e5d4f021ba519cd2cef800f5"
+    },
+    {
+      "path": "banks/ADPCM/PSS-680/splash.wav",
+      "bytes": 66574,
+      "sha256": "a63aa1f0d2c35611112880068dae897b309bca2bd3594f9a9a1cde573c8ee9bf"
+    },
+    {
+      "path": "banks/ADPCM/PSS-680/whistle.wav",
+      "bytes": 30146,
+      "sha256": "cbf2fefcafdbe13c625ce4bab51b7c2e7d7fcb53f99a6ed4b76d3aad6e648c18"
+    },
+    {
+      "path": "banks/ADPCM/pss-680.bnk",
+      "bytes": 3269,
+      "sha256": "96ba36ececee8058be477b7d95933be260d8585e6d909fd2670eb3d072f54aad"
+    },
+    {
+      "path": "banks/DRUM/OPKINT.bnk",
+      "bytes": 773,
+      "sha256": "a5cec7bf195c3cd1f3e046e5d840c3f020e02a6394291161f55851f5b06fb9f7"
+    },
+    {
+      "path": "banks/DRUM/OPL2SET.bnk",
+      "bytes": 994,
+      "sha256": "2e12434f2c52a3a37f0b17b514f422e565d6ce4638d647b3e683b77abd250fda"
+    },
+    {
+      "path": "banks/DRUM/OPL3SET.bnk",
+      "bytes": 1061,
+      "sha256": "39fdb276cf862dd394dd0633b1f59b63e2a4a32712a86cca8a4656c7388113f5"
+    },
+    {
+      "path": "banks/DRUM/OPLLOPNA.bak.bnk",
+      "bytes": 973,
+      "sha256": "b938429bbd9fd9add4ceb6a9a7d1b42330eddb5b6e5526ddd177b945e453836e"
+    },
+    {
+      "path": "banks/DRUM/OPLLOPNA.bnk",
+      "bytes": 885,
+      "sha256": "ce7fafa871b17b6ad4728ae2a6390e21561c00cb238c8e1eab38edd32dfd9b41"
+    },
+    {
+      "path": "banks/DRUM/OPLLSET.bnk",
+      "bytes": 918,
+      "sha256": "370b50da61a8adb1750567f88ed416ab56f0bc2af829aca0c1ff95cf527272c3"
+    },
+    {
+      "path": "banks/DRUM/OPLSET.bnk",
+      "bytes": 969,
+      "sha256": "0ceaa2dfd8498383e03edb87f8eb0e48b7777a7ef240bf22d0b08707c9616dec"
+    },
+    {
+      "path": "banks/DRUM/OPNADPCM - \u00e2R\u00e2s\u00fc[.bnk",
+      "bytes": 1633,
+      "sha256": "9b1553f23e4aad7a277342fdddb977b3563aa1730c0f6feef92945f3f4219394"
+    },
+    {
+      "path": "banks/DRUM/OPNADPCM.bnk",
+      "bytes": 1618,
+      "sha256": "9e2602b15f69db11d610d4cb1132d39bdc5ae4c1eae46c2f791d0038c5f094e4"
+    },
+    {
+      "path": "banks/DRUM/OPNASSG.bnk",
+      "bytes": 752,
+      "sha256": "ba5e3ec917b63c9dba8b46f764c42e295a3cec86641dcf6193b051ccefb7456c"
+    },
+    {
+      "path": "banks/DRUM/SD1SET.bnk",
+      "bytes": 1094,
+      "sha256": "b049d48d207a03aa0fde5e36048dd0148ed46bc79e9c14800938d55acc9bdc00"
+    },
+    {
+      "path": "banks/DRUM/SSGDRUM.bnk",
+      "bytes": 775,
+      "sha256": "31fe6710488ed7db7c9198405f877e8347769ce16b7c4c4fd86f27d0e2aa63ba"
+    },
+    {
+      "path": "banks/DRUM/Y8950FM.bnk",
+      "bytes": 1070,
+      "sha256": "5544e3c78b043bc821707a97efeaddf3e80faf6842053c876cefc4b25bcb8e98"
+    },
+    {
+      "path": "banks/DRUM/Y8950OPNA.bnk",
+      "bytes": 1616,
+      "sha256": "e5e9ab4c737600485235a4266cc21a43d54157de6bb6c7984548759c5601867c"
+    },
+    {
+      "path": "banks/DRUM/Y8950PCM.bnk",
+      "bytes": 1626,
+      "sha256": "230e90424dbbdf380f487434305aefa44d80d98f615e71ec5017e2cc4e385194"
+    },
+    {
+      "path": "banks/DRUM/Y8950SET.bnk",
+      "bytes": 1626,
+      "sha256": "b4da3d5e89199d97b94da1ef8defdf8c9936759607ab8f3a6ead6116a0d3382f"
+    },
+    {
+      "path": "banks/DRUM/YM2610.bnk",
+      "bytes": 1929,
+      "sha256": "ece12286bfc63eb827af2b0ab418bc691cb9cd70bbfaf3d4690ca41a995c3df5"
+    },
+    {
+      "path": "banks/MA3/capital2.bnk",
+      "bytes": 68066,
+      "sha256": "f4e2d8795a55bd2214b025d70e4de032b5fcdafcc9d9247e216eeb56a6d1a011"
+    },
+    {
+      "path": "banks/MA3/default16.bnk",
+      "bytes": 67864,
+      "sha256": "ffb54531f7f0a2f5f1fe405ea896df8352fc47cbf7fafd7d2a29f84aca8e1fea"
+    },
+    {
+      "path": "banks/MA3/drumset.bnk",
+      "bytes": 53996,
+      "sha256": "c64e350c31e5f371c2e1f92faefa22c763c7319c6f193893ad1c9281e583ea12"
+    },
+    {
+      "path": "banks/MA3/variation1.bnk",
+      "bytes": 63416,
+      "sha256": "635322b73db1deffb4181a297888fe7a9587ac0f3b34a0ee278cf51f1a125c9e"
+    },
+    {
+      "path": "banks/MA3/variation2.bnk",
+      "bytes": 64471,
+      "sha256": "96e6fec6a0e5a755b9ced1eb4a98809140a750462556a8a1b19386831f2b74c5"
+    },
+    {
+      "path": "banks/MA3/variation3.bnk",
+      "bytes": 58035,
+      "sha256": "315163f0f0ab7a9e2d6d44f2b35afcb6c4e9e889aeb097e4a5c263d0e20ce478"
+    },
+    {
+      "path": "banks/OPK/MA2EPSE2.fmb",
+      "bytes": 16384,
+      "sha256": "c67a4dee03d9d2ec7ee1afe10facfb7f5cf129e9c097827c5f745161ac57b1f6"
+    },
+    {
+      "path": "banks/OPK/MA2GTBS2.fmb",
+      "bytes": 16384,
+      "sha256": "f46a3a67b6f60536107f14ed347d6ebe982411bc4d520ad7c67540dc283b08d8"
+    },
+    {
+      "path": "banks/OPK/MA2N12OP.fmb",
+      "bytes": 16384,
+      "sha256": "f70ae93b5d4ac3ff64218f1f41c887429857bb2bee6d587089f4120ee54add6b"
+    },
+    {
+      "path": "banks/OPK/MA2N22OP.fmb",
+      "bytes": 16384,
+      "sha256": "4fa9301aca366cdce4e2fa475bdfbf112c18f83dffdbe0208401895315e14c6b"
+    },
+    {
+      "path": "banks/OPK/MA2N32OP.fmb",
+      "bytes": 16384,
+      "sha256": "d6e5561422b4d850af911a988898f309d29f39a709462c77a81bb33de69f7c47"
+    },
+    {
+      "path": "banks/OPK/MA2N42OP.fmb",
+      "bytes": 16384,
+      "sha256": "c2d5f367a57e104fc316030b80b984c411ed524a40ba943059d6cd6324525281"
+    },
+    {
+      "path": "banks/OPK/MA2N52OP.fmb",
+      "bytes": 16384,
+      "sha256": "2fbd2c3780ae880566375ce2806ce74068454a98a111e968dc3a734c0eb188d1"
+    },
+    {
+      "path": "banks/OPK/MA2PBO2.fmb",
+      "bytes": 16384,
+      "sha256": "9dc61379dc81c3ddf0270b1495c30e368caae5dfc43513c5ae01466adbf7e424"
+    },
+    {
+      "path": "banks/OPK/MA2STR2.fmb",
+      "bytes": 16384,
+      "sha256": "179b40a099e5214833656198093a94971d37334484523f4b325a9785d6de5931"
+    },
+    {
+      "path": "banks/OPL2/MA2BA2OP.bnk",
+      "bytes": 44223,
+      "sha256": "92d4e0b465851626f35e45c4fc970ac9879a92257df5fa4549ff95a79e750bbf"
+    },
+    {
+      "path": "banks/OPL2/MA2DI2OP.bnk",
+      "bytes": 44225,
+      "sha256": "bc66d12a927624490b50d39ba4bab694519f7218e0846fddfd4c003899b408c0"
+    },
+    {
+      "path": "banks/OPL2/MA2GM2OP.bnk",
+      "bytes": 40555,
+      "sha256": "11578d248153122b3bc2d9abf2fa9c6eb17493a2fbcb5b6aa84fb82d1f72f3e8"
+    },
+    {
+      "path": "banks/OPL2/MA2LU2OP.bnk",
+      "bytes": 44226,
+      "sha256": "b08e3dd491a151256ebf5d5a6b664ee3bc816594df1cd41b5377eca185fece53"
+    },
+    {
+      "path": "banks/OPL2/MA2MI2OP.bnk",
+      "bytes": 44223,
+      "sha256": "c049871f1f7af4702da088f5c4c8397b27bf9e7d4260bb477d81da7545b4fd3a"
+    },
+    {
+      "path": "banks/OPL2/MSX_SO.bnk",
+      "bytes": 40521,
+      "sha256": "b93855428273627001b0082a03a5f89958dea570a24f0ee4c065e605e85a21bb"
+    },
+    {
+      "path": "banks/OPL3/alsaopl3.bnk",
+      "bytes": 66886,
+      "sha256": "3a808da9b66020f0ef03548e232c9971c2f7c066ec9432e5527b28853d10dbdb"
+    },
+    {
+      "path": "banks/OPL3/BASLUM4M.bnk",
+      "bytes": 65472,
+      "sha256": "f24d2aced22d534ca8d8ace1200c6f356a4ff6697eab834de2ff5daa7807a71e"
+    },
+    {
+      "path": "banks/OPL3/MA2GM4OP.bnk",
+      "bytes": 53871,
+      "sha256": "98f7ea3fa3a482be1e60b28dcc7e3da0162de2871ff2fb6d34e76d95454503e2"
+    },
+    {
+      "path": "banks/OPL3/MICDIG4M.bnk",
+      "bytes": 63380,
+      "sha256": "1529652f60873a29c6dad56d85240dd290029f50f220f3cec11ba8935b568997"
+    },
+    {
+      "path": "banks/OPL3/PREBAS4M.bnk",
+      "bytes": 65471,
+      "sha256": "0d4a2469244cd4857164361d51b57817d51e307eada2f19b2a0d8a7dc47cc8de"
+    },
+    {
+      "path": "banks/OPL3/PRELUM4M.bnk",
+      "bytes": 65474,
+      "sha256": "9cdc846e1a5c523bca46d3f0363bf273446daaedabd081d1d66ef6aebab95479"
+    },
+    {
+      "path": "banks/OPL3/sopre4op.bnk",
+      "bytes": 53704,
+      "sha256": "235ed63cd4082b0ca88136be26603a5943759dddcb62b989fa55a11c95b27c1b"
+    },
+    {
+      "path": "banks/OPLL/alsaopl2.bnk",
+      "bytes": 45126,
+      "sha256": "3bfbb9265cf6897520fd8068c6383133e6147a600597dfe37804d877f7c98af4"
+    },
+    {
+      "path": "banks/OPLL/MSXOPLL.bnk",
+      "bytes": 34375,
+      "sha256": "3da5a0d3fcca285bee36743880199328210483390e2e459c9d95d96189ff0c1c"
+    },
+    {
+      "path": "banks/OPM/dx11all.bnk",
+      "bytes": 84258,
+      "sha256": "10bfacd586ee342eb9bf01e018cde74dbafe5dd04994f572f77ac738c141ba33"
+    },
+    {
+      "path": "banks/OPM/dx21all.bnk",
+      "bytes": 67659,
+      "sha256": "fe7283ca2fd35d860c8b62e4fa4ea202e2cabaca7963fd3a1e0cb4ceb629a441"
+    },
+    {
+      "path": "banks/OPM/dx27pre1.bnk",
+      "bytes": 67632,
+      "sha256": "7e26fe84765e4ad3b002a239146ae6ffaf479a28078f68bf82101b7190ab198d"
+    },
+    {
+      "path": "banks/OPM/dx27pre2.bnk",
+      "bytes": 67795,
+      "sha256": "8d2f862dd19edc600d0d9001d392747411875a35e4fa72ecbee94036c2c0fce8"
+    },
+    {
+      "path": "banks/OPM/fb01pre1.bnk",
+      "bytes": 78645,
+      "sha256": "bd8ba573c8f995476f31350caff57fb4c7f6f7488e45e0dd027d2bbf23a23067"
+    },
+    {
+      "path": "banks/OPM/fb01pre2.bnk",
+      "bytes": 79735,
+      "sha256": "f305a221757b9a0fbd64ca58e3124260734010e82e204b8a62fcb83834279da4"
+    },
+    {
+      "path": "banks/OPM/OPMGMCAP.bnk",
+      "bytes": 67702,
+      "sha256": "0dccd9ce15a08ec68d4496080b2326949691e8f15de18de1f959a31c2f04782e"
+    },
+    {
+      "path": "banks/OPM/opmx68k.bnk",
+      "bytes": 67617,
+      "sha256": "d06471f2f554824ff986f7041fad391529c17b0e99dbe538ccdf8173140f7b1f"
+    },
+    {
+      "path": "banks/OPM/tx81z.bnk",
+      "bytes": 67629,
+      "sha256": "d4f4ede767d2a59fac4e7ace29da46285dc50f297821268a729031664ee1b8dc"
+    },
+    {
+      "path": "banks/OPNA/n88preset.bnk",
+      "bytes": 42185,
+      "sha256": "ff5eecf0e6c3f213626e2b18f6a71746ad5751bfc5deb54046d957585bd89664"
+    },
+    {
+      "path": "banks/OPNA/necopn.bnk",
+      "bytes": 53454,
+      "sha256": "c4cbcf22705250a3573b76fb8bbee7215cfbe272bbcdea57898110f1d2f49a39"
+    },
+    {
+      "path": "banks/OPNA/opnlalf1.bnk",
+      "bytes": 65860,
+      "sha256": "e2e8b71353a37517b3f9f0c57f030fb0a023fe1889ff821ad18d88e3e2e3265a"
+    },
+    {
+      "path": "banks/OPNA/opnlalf2.bnk",
+      "bytes": 53513,
+      "sha256": "d19594f2b7edb61ad3f0dcb6f64bea7dd781e5c77dd5f52185ad41c89d894844"
+    },
+    {
+      "path": "banks/PSG/PSG.bnk",
+      "bytes": 35134,
+      "sha256": "49b786b3d772914e1d128e51d97c4d573560dbd14834aa77d5813d2d7924567a"
+    },
+    {
+      "path": "banks/PSG/sccwave.csv",
+      "bytes": 2204,
+      "sha256": "80de083faf2b27568d4a2fe0c6997bb5d307e4b35c6769a5a4945ee37b1f8601"
+    }
+  ],
+  "license_note": "FITOM code: LGPL-2.1. Bank/sample rights remain with their original authors; no relicensing.",
+  "prepared": true,
+  "upstream": "https://sites.google.com/site/fitomproject/home"
+}

@@ -1,0 +1,23 @@
+[Header]
+Type=RHYTHM
+BankName=OPK Internal Set
+
+[Bank]
+Note35=Acoustic Bass Drum,OPK_R,0,12,35,0,20
+Note36=Bass Drum 1,OPK_R,0,4,36,0,20
+Note37=Side Stick,OPK_R,0,10,37,0,20
+Note38=Acoustic Snare,OPK_R,0,6,38,0,20
+Note40=Electric Snare,OPK_R,0,0,40,0,20
+Note41=Low Floor Tom,OPK_R,0,13,41,0,20
+Note42=Closed Hi Hat,OPK_R,0,1,42,0,20
+Note43=High Floor Tom,OPK_R,0,13,43,0,20
+Note44=Pedal Hi-Hat,OPK_R,0,9,44,0,20
+Note45=Low Tom,OPK_R,0,5,45,0,20
+Note46=Open Hi-Hat,OPK_R,0,2,46,0,20
+Note47=Low-Mid Tom,OPK_R,0,13,47,0,20
+Note48=Hi-Mid Tom,OPK_R,0,5,48,0,20
+Note49=Crash Cymbal 1,OPK_R,0,11,49,0,20
+Note50=High Tom,OPK_R,0,5,50,0,20
+Note51=Ride Cymbal 1,OPK_R,0,3,51,0,20
+Note57=Crash Cymbal 2,OPK_R,0,11,57,0,20
+Note59=Ride Cymbal 2,OPK_R,0,3,59,0,20

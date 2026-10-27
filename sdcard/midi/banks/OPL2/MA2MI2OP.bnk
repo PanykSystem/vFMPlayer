@@ -1,0 +1,1539 @@
+[Header]
+Type=OPL2
+BankName=MA-2 GM Micom
+[Prog0]
+Name=Mi-Grand        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  38   4   2   0   1   2
+OP2=	11  3   7   7  15   0   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog1]
+Name=Mi-Brite        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  38   4   2   0   1   2
+OP2=	15  4   7   7  15   0   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog2]
+Name=Mi-E.Gra        
+;	AL  FB
+ALFB= 0  2
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  36   4   2   0   1   2
+OP2=	15  3   7   7  15   0   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog3]
+Name=Mi-HnkyT        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0   5   4   1   0   0   2
+OP2=	13  3   7   7  15   0   4   8   0   0   3
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog4]
+Name=Mi-E.Pia        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  38   4   2   0   1   2
+OP2=	10  3   7   7  15   0   0   1   0   0   3
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog5]
+Name=Mi-E.Pia        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  38   4   2   0   1   2
+OP2=	12  3   7   7  15   0   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog6]
+Name=Mi-Harps        
+;	AL  FB
+ALFB= 0  6
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  17   4   1   0   0   2
+OP2=	13  5   7   7  15   0   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog7]
+Name=Mi-Clavi        
+;	AL  FB
+ALFB= 0  6
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  17   4   1   0   0   2
+OP2=	15  3  10  10  15   3   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog8]
+Name=Mi-Celes        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  38   4   2   0   1   2
+OP2=	11  4   4   4  15   3   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog9]
+Name=Mi-Glock        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  38   4   2   0   1   2
+OP2=	15  5   4   4  15   1   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog10]
+Name=Mi-Music        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  38   4   2   0   1   2
+OP2=	15  4   4   4  15   3   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog11]
+Name=Mi-Vibes        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  32   4   4   0   4   2
+OP2=	10  4   5   5  15   3   0   1   0   0   3
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     2
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog12]
+Name=Mi-Marim        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  32   4   4   0   4   2
+OP2=	12  6   6   6  15   2   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog13]
+Name=Mi-Xylop        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  32   4   4   0   4   2
+OP2=	12  7   7   7  15   0   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog14]
+Name=Mi-Tubul        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  32   4   4   0   4   2
+OP2=	15  3   3   3  15   1   4   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog15]
+Name=Mi-Dulci        
+;	AL  FB
+ALFB= 0  6
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  24   4   1   0   0   2
+OP2=	15  3   4   4  15   0   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog16]
+Name=Mi-DrawO        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  38   4   2   0   1   2
+OP2=	 9  0   0  10   0   0   0   1   0   0   3
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog17]
+Name=Mi-PercO        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  38   4   2   0   1   2
+OP2=	15  0   0  10   0   0   0   1   0   0   3
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog18]
+Name=Mi-RockO        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  38   4   2   0   1   2
+OP2=	12  0   0  10   0   0   0   1   0   0   3
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     2
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog19]
+Name=Mi-Chrch        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  38   4   2   0   1   2
+OP2=	 7  0   0   4   0   0   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog20]
+Name=Mi-ReedO        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  38   4   2   0   1   2
+OP2=	 7  0   0   9   0   0   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog21]
+Name=Mi-Acord        
+;	AL  FB
+ALFB= 0  6
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  17   4   1   0   0   2
+OP2=	 7  0   0   7   0   5   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog22]
+Name=Mi-Harmn        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  32   4   4   0   4   2
+OP2=	 6  0   0   8   0   4   0   1   0   0   3
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog23]
+Name=Mi-Tango        
+;	AL  FB
+ALFB= 0  6
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  17   4   1   0   0   2
+OP2=	 7  0   0   7   0   6   0   1   0   0   3
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     2
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog24]
+Name=Mi-Nylon        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  38   4   2   0   1   2
+OP2=	10  4   7   7  15   0   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog25]
+Name=Mi-Steel        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  32   4   4   0   4   2
+OP2=	13  4   8   8  15   7   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog26]
+Name=Mi-JazzG        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  38   4   2   0   1   2
+OP2=	11  3   8   8  15   0   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog27]
+Name=Mi-Clean        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  32   4   4   0   4   2
+OP2=	13  4   9   9  15   8   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog28]
+Name=Mi-Mute.        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  38   4   2   0   1   2
+OP2=	10  5  10  10  15   0   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog29]
+Name=Mi-Ovrdr        
+;	AL  FB
+ALFB= 0  6
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  17   4   1   0   0   2
+OP2=	11  2  10  10  15   4   0   1   0   0   3
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog30]
+Name=Mi-Dist.        
+;	AL  FB
+ALFB= 0  6
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  17   4   1   0   0   2
+OP2=	14  2   0  10  15   5   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog31]
+Name=Mi-GtrHa        
+;	AL  FB
+ALFB= 1  2
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  2   9   9  15   0   0   2   0   0   2
+OP2=	 1  0  15  15   0  63   0   1   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog32]
+Name=Mi-Aco.B        
+;	AL  FB
+ALFB= 0  4
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  26   4   2   0   1   2
+OP2=	10  4   9   9  15   0   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog33]
+Name=Mi-FngrB        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  32   4   4   0   4   2
+OP2=	11  2   9   9  15   3   4   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog34]
+Name=Mi-PickB        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   4   0  32   4   4   0   4   2
+OP2=	15  2   6   6  15   3   4   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog35]
+Name=Mi-Fretl        
+;	AL  FB
+ALFB= 0  4
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  27   4   2   0   1   2
+OP2=	 7  2   8   8  15   0   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog36]
+Name=Mi-SlapB        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  32   4   4   0   4   2
+OP2=	15  6  10  10  15   4   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog37]
+Name=Mi-SlapB        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  32   4   4   0   4   2
+OP2=	12  6  10  10  15   0   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog38]
+Name=Mi-SynBa        
+;	AL  FB
+ALFB= 0  6
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  17   4   1   0   0   2
+OP2=	12  0   0  10   0   6   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog39]
+Name=Mi-SynBa        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  32   4   4   0   4   2
+OP2=	15  0   0  10   0   3   4   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog40]
+Name=Mi-Violi        
+;	AL  FB
+ALFB= 0  6
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  17   4   1   0   0   2
+OP2=	 7  0   0   6   0   8   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog41]
+Name=Mi-Viola        
+;	AL  FB
+ALFB= 0  6
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  17   4   1   0   0   2
+OP2=	 6  0   0   7   0   5   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog42]
+Name=Mi-Cello        
+;	AL  FB
+ALFB= 0  6
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  17   4   1   0   0   2
+OP2=	 8  0   0   7   0   6   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog43]
+Name=Mi-Contr        
+;	AL  FB
+ALFB= 0  6
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  17   4   1   0   0   2
+OP2=	 9  0   0   7   0  10   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog44]
+Name=Mi-Trem.        
+;	AL  FB
+ALFB= 0  6
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  17   4   1   0   0   2
+OP2=	 6  0   0   6   0   2   0   1   0   0   3
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     3
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog45]
+Name=Mi-Pizz.        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  38   4   2   0   1   2
+OP2=	12  6   7   7  15   0   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog46]
+Name=Mi-Harp         
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  38   4   2   0   1   2
+OP2=	13  2   5   5  15   0   1   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog47]
+Name=Mi-Timpa        
+;	AL  FB
+ALFB= 0  6
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  17   4   1   0   0   2
+OP2=	12  5   5   5  15   3   0   1   0   0   3
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     2
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog48]
+Name=Mi-Strin        
+;	AL  FB
+ALFB= 0  6
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  17   4   1   0   0   3
+OP2=	 7  0   0   6   0   7   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog49]
+Name=Mi-Strin        
+;	AL  FB
+ALFB= 0  6
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  17   4   1   0   0   3
+OP2=	 5  0   0   5   0   9   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     2
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog50]
+Name=Mi-Syn.S        
+;	AL  FB
+ALFB= 0  6
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  17   4   1   0   0   1
+OP2=	 6  0   0   5   0  10   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     2
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog51]
+Name=Mi-Syn.S        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  32   4   4   0   4   3
+OP2=	 5  0   0   5   0  12   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog52]
+Name=Mi-Choir        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  38   4   2   0   1   2
+OP2=	 7  0   0   6   0   0   0   1   0   0   3
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog53]
+Name=Mi-Voice        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  38   4   2   0   1   2
+OP2=	 6  0   0   6   0   0   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog54]
+Name=Mi-SynVo        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  32   4   4   0   4   3
+OP2=	 6  0   0   6   0   9   0   1   0   0   3
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog55]
+Name=Mi-Orch.        
+;	AL  FB
+ALFB= 0  6
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  17   4   1   0   0   3
+OP2=	15  6   8   8  15   0   0   1   0   0   3
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     2
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog56]
+Name=Mi-Trump        
+;	AL  FB
+ALFB= 0  6
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  17   4   1   0   0   2
+OP2=	12  0   0   7   0   6   0   1   0   0   3
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog57]
+Name=Mi-Tromb        
+;	AL  FB
+ALFB= 0  6
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  17   4   1   0   0   0
+OP2=	 7  0   0   7   0   6   0   1   0   0   3
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     2
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog58]
+Name=Mi-Tuba         
+;	AL  FB
+ALFB= 0  6
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  18   0   1   0   0   2
+OP2=	 7  0   0   8   0  11   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog59]
+Name=Mi-Mute.        
+;	AL  FB
+ALFB= 0  6
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  17   4   1   0   0   2
+OP2=	 9  0   0   9   0   9   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog60]
+Name=Mi-Fr.Ho        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  38   4   2   0   1   2
+OP2=	 7  0   0   6   0   0   0   1   0   0   3
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog61]
+Name=Mi-BrasS        
+;	AL  FB
+ALFB= 0  6
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  17   4   1   0   0   2
+OP2=	13  0   0   7   0   6   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog62]
+Name=Mi-SynBr        
+;	AL  FB
+ALFB= 0  6
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  17   4   1   0   0   2
+OP2=	 9  0   0   6   0   9   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog63]
+Name=Mi-SynBr        
+;	AL  FB
+ALFB= 0  6
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  17   4   1   0   0   2
+OP2=	11  0   0   6   0   9   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog64]
+Name=Mi-Sprno        
+;	AL  FB
+ALFB= 0  6
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  17   4   1   0   0   0
+OP2=	 8  0   0   6   0  10   0   1   0   0   3
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog65]
+Name=Mi-AltoS        
+;	AL  FB
+ALFB= 0  6
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  17   4   1   0   0   2
+OP2=	 9  0   0   6   0   9   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog66]
+Name=Mi-Tenor        
+;	AL  FB
+ALFB= 0  6
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  17   4   1   0   0   2
+OP2=	 7  0   0   6   0  12   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog67]
+Name=Mi-Bari.        
+;	AL  FB
+ALFB= 0  6
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  17   4   1   0   0   2
+OP2=	10  0   0   8   0   6   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog68]
+Name=Mi-Oboe         
+;	AL  FB
+ALFB= 0  6
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  10   4   1   0   0   2
+OP2=	 8  0   0   7   0  10   0   1   0   0   3
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     2
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog69]
+Name=Mi-Eng.H        
+;	AL  FB
+ALFB= 0  6
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  17   4   1   0   0   2
+OP2=	 8  0   0   6   0  10   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     2
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog70]
+Name=Mi-Basso        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  32   4   4   0   4   2
+OP2=	 8  0   0   7   0   8   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog71]
+Name=Mi-Clari        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  32   4   4   0   4   2
+OP2=	 8  0   0   8   0  12   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     2
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog72]
+Name=Mi-Picco        
+;	AL  FB
+ALFB= 1  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 9  0   0   8   0   1   0   1   0   0   2
+OP2=	 1  0  15  15   0  63   0   0   0   0   1
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog73]
+Name=Mi-Flute        
+;	AL  FB
+ALFB= 1  2
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 8  0   0   8   0   1   0   1   0   0   3
+OP2=	 1  0  15  15   0  63   0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog74]
+Name=Mi-Recor        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  38   4   2   0   1   2
+OP2=	 8  0   0   8   0   5   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog75]
+Name=Mi-PanFl        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  38   4   2   0   1   2
+OP2=	 7  0   0   7   0   6   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     2
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog76]
+Name=Mi-Bottl        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  38   4   2   0   1   2
+OP2=	 8  0   0   6   0   9   0   1   0   0   3
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog77]
+Name=Mi-Shakh        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  38   4   2   0   1   2
+OP2=	 5  0   0   7   0   3   0   1   0   0   3
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     2
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog78]
+Name=Mi-Whist        
+;	AL  FB
+ALFB= 1  1
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 5  0   0   7   0   0   0   1   0   0   1
+OP2=	 1  0  15  15   0  63   0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog79]
+Name=Mi-Ocari        
+;	AL  FB
+ALFB= 1  2
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	 7  0   0   7   0   2   0   1   0   0   2
+OP2=	 1  0  15  15   0  63   0   0   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog80]
+Name=Mi-Squar        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  32   4   4   0   4   2
+OP2=	12  0   0   7   0  12   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog81]
+Name=Mi-Saw.L        
+;	AL  FB
+ALFB= 0  6
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  17   4   1   0   0   2
+OP2=	13  0   0   7   0  12   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog82]
+Name=Mi-Calio        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  38   4   2   0   1   2
+OP2=	 8  0   0   7   0   2   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog83]
+Name=Mi-Chiff        
+;	AL  FB
+ALFB= 0  6
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  17   4   1   0   0   2
+OP2=	 8  0   0   7   0   9   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog84]
+Name=Mi-Chara        
+;	AL  FB
+ALFB= 0  6
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  17   4   1   0   0   2
+OP2=	10  2   7   7  15  10   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog85]
+Name=Mi-Voice        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  38   4   2   0   1   2
+OP2=	 8  0   0   6   0   0   0   1   0   0   3
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog86]
+Name=Mi-Fifth        
+;	AL  FB
+ALFB= 0  6
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  17   4   1   0   0   2
+OP2=	 8  0   0   6   0   3   4   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog87]
+Name=Mi-Bass&        
+;	AL  FB
+ALFB= 0  6
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  17   4   1   0   0   2
+OP2=	13  0   0   7   0   2   4   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog88]
+Name=Mi-NewAg        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  38   4   2   0   1   2
+OP2=	 6  0   0   5   0   0   0   1   0   0   3
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog89]
+Name=Mi-WarmP        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  38   4   2   0   1   2
+OP2=	 3  0   0   4   0   3   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog90]
+Name=Mi-PolyS        
+;	AL  FB
+ALFB= 0  6
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  17   4   1   0   0   2
+OP2=	 9  0   0   5   0   9   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog91]
+Name=Mi-Choir        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  38   4   2   0   1   2
+OP2=	 7  0   0   4   0   0   0   1   0   0   3
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog92]
+Name=Mi-Bowed        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  38   4   2   0   1   2
+OP2=	 3  0   0   5   0   3   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog93]
+Name=Mi-Metal        
+;	AL  FB
+ALFB= 0  6
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  17   4   1   0   0   2
+OP2=	 3  0   0   5   0   9   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog94]
+Name=Mi-HaloP        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  38   4   2   0   1   2
+OP2=	 8  0   0   4   0   0   0   1   0   0   3
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog95]
+Name=Mi-Sweep        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  38   4   2   0   1   2
+OP2=	 2  0   0   4   0   0   0   1   0   0   3
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog96]
+Name=Mi-Rain         
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  32   4   4   0   4   2
+OP2=	15  2   0   4   6   4   0   1   0   0   3
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog97]
+Name=Mi-Sound        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  38   4   2   0   1   2
+OP2=	 3  0   0   4   0   0   0   1   0   0   3
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog98]
+Name=Mi-Cryst        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  32   4   4   0   4   2
+OP2=	12  5   5   5  15   7   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog99]
+Name=Mi-Atmos        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  38   4   2   0   1   3
+OP2=	10  2   0   4   3   2   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog100]
+Name=Mi-Brigh        
+;	AL  FB
+ALFB= 0  6
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  17   4   1   0   0   2
+OP2=	15  3   4   4  15   7   0   1   0   0   3
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog101]
+Name=Mi-Gobli        
+;	AL  FB
+ALFB= 0  2
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  38   4   2   0   1   3
+OP2=	 3  0   0   5   0   2   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog102]
+Name=Mi-Echoe        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  38   4   2   0   1   3
+OP2=	 5  2   0   4   3   0   0   1   0   0   3
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog103]
+Name=Mi-Sci-F        
+;	AL  FB
+ALFB= 0  6
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  17   4   1   0   0   2
+OP2=	 5  0   0   4   0   8   0   1   0   0   3
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     0
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog104]
+Name=Mi-Sitar        
+;	AL  FB
+ALFB= 0  6
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  17   4   1   0   0   2
+OP2=	12  1   0   3   8   9   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog105]
+Name=Mi-Banjo        
+;	AL  FB
+ALFB= 0  6
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  17   4   1   0   0   2
+OP2=	12  5   5   5  15   5   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog106]
+Name=Mi-Shami        
+;	AL  FB
+ALFB= 0  6
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  17   4   1   0   0   2
+OP2=	15  6   6   6  15   4   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog107]
+Name=Mi-Koto         
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  32   4   4   0   4   2
+OP2=	15  3   3   3  15   7   1   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog108]
+Name=Mi-Kalim        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  38   4   2   0   1   2
+OP2=	13  6   6   6  15   0   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog109]
+Name=Mi-Bagpi        
+;	AL  FB
+ALFB= 0  6
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  17   4   1   0   0   2
+OP2=	 8  0   0   8   0   8   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     2
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog110]
+Name=Mi-Fiddl        
+;	AL  FB
+ALFB= 0  6
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  17   4   1   0   0   2
+OP2=	 7  0   0   8   0   8   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog111]
+Name=Mi-Shana        
+;	AL  FB
+ALFB= 0  6
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  17   4   1   0   0   2
+OP2=	11  0   0   8   0   4   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog112]
+Name=Mi-TnklB        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  38   4   2   0   1   2
+OP2=	10  4   5   5  15   0   0   1   0   0   3
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog113]
+Name=Mi-Agogo        
+;	AL  FB
+ALFB= 0  6
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  17   4   4   0   0   2
+OP2=	15  7   6   6  15   6   0   2   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog114]
+Name=Mi-Steel        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  38   4   4   0   4   3
+OP2=	13  5   5   5  15   0   0   1   0   0   3
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog115]
+Name=Mi-WoodB        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  32   4   4   0   4   2
+OP2=	12  8   7   7  15   0   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog116]
+Name=Mi-Taiko        
+;	AL  FB
+ALFB= 0  6
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  17   4   1   0   0   2
+OP2=	12  5   5   5  15   8   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     2
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog117]
+Name=Mi-Melod        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  38   4   2   0   1   2
+OP2=	11  5   6   6  15   0   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog118]
+Name=Mi-Syn.D        
+;	AL  FB
+ALFB= 0  6
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  17   4   1   0   0   3
+OP2=	10  6   7   7  15   0   0   1   0   0   2
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     3
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog119]
+Name=Mi-RevCy        
+;	AL  FB
+ALFB= 0  7
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0   0   0  15   0   0   0
+OP2=	 2  1  15  15   1  10   0  15   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog120]
+Name=Mi-FretN        
+;	AL  FB
+ALFB= 0  7
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0   0   0  15   0   0   0
+OP2=	 8  5   7   7   3  15   0  15   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog121]
+Name=Mi-BrthN        
+;	AL  FB
+ALFB= 0  7
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   1   0   0   0  15   0   0   0
+OP2=	 7 10   7   7   2   9   0  15   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog122]
+Name=Mi-Seash        
+;	AL  FB
+ALFB= 0  7
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0   0   0  15   0   0   0
+OP2=	 2  0   0   3   0  13   0  15   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog123]
+Name=Mi-Tweet        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  38   4   8   0   1   3
+OP2=	 5  8   7   7  15   2   0   4   0   0   3
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     3
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog124]
+Name=Mi-Telph        
+;	AL  FB
+ALFB= 0  0
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0  32   4   4   0   4   2
+OP2=	15  6   5   5  15   3   0   1   0   0   3
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     3
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog125]
+Name=Mi-Helic        
+;	AL  FB
+ALFB= 0  7
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0   0   0  15   0   0   1
+OP2=	 9  0   0   4   0  10   0  15   0   0   1
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     3
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog126]
+Name=Mi-Appla        
+;	AL  FB
+ALFB= 0  7
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0   0   0  15   0   0   0
+OP2=	 3  0   0   4   0  12   0  15   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
+[Prog127]
+Name=Mi-Gunsh        
+;	AL  FB
+ALFB= 0  7
+;	AR  DR  SR  RR  SL  TL  KS  ML  DT  WS AMV
+OP1=	15  0   0   0   0   0   0  15   0   0   0
+OP2=	15  5   5   5  15   5   0  15   0   0   0
+; Waveform Delay Rate  Depth Freq
+LFO0=     0     0     0     0     1
+LFO1=     0     0     0     0     0
+LFO2=     0     0     0     0     0
+
